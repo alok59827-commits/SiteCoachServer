@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-deepgram-sdk
+deepgram-sdk==4.8.0
 groq
 python-multipart
