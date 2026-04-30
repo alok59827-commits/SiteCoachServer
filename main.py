@@ -14,13 +14,13 @@ groq_client = Groq(api_key=GROQ_API_KEY)
 
 @app.get("/")
 def read_root():
-    return {"status": "Site Coach Server is Running with Custom Language Output! 🌍🚀"}
+    return {"status": "Site Coach Server is Running with Fixed JSON! 🌍🚀"}
 
 @app.post("/upload-audio")
 async def analyze_audio(
     file: UploadFile = File(...),
     audience: str = Form("Peer/Colleague"),
-    output_language: str = Form("Hindi") # 🚨 नया फीचर: यूज़र बताएगा आउटपुट किस भाषा में चाहिए
+    output_language: str = Form("Hindi")
 ):
     try:
         audio_data = await file.read()
@@ -28,7 +28,7 @@ async def analyze_audio(
         payload = {"buffer": audio_data}
         options = PrerecordedOptions(
             model="nova-2",
-            detect_language=True, # ऑडियो किसी भी भाषा में हो, ये समझ लेगा
+            detect_language=True,
             smart_format=True,
             diarize=True,
             keywords=["DBL", "जल निगम", "Rising main", "Shuttering", "JCB", "Contractor", "Panchayat", "Plinth", "PCC"]
@@ -70,19 +70,24 @@ async def analyze_audio(
         words_list = transcript.split()
         llama_transcript = " ".join(words_list[:250]) + "..." if len(words_list) > 250 else transcript
 
-        # 🚨 AI को सख्त निर्देश: आउटपुट सिर्फ उसी भाषा में दो जो यूज़र ने मांगी है
+        # 🚨 यहाँ हमने बीमारी का पक्का इलाज कर दिया है
         system_prompt = f"""You are a strict communication coach for Site Engineers.
 The engineer in the audio is talking to their: '{audience}'.
 
-CRITICAL LANGUAGE RULE: 
-You MUST provide all your feedback (mistakes, improvements, action_items, summary, learn_points) STRICTLY AND ONLY in: {output_language}.
-- If {output_language} is "Hindi", use natural Devanagari script.
-- If {output_language} is "Hinglish", use Hindi vocabulary written in the English alphabet (e.g., "Aapka tone aggressive tha").
-- If {output_language} is "English", use professional English.
-DO NOT mix languages or use any other language.
+CRITICAL RULES:
+1. LANGUAGE: You MUST provide all text STRICTLY in: {output_language}.
+2. SCORE FORMAT: The 'score' MUST be a single integer number between 0 and 100 (e.g., 65). DO NOT write fractions like '6/10'.
+3. JSON FORMAT: Your output MUST be a valid JSON object. Do not include trailing commas.
 
-Provide max 3-4 points for lists.
-Output MUST be strictly JSON with english keys: score, mistakes, improvements, action_items, summary, learn_points."""
+EXPECTED JSON STRUCTURE:
+{{
+  "score": 65,
+  "mistakes": ["mistake 1", "mistake 2"],
+  "improvements": ["improvement 1", "improvement 2"],
+  "action_items": ["action 1"],
+  "summary": "Short summary text here.",
+  "learn_points": ["tip 1", "tip 2"]
+}}"""
 
         chat_completion = groq_client.chat.completions.create(
             messages=[
