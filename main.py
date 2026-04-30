@@ -6,7 +6,6 @@ import json
 
 app = FastAPI()
 
-# API Keys
 DEEPGRAM_API_KEY = os.environ.get("DEEPGRAM_API_KEY")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
@@ -15,12 +14,13 @@ groq_client = Groq(api_key=GROQ_API_KEY)
 
 @app.get("/")
 def read_root():
-    return {"status": "Site Coach Server is Running! 🚀"}
+    return {"status": "Site Coach Server is Running with Custom Language Output! 🌍🚀"}
 
 @app.post("/upload-audio")
 async def analyze_audio(
     file: UploadFile = File(...),
-    audience: str = Form("Peer/Colleague") # नया फीचर: बात किससे हो रही है
+    audience: str = Form("Peer/Colleague"),
+    output_language: str = Form("Hindi") # 🚨 नया फीचर: यूज़र बताएगा आउटपुट किस भाषा में चाहिए
 ):
     try:
         audio_data = await file.read()
@@ -28,9 +28,10 @@ async def analyze_audio(
         payload = {"buffer": audio_data}
         options = PrerecordedOptions(
             model="nova-2",
-            language="hi",
+            detect_language=True, # ऑडियो किसी भी भाषा में हो, ये समझ लेगा
             smart_format=True,
-            diarize=True
+            diarize=True,
+            keywords=["DBL", "जल निगम", "Rising main", "Shuttering", "JCB", "Contractor", "Panchayat", "Plinth", "PCC"]
         )
         response = deepgram.listen.rest.v("1").transcribe_file(payload, options)
         
@@ -69,21 +70,19 @@ async def analyze_audio(
         words_list = transcript.split()
         llama_transcript = " ".join(words_list[:250]) + "..." if len(words_list) > 250 else transcript
 
-        # 3. प्रॉम्प्ट में Audience का जादू
-        system_prompt = f"""You are a professional communication coach for Site Engineers.
-The engineer in the audio is talking to their: '{audience}'. 
-Adjust your grading and feedback STRICTLY based on this relationship.
-- If talking to a Senior/Boss: Check for extreme respect, clear updates, and no casual slang.
-- If talking to a Junior/Labour: Check for clear leadership, precise instructions, and authoritative yet respectful tone.
-- If talking to a Peer/Contractor: Check for clear negotiation and mutual respect.
+        # 🚨 AI को सख्त निर्देश: आउटपुट सिर्फ उसी भाषा में दो जो यूज़र ने मांगी है
+        system_prompt = f"""You are a strict communication coach for Site Engineers.
+The engineer in the audio is talking to their: '{audience}'.
 
-Provide a score (0-100).
-CRITICAL RULES:
-1. Provide max 3-4 points for mistakes, improvements, and action_items.
-2. Provide a 'summary' (2-3 sentences).
-3. Provide 'learn_points' (2 tips).
-4. Output MUST be strictly JSON with keys: score, mistakes, improvements, action_items, summary, learn_points.
-5. All text MUST be in natural Hindi."""
+CRITICAL LANGUAGE RULE: 
+You MUST provide all your feedback (mistakes, improvements, action_items, summary, learn_points) STRICTLY AND ONLY in: {output_language}.
+- If {output_language} is "Hindi", use natural Devanagari script.
+- If {output_language} is "Hinglish", use Hindi vocabulary written in the English alphabet (e.g., "Aapka tone aggressive tha").
+- If {output_language} is "English", use professional English.
+DO NOT mix languages or use any other language.
+
+Provide max 3-4 points for lists.
+Output MUST be strictly JSON with english keys: score, mistakes, improvements, action_items, summary, learn_points."""
 
         chat_completion = groq_client.chat.completions.create(
             messages=[
