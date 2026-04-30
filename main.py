@@ -52,7 +52,7 @@ async def analyze_audio(file: UploadFile = File(...)):
             model="llama-3.1-8b-instant",
             response_format={"type": "json_object"},
             temperature=0.0,
-            max_tokens=4096
+            max_tokens=8192
         )
         
         result_json = json.loads(chat_completion.choices[0].message.content)
