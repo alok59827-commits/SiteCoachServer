@@ -49,7 +49,7 @@ async def analyze_audio(file: UploadFile = File(...)):
                     "content": transcript
                 }
             ],
-            model="llama-3.1-8b-instant"",
+            model="llama-3.1-8b-instant",
             response_format={"type": "json_object"},
             temperature=0.0,
             max_tokens=1024
