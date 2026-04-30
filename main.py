@@ -6,38 +6,38 @@ import json
 
 app = FastAPI()
 
-# API Keys (हम इन्हें बाद में वेबसाइट पर सुरक्षित तरीके से डालेंगे, यहाँ नहीं)
+# API Keys 
 DEEPGRAM_API_KEY = os.environ.get("DEEPGRAM_API_KEY")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
-# Clients (औज़ार) चालू करना
 deepgram = DeepgramClient(DEEPGRAM_API_KEY)
 groq_client = Groq(api_key=GROQ_API_KEY)
 
-# यह चेक करने के लिए कि सर्वर चल रहा है या नहीं
 @app.get("/")
 def read_root():
     return {"status": "Site Coach Server is Running Like a Rocket! 🚀"}
 
-# ऑडियो अपलोड वाला मेन फंक्शन
 @app.post("/upload-audio")
 async def analyze_audio(file: UploadFile = File(...)):
     try:
-        # 1. ऐप से आई हुई ऑडियो फाइल को पढ़ें
+        # 1. ऑडियो फाइल पढ़ें
         audio_data = await file.read()
         
-        # 2. Deepgram को फाइल भेजें (सफाई और एकदम सटीक टेक्स्ट के लिए)
+        # 2. Deepgram से टेक्स्ट निकालें
         payload = {"buffer": audio_data}
         options = PrerecordedOptions(
             model="nova-2",
             language="hi",
             smart_format=True,
-            diarize=True # यह अलग-अलग आवाज़ों को पहचानेगा
+            diarize=True
         )
         response = deepgram.listen.rest.v("1").transcribe_file(payload, options)
         transcript = response.results.channels[0].alternatives[0].transcript
         
-        # 3. Groq (Llama 3) को टेक्स्ट भेजें (कोचिंग के लिए)
+        # ---> सेफ्टी ब्रेक (लिमिट पार होने से रोकने के लिए) <---
+        transcript = transcript[:12000] 
+        
+        # 3. Llama 3.1 को टेक्स्ट भेजें
         chat_completion = groq_client.chat.completions.create(
             messages=[
                 {
@@ -49,15 +49,14 @@ async def analyze_audio(file: UploadFile = File(...)):
                     "content": transcript
                 }
             ],
-            model="llama-3.1-8b-instant",
+            model="llama-3.1-8b-instant", # नया और फास्ट मॉडल
             response_format={"type": "json_object"},
             temperature=0.0,
-            max_tokens=8192
+            max_tokens=2000 # यह हमारी टोकन लिमिट है
         )
         
         result_json = json.loads(chat_completion.choices[0].message.content)
         
-        # 4. फाइनल जवाब वापस Android ऐप को दें
         return {
             "success": True,
             "transcript": transcript,
