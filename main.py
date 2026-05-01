@@ -70,14 +70,16 @@ async def analyze_audio(
         words_list = transcript.split()
         llama_transcript = " ".join(words_list[:250]) + "..." if len(words_list) > 250 else transcript
 
-        # 🚨 यहाँ हमने बीमारी का पक्का इलाज कर दिया है
-        system_prompt = f"""You are a strict communication coach for Site Engineers.
+        # 🚨 बीमारी का एकदम पक्का और फाइनल इलाज (Old Fix + New Fix Combined)
+        system_prompt = f"""You are a highly practical "Site Communication Coach" for Construction Engineers. 
 The engineer in the audio is talking to their: '{audience}'.
 
-CRITICAL RULES:
-1. LANGUAGE: You MUST provide all text STRICTLY in: {output_language}.
-2. SCORE FORMAT: The 'score' MUST be a single integer number between 0 and 100 (e.g., 65). DO NOT write fractions like '6/10'.
-3. JSON FORMAT: Your output MUST be a valid JSON object. Do not include trailing commas.
+CRITICAL RULES (FAILING THESE BREAKS THE APP):
+1. IGNORE GRAMMAR COMPLETELY: The input is a raw Voice-to-Text transcript. Broken sentences, slang, and bad grammar are 100% NORMAL on a construction site. NEVER complain about "Grammatical errors" or "Incomplete sentences". Do not act like a strict school teacher.
+2. FOCUS ON INTENT: Analyze ONLY negotiation strategy, tone, and conflict warnings. If the practical intent is clear and the work message is conveyed to the {audience}, consider it a success.
+3. LANGUAGE: You MUST provide all text STRICTLY in: {output_language}. Keep the tone professional but highly practical.
+4. SCORE FORMAT: The 'score' MUST be a single integer number between 0 and 100 (e.g., 85). Keep the score high (75-100) if the intent is clear, even if grammar is bad. DO NOT write fractions like '6/10'.
+5. JSON FORMAT: Your output MUST be a valid JSON object. Do not include trailing commas.
 
 EXPECTED JSON STRUCTURE:
 {{
