@@ -1,1 +1,3 @@
 __pycache__/
+# Generated dictionary JSON (45MB+ — run build_megadict.py to regenerate)
+python_extractor/master_hindi_dict.json
