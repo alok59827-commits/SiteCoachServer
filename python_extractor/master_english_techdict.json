@@ -1,0 +1,3710 @@
+[
+  {
+    "word": "3D Printing",
+    "meaning": "त्रिआयामी वस्तुएँ छापने की तकनीक",
+    "synonyms": "Additive manufacturing",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "5G",
+    "meaning": "पाँचवीं पीढ़ी का मोबाइल नेटवर्क",
+    "synonyms": "Fifth generation network",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "ABS",
+    "meaning": "ब्रेक लगाने पर पहिए लॉक न होने देने वाली प्रणाली",
+    "synonyms": "Anti-lock Braking System",
+    "category": "Transport"
+  },
+  {
+    "word": "Acceleration",
+    "meaning": "गति में वृद्धि की दर",
+    "synonyms": "त्वरण",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Account",
+    "meaning": "बैंक खाता",
+    "synonyms": "Bank account, Khata",
+    "category": "Finance"
+  },
+  {
+    "word": "Accreditation",
+    "meaning": "शैक्षणिक संस्था की मान्यता",
+    "synonyms": "NAAC, Recognition",
+    "category": "Education"
+  },
+  {
+    "word": "Acquittal",
+    "meaning": "अदालत द्वारा बरी करना/दोषमुक्त",
+    "synonyms": "Not guilty",
+    "category": "Legal"
+  },
+  {
+    "word": "Affidavit",
+    "meaning": "शपथ पत्र - कसम खाकर दिया गया बयान",
+    "synonyms": "Sworn statement",
+    "category": "Legal"
+  },
+  {
+    "word": "Aggregate",
+    "meaning": "कंक्रीट में मिलाई जाने वाली गिट्टी/बजरी",
+    "synonyms": "Gravel, Ballast, Gitti",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Agile",
+    "meaning": "तेज़ और लचीले सॉफ्टवेयर विकास की पद्धति",
+    "synonyms": "Sprint-based",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "AI",
+    "meaning": "कृत्रिम बुद्धिमत्ता - मशीन द्वारा सोचने जैसा काम",
+    "synonyms": "Artificial Intelligence",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "AICTE",
+    "meaning": "तकनीकी शिक्षा का नियामक",
+    "synonyms": "All India Council for Technical Education",
+    "category": "Education"
+  },
+  {
+    "word": "Air Force",
+    "meaning": "वायुसेना",
+    "synonyms": "IAF",
+    "category": "Military"
+  },
+  {
+    "word": "Airbag",
+    "meaning": "दुर्घटना में सुरक्षा का हवा वाला थैला",
+    "synonyms": "Safety bag",
+    "category": "Transport"
+  },
+  {
+    "word": "Airstrike",
+    "meaning": "हवाई हमला",
+    "synonyms": "Bombing, Air raid",
+    "category": "Military"
+  },
+  {
+    "word": "Algorithm",
+    "meaning": "किसी समस्या को हल करने के चरणबद्ध निर्देश",
+    "synonyms": "Logic, Method",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Alimony",
+    "meaning": "तलाक के बाद पत्नी को दिया जाने वाला भरण-पोषण",
+    "synonyms": "Maintenance",
+    "category": "Legal"
+  },
+  {
+    "word": "Allergy",
+    "meaning": "किसी चीज़ से शरीर की प्रतिकूल प्रतिक्रिया",
+    "synonyms": "Sensitivity, Reaction",
+    "category": "Medical"
+  },
+  {
+    "word": "Aluminium",
+    "meaning": "हल्की धातु जो खिड़की/दरवाजों में लगती है",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Ambulance",
+    "meaning": "रोगी को अस्पताल ले जाने वाली गाड़ी",
+    "synonyms": "Emergency vehicle",
+    "category": "Medical"
+  },
+  {
+    "word": "Ammunition",
+    "meaning": "गोला-बारूद",
+    "synonyms": "Ammo, Munitions",
+    "category": "Military"
+  },
+  {
+    "word": "Analytics",
+    "meaning": "डेटा विश्लेषण/आँकड़े",
+    "synonyms": "Insights, Statistics",
+    "category": "Media"
+  },
+  {
+    "word": "Anchor",
+    "meaning": "समाचार प्रस्तुतकर्ता",
+    "synonyms": "News reader, Presenter",
+    "category": "Media"
+  },
+  {
+    "word": "Anesthesia",
+    "meaning": "ऑपरेशन में दर्द रोकने की दवा/प्रक्रिया",
+    "synonyms": "Sedation, Numbing",
+    "category": "Medical"
+  },
+  {
+    "word": "Antibiotic",
+    "meaning": "जीवाणु संक्रमण रोकने वाली दवाई",
+    "synonyms": "Antibacterial",
+    "category": "Medical"
+  },
+  {
+    "word": "Anticipatory Bail",
+    "meaning": "गिरफ्तारी से पहले की अग्रिम जमानत",
+    "synonyms": "Advance bail",
+    "category": "Legal"
+  },
+  {
+    "word": "API",
+    "meaning": "दो सॉफ्टवेयर को जोड़ने का तरीका",
+    "synonyms": "Application Programming Interface",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "APMC",
+    "meaning": "कृषि उपज मंडी समिति",
+    "synonyms": "Mandi, Agriculture Produce Market Committee",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Appeal",
+    "meaning": "निचली अदालत के फैसले के खिलाफ ऊपरी अदालत में अपील",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "Approval",
+    "meaning": "सरकारी मंजूरी/अनुमोदन",
+    "synonyms": "Sanction, Permission",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Arbitration",
+    "meaning": "पंच फैसला - अदालत के बाहर विवाद निपटान",
+    "synonyms": "Mediation",
+    "category": "Legal"
+  },
+  {
+    "word": "Artillery",
+    "meaning": "तोपखाना/भारी हथियार विभाग",
+    "synonyms": "Cannon, Guns",
+    "category": "Military"
+  },
+  {
+    "word": "Asphalt",
+    "meaning": "सड़क की काली परत/बिटुमिन मिश्रण",
+    "synonyms": "Bitumen, Tar, Blacktop",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Asset",
+    "meaning": "संपत्ति/परिसंपत्ति",
+    "synonyms": "Property, Holdings",
+    "category": "Finance"
+  },
+  {
+    "word": "Assignment",
+    "meaning": "गृहकार्य/प्रोजेक्ट",
+    "synonyms": "Homework",
+    "category": "Education"
+  },
+  {
+    "word": "Atom",
+    "meaning": "पदार्थ का सबसे छोटा कण",
+    "synonyms": "Parmanu",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Audit",
+    "meaning": "खातों की जाँच/लेखा परीक्षा",
+    "synonyms": "Inspection, Review",
+    "category": "Finance"
+  },
+  {
+    "word": "Backend",
+    "meaning": "सॉफ्टवेयर का पीछे चलने वाला सर्वर हिस्सा",
+    "synonyms": "Server-side",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Backfill",
+    "meaning": "खुदाई के बाद मिट्टी वापस भरना",
+    "synonyms": "Refilling, Earth filling",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Bail",
+    "meaning": "जमानत - अभियुक्त की रिहाई",
+    "synonyms": "Surety",
+    "category": "Legal"
+  },
+  {
+    "word": "Balance Sheet",
+    "meaning": "किसी समय की संपत्ति-देनदारी का विवरण",
+    "synonyms": "Financial statement",
+    "category": "Finance"
+  },
+  {
+    "word": "Balustrade",
+    "meaning": "सीढ़ी/बालकनी की रेलिंग",
+    "synonyms": "Handrail, Railing, Bannister",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Bandwidth",
+    "meaning": "इंटरनेट की डेटा ले जाने की क्षमता",
+    "synonyms": "Speed, Data rate",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Bank",
+    "meaning": "बैंक - पैसा जमा करने और उधार देने की संस्था",
+    "synonyms": "",
+    "category": "Finance"
+  },
+  {
+    "word": "Bankruptcy",
+    "meaning": "दिवालियापन - कर्ज़ चुकाने में असमर्थता",
+    "synonyms": "Insolvency",
+    "category": "Finance"
+  },
+  {
+    "word": "Bar Chart",
+    "meaning": "कार्य अनुसूची दर्शाने वाला चार्ट",
+    "synonyms": "Gantt chart",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Barracks",
+    "meaning": "सैनिकों के रहने की जगह",
+    "synonyms": "Military camp",
+    "category": "Military"
+  },
+  {
+    "word": "Battalion",
+    "meaning": "सेना की एक टुकड़ी (लगभग 800-1000 सैनिक)",
+    "synonyms": "Paltan",
+    "category": "Military"
+  },
+  {
+    "word": "Battery",
+    "meaning": "विद्युत ऊर्जा संचित करने वाला उपकरण",
+    "synonyms": "Cell, Accumulator",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Beam",
+    "meaning": "भवन का क्षैतिज भार वहन करने वाला ढाँचा",
+    "synonyms": "Girder, Lintel",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Benchmark",
+    "meaning": "ऊँचाई मापने का संदर्भ बिंदु",
+    "synonyms": "Reference point, BM",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Biopsy",
+    "meaning": "जाँच के लिए शरीर से ऊतक का टुकड़ा निकालना",
+    "synonyms": "Tissue test",
+    "category": "Medical"
+  },
+  {
+    "word": "Biotechnology",
+    "meaning": "जैविक प्रक्रियाओं का तकनीकी उपयोग",
+    "synonyms": "Biotech",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Bitumen",
+    "meaning": "सड़क बनाने में इस्तेमाल होने वाला काला चिपचिपा पदार्थ",
+    "synonyms": "Asphalt, Tar",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Block",
+    "meaning": "सीमेंट/कंक्रीट का बड़ा ब्लॉक जो ईंट की जगह इस्तेमाल होता है",
+    "synonyms": "Hollow block, Solid block",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Blockchain",
+    "meaning": "विकेन्द्रीकृत डिजिटल लेनदेन की तकनीक",
+    "synonyms": "Distributed ledger",
+    "category": "Finance"
+  },
+  {
+    "word": "Blood Pressure",
+    "meaning": "रक्तचाप - धमनियों में खून का दबाव",
+    "synonyms": "BP",
+    "category": "Medical"
+  },
+  {
+    "word": "Blueprint",
+    "meaning": "भवन का विस्तृत नक्शा/डिज़ाइन",
+    "synonyms": "Plan, Drawing, Layout",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Bluetooth",
+    "meaning": "कम दूरी का वायरलेस कनेक्शन",
+    "synonyms": "BT",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "BMI",
+    "meaning": "शरीर का वजन और लंबाई का अनुपात",
+    "synonyms": "Body Mass Index",
+    "category": "Medical"
+  },
+  {
+    "word": "BNS",
+    "meaning": "भारतीय न्याय संहिता (नया कानून 2023)",
+    "synonyms": "Bharatiya Nyaya Sanhita",
+    "category": "Legal"
+  },
+  {
+    "word": "Bond",
+    "meaning": "सरकार/कंपनी का ऋण पत्र",
+    "synonyms": "Debenture",
+    "category": "Finance"
+  },
+  {
+    "word": "Booster",
+    "meaning": "टीके की अतिरिक्त खुराक",
+    "synonyms": "Booster dose",
+    "category": "Medical"
+  },
+  {
+    "word": "BOQ",
+    "meaning": "निर्माण सामग्री और काम की मात्रा का विवरण",
+    "synonyms": "Bill of Quantities",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Border",
+    "meaning": "सीमा/सरहद",
+    "synonyms": "Frontier, LOC",
+    "category": "Military"
+  },
+  {
+    "word": "Bore Well",
+    "meaning": "जमीन में गहरा छेद कर पानी निकालने का कुआँ",
+    "synonyms": "Tube well, Boring",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Boundary",
+    "meaning": "क्रिकेट में चौका",
+    "synonyms": "Four",
+    "category": "Sports"
+  },
+  {
+    "word": "Breaking News",
+    "meaning": "ताज़ा खबर/तत्काल समाचार",
+    "synonyms": "Flash news",
+    "category": "Media"
+  },
+  {
+    "word": "Brick",
+    "meaning": "ईंट - पकी हुई मिट्टी का टुकड़ा",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Brigade",
+    "meaning": "कई बटालियनों का समूह",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Broadcast",
+    "meaning": "प्रसारण - रेडियो/टीवी पर कार्यक्रम भेजना",
+    "synonyms": "Telecast, Transmission",
+    "category": "Media"
+  },
+  {
+    "word": "BSE",
+    "meaning": "बॉम्बे स्टॉक एक्सचेंज",
+    "synonyms": "Bombay Stock Exchange",
+    "category": "Finance"
+  },
+  {
+    "word": "Budget",
+    "meaning": "बजट - आय-व्यय की योजना",
+    "synonyms": "Financial plan",
+    "category": "Finance"
+  },
+  {
+    "word": "Built-up Area",
+    "meaning": "दीवारों सहित भवन का कुल क्षेत्रफल",
+    "synonyms": "Constructed area",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Bulldozer",
+    "meaning": "मिट्टी हटाने/समतल करने वाली भारी मशीन",
+    "synonyms": "Dozer, Earthmover",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Bullet Train",
+    "meaning": "अत्यधिक तेज़ गति की ट्रेन",
+    "synonyms": "High speed rail",
+    "category": "Transport"
+  },
+  {
+    "word": "Bund",
+    "meaning": "खेत के चारों ओर मिट्टी का मेड़/बाँध",
+    "synonyms": "Embankment, Levee",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Bunker",
+    "meaning": "सुरक्षित भूमिगत ठिकाना",
+    "synonyms": "Shelter",
+    "category": "Military"
+  },
+  {
+    "word": "Calorie",
+    "meaning": "भोजन में ऊर्जा की इकाई",
+    "synonyms": "Kcal",
+    "category": "Medical"
+  },
+  {
+    "word": "Camouflage",
+    "meaning": "छद्मावरण - दुश्मन से छिपने की तकनीक",
+    "synonyms": "Disguise",
+    "category": "Military"
+  },
+  {
+    "word": "Campus",
+    "meaning": "विश्वविद्यालय/कॉलेज का परिसर",
+    "synonyms": "",
+    "category": "Education"
+  },
+  {
+    "word": "Canal",
+    "meaning": "सिंचाई नहर",
+    "synonyms": "Irrigation channel",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Canopy",
+    "meaning": "प्रवेश द्वार पर छाया/शेड",
+    "synonyms": "Porch, Awning, Chajja",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Capital",
+    "meaning": "पूंजी/धन",
+    "synonyms": "Funds, Investment",
+    "category": "Finance"
+  },
+  {
+    "word": "Capsule",
+    "meaning": "कैप्सूल वाली दवाई",
+    "synonyms": "",
+    "category": "Medical"
+  },
+  {
+    "word": "Captain",
+    "meaning": "टीम का कप्तान",
+    "synonyms": "Skipper",
+    "category": "Sports"
+  },
+  {
+    "word": "Carbon Footprint",
+    "meaning": "कार्बन उत्सर्जन की मात्रा",
+    "synonyms": "Emission",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Cardiologist",
+    "meaning": "हृदय रोग विशेषज्ञ",
+    "synonyms": "Heart specialist",
+    "category": "Medical"
+  },
+  {
+    "word": "Cargo",
+    "meaning": "माल/सामान जो एक जगह से दूसरी जगह भेजा जाता है",
+    "synonyms": "Freight, Shipment",
+    "category": "Transport"
+  },
+  {
+    "word": "Carpenter",
+    "meaning": "लकड़ी का काम करने वाला कारीगर",
+    "synonyms": "Barhai, Woodworker",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Carpet Area",
+    "meaning": "दीवारों के बिना कमरे का उपयोगी क्षेत्रफल",
+    "synonyms": "Usable area",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Cashback",
+    "meaning": "खरीदारी पर वापस मिलने वाला पैसा",
+    "synonyms": "Refund, Reward",
+    "category": "Finance"
+  },
+  {
+    "word": "CAT",
+    "meaning": "MBA प्रवेश परीक्षा",
+    "synonyms": "Common Admission Test",
+    "category": "Education"
+  },
+  {
+    "word": "Catalyst",
+    "meaning": "रासायनिक प्रक्रिया तेज़ करने वाला पदार्थ",
+    "synonyms": "Enzyme",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Cavalry",
+    "meaning": "घुड़सवार/बख़्तरबंद सेना",
+    "synonyms": "Armoured corps",
+    "category": "Military"
+  },
+  {
+    "word": "Ceasefire",
+    "meaning": "युद्ध विराम/गोलीबारी बंद",
+    "synonyms": "Truce",
+    "category": "Military"
+  },
+  {
+    "word": "Cement",
+    "meaning": "भवन निर्माण का बंधक पदार्थ",
+    "synonyms": "Binding material",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Censorship",
+    "meaning": "सामग्री पर सरकारी प्रतिबंध/कटौती",
+    "synonyms": "Ban",
+    "category": "Media"
+  },
+  {
+    "word": "Centering",
+    "meaning": "स्लैब ढालने के लिए नीचे लगाया जाने वाला सहारा",
+    "synonyms": "Propping, Shoring",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Chain",
+    "meaning": "जमीन मापने की इकाई (66 फीट)",
+    "synonyms": "Surveyor's chain",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Chajja",
+    "meaning": "खिड़की/दरवाजे के ऊपर बाहर निकला छज्जा",
+    "synonyms": "Sunshade, Canopy, Overhang",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Challan",
+    "meaning": "यातायात नियम तोड़ने पर जुर्माना",
+    "synonyms": "Traffic fine, Ticket",
+    "category": "Transport"
+  },
+  {
+    "word": "Chassis",
+    "meaning": "वाहन का मूल ढाँचा",
+    "synonyms": "Frame",
+    "category": "Transport"
+  },
+  {
+    "word": "Chemotherapy",
+    "meaning": "कैंसर का रासायनिक दवाओं से इलाज",
+    "synonyms": "Chemo",
+    "category": "Medical"
+  },
+  {
+    "word": "Cheque",
+    "meaning": "बैंक को भुगतान का लिखित आदेश",
+    "synonyms": "Check",
+    "category": "Finance"
+  },
+  {
+    "word": "Cholesterol",
+    "meaning": "खून में वसा का स्तर",
+    "synonyms": "Lipids",
+    "category": "Medical"
+  },
+  {
+    "word": "Chromosome",
+    "meaning": "कोशिका में जीन ले जाने वाली संरचना",
+    "synonyms": "गुणसूत्र",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "CIBIL",
+    "meaning": "क्रेडिट स्कोर देने वाली संस्था",
+    "synonyms": "Credit bureau",
+    "category": "Finance"
+  },
+  {
+    "word": "Circuit",
+    "meaning": "विद्युत का पूरा पथ/सर्किट",
+    "synonyms": "Electric circuit",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Claim",
+    "meaning": "बीमा का दावा",
+    "synonyms": "",
+    "category": "Finance"
+  },
+  {
+    "word": "Cloud",
+    "meaning": "इंटरनेट पर डेटा संग्रहण और कंप्यूटिंग",
+    "synonyms": "Cloud computing",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "CNG",
+    "meaning": "कम्प्रेस्ड नेचुरल गैस - प्राकृतिक गैस ईंधन",
+    "synonyms": "Compressed Natural Gas",
+    "category": "Transport"
+  },
+  {
+    "word": "Coach",
+    "meaning": "प्रशिक्षक/कोच",
+    "synonyms": "Trainer",
+    "category": "Sports"
+  },
+  {
+    "word": "Cold Storage",
+    "meaning": "फल/सब्जी रखने का ठंडा भंडार",
+    "synonyms": "Refrigerated warehouse",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Collateral",
+    "meaning": "कर्ज़े की गारंटी के लिए गिरवी रखी संपत्ति",
+    "synonyms": "Security, Guarantee",
+    "category": "Finance"
+  },
+  {
+    "word": "Column",
+    "meaning": "भवन का खड़ा खंभा जो भार सहता है",
+    "synonyms": "Pillar, Post, Pier",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Commando",
+    "meaning": "विशेष प्रशिक्षित सैनिक",
+    "synonyms": "Special forces",
+    "category": "Military"
+  },
+  {
+    "word": "Compaction",
+    "meaning": "मिट्टी को दबाकर मजबूत करना",
+    "synonyms": "Tamping, Consolidation",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Company",
+    "meaning": "100-200 सैनिकों की टुकड़ी",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Compiler",
+    "meaning": "प्रोग्राम को मशीन भाषा में बदलने वाला सॉफ्टवेयर",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Completion Certificate",
+    "meaning": "भवन निर्माण पूर्ण होने का प्रमाण पत्र",
+    "synonyms": "CC, Occupancy certificate",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Compound Interest",
+    "meaning": "चक्रवृद्धि ब्याज - ब्याज पर ब्याज",
+    "synonyms": "CI",
+    "category": "Finance"
+  },
+  {
+    "word": "Concrete",
+    "meaning": "सीमेंट, रेत और गिट्टी का मिश्रण",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Consumer Forum",
+    "meaning": "उपभोक्ता शिकायत निवारण मंच",
+    "synonyms": "Consumer court",
+    "category": "Legal"
+  },
+  {
+    "word": "Container",
+    "meaning": "माल भेजने का बड़ा धातु का डिब्बा",
+    "synonyms": "Shipping container",
+    "category": "Transport"
+  },
+  {
+    "word": "Contempt of Court",
+    "meaning": "न्यायालय की अवमानना",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "Content",
+    "meaning": "सामग्री - लेख, वीडियो, फोटो आदि",
+    "synonyms": "Media content",
+    "category": "Media"
+  },
+  {
+    "word": "Contour",
+    "meaning": "जमीन की ऊँचाई दर्शाने वाली रेखा",
+    "synonyms": "Elevation line",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Contractor",
+    "meaning": "ठेकेदार - निर्माण कार्य करवाने वाला व्यक्ति",
+    "synonyms": "Builder, Thekedar",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Conviction",
+    "meaning": "अदालत द्वारा दोषी ठहराना",
+    "synonyms": "Guilty verdict",
+    "category": "Legal"
+  },
+  {
+    "word": "Copyright",
+    "meaning": "रचना का कानूनी अधिकार",
+    "synonyms": "IP, Intellectual property",
+    "category": "Legal"
+  },
+  {
+    "word": "Copyright Strike",
+    "meaning": "बिना अनुमति सामग्री इस्तेमाल पर कानूनी चेतावनी",
+    "synonyms": "DMCA",
+    "category": "Media"
+  },
+  {
+    "word": "Corps",
+    "meaning": "कई डिवीज़नों का समूह",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Court Martial",
+    "meaning": "सैन्य अदालत/सैनिक की सुनवाई",
+    "synonyms": "Military trial",
+    "category": "Military"
+  },
+  {
+    "word": "Cover",
+    "meaning": "सरिये के ऊपर कंक्रीट की सुरक्षा परत की मोटाई",
+    "synonyms": "Clear cover, Concrete cover",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "CPC",
+    "meaning": "सिविल प्रक्रिया संहिता",
+    "synonyms": "Code of Civil Procedure",
+    "category": "Legal"
+  },
+  {
+    "word": "CPM",
+    "meaning": "परियोजना की सबसे लंबी समय श्रृंखला",
+    "synonyms": "Critical Path Method",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "CPVC Pipe",
+    "meaning": "गर्म पानी की प्लास्टिक पाइप",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "CPWD",
+    "meaning": "केंद्रीय लोक निर्माण विभाग",
+    "synonyms": "Central PWD",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Crane",
+    "meaning": "भारी सामान उठाने वाली मशीन",
+    "synonyms": "Hoist, Derrick, Tower crane",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Credit",
+    "meaning": "खाते में पैसा जमा होना",
+    "synonyms": "Deposit",
+    "category": "Finance"
+  },
+  {
+    "word": "Credit Score",
+    "meaning": "उधार चुकाने की क्षमता का अंक",
+    "synonyms": "CIBIL score",
+    "category": "Finance"
+  },
+  {
+    "word": "Crop Insurance",
+    "meaning": "फसल बीमा",
+    "synonyms": "PMFBY",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Crop Rotation",
+    "meaning": "फसल चक्र - बारी-बारी अलग फसल उगाना",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Cross Examination",
+    "meaning": "गवाह से विपक्ष की पूछताछ",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "Cross Section",
+    "meaning": "भवन को काटकर देखने पर दिखने वाला अंदरूनी दृश्य",
+    "synonyms": "Section drawing",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "CrPC",
+    "meaning": "दंड प्रक्रिया संहिता",
+    "synonyms": "Code of Criminal Procedure",
+    "category": "Legal"
+  },
+  {
+    "word": "Cryptocurrency",
+    "meaning": "डिजिटल मुद्रा जैसे बिटकॉइन",
+    "synonyms": "Crypto, Digital currency",
+    "category": "Finance"
+  },
+  {
+    "word": "CT Scan",
+    "meaning": "शरीर की विस्तृत आंतरिक तस्वीर",
+    "synonyms": "Computed Tomography",
+    "category": "Medical"
+  },
+  {
+    "word": "Cube Test",
+    "meaning": "कंक्रीट की मजबूती जाँचने का परीक्षण",
+    "synonyms": "Compressive strength test",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Curing",
+    "meaning": "कंक्रीट को पानी से गीला रखने की प्रक्रिया",
+    "synonyms": "Water curing, Moisture treatment",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Current",
+    "meaning": "विद्युत धारा",
+    "synonyms": "Ampere, Flow",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Current Account",
+    "meaning": "चालू खाता - व्यापार के लिए",
+    "synonyms": "CA",
+    "category": "Finance"
+  },
+  {
+    "word": "Custody",
+    "meaning": "हिरासत/अभिरक्षा",
+    "synonyms": "Guardianship",
+    "category": "Legal"
+  },
+  {
+    "word": "Cybercrime",
+    "meaning": "इंटरनेट/कंप्यूटर से जुड़ा अपराध",
+    "synonyms": "Online fraud, Hacking",
+    "category": "Legal"
+  },
+  {
+    "word": "Cybersecurity",
+    "meaning": "इंटरनेट/कंप्यूटर की सुरक्षा",
+    "synonyms": "IT security",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "DAP",
+    "meaning": "फॉस्फोरस वाली खाद",
+    "synonyms": "Di-Ammonium Phosphate",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Database",
+    "meaning": "व्यवस्थित रूप से संग्रहित डेटा का भंडार",
+    "synonyms": "DB, Data store",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "De-shuttering",
+    "meaning": "कंक्रीट सूखने के बाद शटरिंग हटाना",
+    "synonyms": "Stripping, Formwork removal",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Dean",
+    "meaning": "विभागाध्यक्ष",
+    "synonyms": "Head of department",
+    "category": "Education"
+  },
+  {
+    "word": "Debenture",
+    "meaning": "कंपनी का कर्ज़ पत्र जिस पर ब्याज मिलता है",
+    "synonyms": "Bond",
+    "category": "Finance"
+  },
+  {
+    "word": "Debit",
+    "meaning": "खाते से पैसा कटना/निकलना",
+    "synonyms": "Withdrawal",
+    "category": "Finance"
+  },
+  {
+    "word": "Debugging",
+    "meaning": "सॉफ्टवेयर की गलतियाँ ढूँढना और ठीक करना",
+    "synonyms": "Bug fixing",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Deep Learning",
+    "meaning": "कृत्रिम तंत्रिका नेटवर्क से सीखना",
+    "synonyms": "Neural network learning",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Defence",
+    "meaning": "बचाव पक्ष",
+    "synonyms": "Defence counsel",
+    "category": "Legal"
+  },
+  {
+    "word": "Defendant",
+    "meaning": "प्रतिवादी - जिसके खिलाफ मुकदमा हो",
+    "synonyms": "Accused",
+    "category": "Legal"
+  },
+  {
+    "word": "Deflation",
+    "meaning": "वस्तुओं की कीमतों में गिरावट",
+    "synonyms": "Price fall",
+    "category": "Finance"
+  },
+  {
+    "word": "Degree",
+    "meaning": "उपाधि - B.Tech, MBA, M.Sc आदि",
+    "synonyms": "",
+    "category": "Education"
+  },
+  {
+    "word": "Demand Draft",
+    "meaning": "बैंक द्वारा जारी भुगतान पत्र",
+    "synonyms": "DD, Bank draft",
+    "category": "Finance"
+  },
+  {
+    "word": "Dentist",
+    "meaning": "दंत चिकित्सक",
+    "synonyms": "Dental surgeon",
+    "category": "Medical"
+  },
+  {
+    "word": "Deployment",
+    "meaning": "सॉफ्टवेयर को सर्वर पर चालू करना",
+    "synonyms": "Release, Launch",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Depreciation",
+    "meaning": "संपत्ति के मूल्य में गिरावट",
+    "synonyms": "Wear and tear",
+    "category": "Finance"
+  },
+  {
+    "word": "Dermatologist",
+    "meaning": "त्वचा रोग विशेषज्ञ",
+    "synonyms": "Skin specialist",
+    "category": "Medical"
+  },
+  {
+    "word": "DevOps",
+    "meaning": "विकास और संचालन को जोड़ने की प्रक्रिया",
+    "synonyms": "Development Operations",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Diabetes",
+    "meaning": "मधुमेह - खून में शक्कर बढ़ने का रोग",
+    "synonyms": "Sugar, Madhumeh",
+    "category": "Medical"
+  },
+  {
+    "word": "Diagnosis",
+    "meaning": "रोग की पहचान/निदान",
+    "synonyms": "Detection",
+    "category": "Medical"
+  },
+  {
+    "word": "Dialysis",
+    "meaning": "गुर्दे खराब होने पर मशीन से खून साफ करना",
+    "synonyms": "Hemodialysis",
+    "category": "Medical"
+  },
+  {
+    "word": "Diesel",
+    "meaning": "डीज़ल ईंधन",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "Diploma",
+    "meaning": "डिप्लोमा प्रमाण पत्र",
+    "synonyms": "Certificate",
+    "category": "Education"
+  },
+  {
+    "word": "District Court",
+    "meaning": "जिला न्यायालय",
+    "synonyms": "Sessions court",
+    "category": "Legal"
+  },
+  {
+    "word": "Dividend",
+    "meaning": "कंपनी द्वारा शेयरधारकों को दिया जाने वाला मुनाफे का हिस्सा",
+    "synonyms": "",
+    "category": "Finance"
+  },
+  {
+    "word": "Divider",
+    "meaning": "सड़क के बीच का विभाजक",
+    "synonyms": "Median, Separator",
+    "category": "Transport"
+  },
+  {
+    "word": "Division",
+    "meaning": "कई ब्रिगेडों का समूह",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "DL",
+    "meaning": "ड्राइविंग लाइसेंस - वाहन चलाने का परमिट",
+    "synonyms": "Driving License",
+    "category": "Transport"
+  },
+  {
+    "word": "DNA",
+    "meaning": "जीवों की आनुवांशिक जानकारी का अणु",
+    "synonyms": "Deoxyribonucleic Acid",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Documentary",
+    "meaning": "तथ्य आधारित फिल्म/कार्यक्रम",
+    "synonyms": "Docu",
+    "category": "Media"
+  },
+  {
+    "word": "Domestic Violence",
+    "meaning": "घरेलू हिंसा",
+    "synonyms": "DV Act",
+    "category": "Legal"
+  },
+  {
+    "word": "Doping",
+    "meaning": "प्रतिबंधित दवा का सेवन",
+    "synonyms": "Drug test, Banned substance",
+    "category": "Sports"
+  },
+  {
+    "word": "Dosage",
+    "meaning": "दवाई की खुराक/मात्रा",
+    "synonyms": "Dose",
+    "category": "Medical"
+  },
+  {
+    "word": "Dowry Act",
+    "meaning": "दहेज प्रतिषेध अधिनियम",
+    "synonyms": "Dowry Prohibition Act",
+    "category": "Legal"
+  },
+  {
+    "word": "DPC",
+    "meaning": "नमी रोकने वाली कंक्रीट/रसायन की परत",
+    "synonyms": "Damp Proof Course",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Drip Irrigation",
+    "meaning": "बूँद-बूँद सिंचाई",
+    "synonyms": "Micro irrigation",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Drone",
+    "meaning": "बिना पायलट का उड़ने वाला उपकरण",
+    "synonyms": "UAV, Unmanned Aerial Vehicle",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "DRS",
+    "meaning": "अंपायर के फैसले की समीक्षा प्रणाली",
+    "synonyms": "Decision Review System",
+    "category": "Sports"
+  },
+  {
+    "word": "Dubbing",
+    "meaning": "किसी भाषा में आवाज़ बदलना",
+    "synonyms": "Voice over",
+    "category": "Media"
+  },
+  {
+    "word": "E-Learning",
+    "meaning": "इंटरनेट से पढ़ाई",
+    "synonyms": "Online learning, Digital education",
+    "category": "Education"
+  },
+  {
+    "word": "ECG",
+    "meaning": "हृदय की विद्युत गतिविधि का ग्राफ",
+    "synonyms": "Electrocardiogram",
+    "category": "Medical"
+  },
+  {
+    "word": "Editing",
+    "meaning": "वीडियो/ऑडियो काटना-जोड़ना",
+    "synonyms": "Post-production",
+    "category": "Media"
+  },
+  {
+    "word": "Editor",
+    "meaning": "संपादक",
+    "synonyms": "Chief editor",
+    "category": "Media"
+  },
+  {
+    "word": "Editorial",
+    "meaning": "संपादकीय लेख",
+    "synonyms": "Op-ed",
+    "category": "Media"
+  },
+  {
+    "word": "Electrician",
+    "meaning": "बिजली का काम करने वाला मिस्त्री",
+    "synonyms": "Wireman",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Electron",
+    "meaning": "ऋणात्मक आवेश वाला परमाणु कण",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Elevation",
+    "meaning": "भवन का सामने का दृश्य/डिज़ाइन",
+    "synonyms": "Front view, Facade",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "EMI",
+    "meaning": "समान मासिक किस्त",
+    "synonyms": "Equated Monthly Installment",
+    "category": "Finance"
+  },
+  {
+    "word": "Emission",
+    "meaning": "वाहन से निकलने वाला धुआँ/प्रदूषण",
+    "synonyms": "Exhaust, Pollution",
+    "category": "Transport"
+  },
+  {
+    "word": "Encryption",
+    "meaning": "डेटा को सुरक्षित कोड में बदलना",
+    "synonyms": "Coding, Ciphering",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Encumbrance",
+    "meaning": "संपत्ति पर कानूनी बोझ/बंधन",
+    "synonyms": "Lien",
+    "category": "Legal"
+  },
+  {
+    "word": "Engagement",
+    "meaning": "दर्शकों की सक्रिय भागीदारी",
+    "synonyms": "Likes, Comments, Shares",
+    "category": "Media"
+  },
+  {
+    "word": "ENT",
+    "meaning": "कान, नाक, गला विशेषज्ञ",
+    "synonyms": "Ear Nose Throat",
+    "category": "Medical"
+  },
+  {
+    "word": "Equity",
+    "meaning": "शेयर पूंजी/हिस्सेदारी",
+    "synonyms": "Share capital, Ownership",
+    "category": "Finance"
+  },
+  {
+    "word": "Estimate",
+    "meaning": "निर्माण की अनुमानित लागत",
+    "synonyms": "Cost estimation, Budget",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "EV",
+    "meaning": "इलेक्ट्रिक वाहन",
+    "synonyms": "Electric Vehicle",
+    "category": "Transport"
+  },
+  {
+    "word": "Evidence",
+    "meaning": "सबूत/साक्ष्य",
+    "synonyms": "Proof",
+    "category": "Legal"
+  },
+  {
+    "word": "Excavation",
+    "meaning": "नींव के लिए मिट्टी खोदना",
+    "synonyms": "Digging, Trenching",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Exclusive",
+    "meaning": "विशेष/अनन्य खबर",
+    "synonyms": "Scoop",
+    "category": "Media"
+  },
+  {
+    "word": "Expansion Joint",
+    "meaning": "भवन में गर्मी से फैलाव सहने का जोड़",
+    "synonyms": "Movement joint",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Expressway",
+    "meaning": "द्रुतगामी मार्ग - तेज़ गति की सड़क",
+    "synonyms": "Motorway",
+    "category": "Transport"
+  },
+  {
+    "word": "Fact Check",
+    "meaning": "खबर/दावे की सत्यता जाँच",
+    "synonyms": "Verification",
+    "category": "Media"
+  },
+  {
+    "word": "Fake News",
+    "meaning": "झूठी/भ्रामक खबर",
+    "synonyms": "Misinformation, Propaganda",
+    "category": "Media"
+  },
+  {
+    "word": "FAR",
+    "meaning": "जमीन के क्षेत्रफल के अनुपात में बनाया जा सकने वाला कुल क्षेत्रफल",
+    "synonyms": "Floor Area Ratio",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "FASTag",
+    "meaning": "टोल का इलेक्ट्रॉनिक भुगतान उपकरण",
+    "synonyms": "Electronic toll",
+    "category": "Transport"
+  },
+  {
+    "word": "Fertilizer",
+    "meaning": "उर्वरक/रासायनिक खाद",
+    "synonyms": "Manure",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Fiber Optic",
+    "meaning": "रोशनी से डेटा भेजने वाला पतला तार",
+    "synonyms": "Optical fiber",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Fintech",
+    "meaning": "वित्तीय तकनीक - डिजिटल वित्तीय सेवाएँ",
+    "synonyms": "Financial technology",
+    "category": "Finance"
+  },
+  {
+    "word": "FIR",
+    "meaning": "प्रथम सूचना रिपोर्ट - पुलिस में पहली शिकायत",
+    "synonyms": "First Information Report",
+    "category": "Legal"
+  },
+  {
+    "word": "Firewall",
+    "meaning": "कंप्यूटर को अनधिकृत पहुँच से बचाने वाली सुरक्षा प्रणाली",
+    "synonyms": "Security wall",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Fiscal Year",
+    "meaning": "वित्तीय वर्ष (अप्रैल-मार्च)",
+    "synonyms": "FY, Financial year",
+    "category": "Finance"
+  },
+  {
+    "word": "Fitness",
+    "meaning": "शारीरिक तंदुरुस्ती",
+    "synonyms": "Physical fitness",
+    "category": "Sports"
+  },
+  {
+    "word": "Fixed Deposit",
+    "meaning": "सावधि जमा - निश्चित समय के लिए जमा",
+    "synonyms": "FD, Term deposit",
+    "category": "Finance"
+  },
+  {
+    "word": "Flyover",
+    "meaning": "सड़क के ऊपर बना पुल",
+    "synonyms": "Overpass, Elevated road",
+    "category": "Transport"
+  },
+  {
+    "word": "Footing",
+    "meaning": "नींव का निचला चौड़ा हिस्सा",
+    "synonyms": "Foundation base, Pad",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Footpath",
+    "meaning": "पैदल चलने का रास्ता",
+    "synonyms": "Sidewalk, Pavement",
+    "category": "Transport"
+  },
+  {
+    "word": "Formwork",
+    "meaning": "कंक्रीट के लिए साँचा/ढाँचा",
+    "synonyms": "Shuttering, Mould",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Foundation",
+    "meaning": "भवन की नींव",
+    "synonyms": "Base, Footing, Substructure",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "FPO",
+    "meaning": "किसान उत्पादक संगठन",
+    "synonyms": "Farmer Producer Organization",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Framework",
+    "meaning": "सॉफ्टवेयर बनाने का तैयार ढाँचा",
+    "synonyms": "Library, Toolkit",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Frequency",
+    "meaning": "तरंग की आवृत्ति - प्रति सेकंड कंपन",
+    "synonyms": "Hz, Hertz",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Frontend",
+    "meaning": "सॉफ्टवेयर का उपयोगकर्ता को दिखने वाला हिस्सा",
+    "synonyms": "Client-side, UI",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Fungicide",
+    "meaning": "फफूंदनाशक",
+    "synonyms": "Antifungal",
+    "category": "Agriculture"
+  },
+  {
+    "word": "GATE",
+    "meaning": "स्नातकोत्तर इंजीनियरिंग प्रवेश परीक्षा",
+    "synonyms": "Graduate Aptitude Test in Engineering",
+    "category": "Education"
+  },
+  {
+    "word": "GDP",
+    "meaning": "सकल घरेलू उत्पाद - देश की कुल आय",
+    "synonyms": "Gross Domestic Product",
+    "category": "Finance"
+  },
+  {
+    "word": "Gene",
+    "meaning": "आनुवांशिक गुणों की इकाई",
+    "synonyms": "जीन",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Generic Medicine",
+    "meaning": "सस्ती बिना ब्रांड वाली दवाई",
+    "synonyms": "Generic drug",
+    "category": "Medical"
+  },
+  {
+    "word": "Genome",
+    "meaning": "किसी जीव की पूरी आनुवांशिक जानकारी",
+    "synonyms": "जीनोम",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "GI Pipe",
+    "meaning": "जस्ते की परत चढ़ी लोहे की पाइप",
+    "synonyms": "Galvanized Iron Pipe",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "GM Crop",
+    "meaning": "आनुवांशिक रूप से संशोधित फसल",
+    "synonyms": "Genetically Modified",
+    "category": "Agriculture"
+  },
+  {
+    "word": "GPA",
+    "meaning": "ग्रेड प्वाइंट औसत",
+    "synonyms": "Grade Point Average, CGPA",
+    "category": "Education"
+  },
+  {
+    "word": "GPS",
+    "meaning": "उपग्रह से स्थिति बताने वाली प्रणाली",
+    "synonyms": "Global Positioning System",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "GPS Tracker",
+    "meaning": "वाहन की स्थिति बताने वाला उपकरण",
+    "synonyms": "Vehicle tracker",
+    "category": "Transport"
+  },
+  {
+    "word": "GPU",
+    "meaning": "ग्राफिक्स और भारी गणना करने वाला प्रोसेसर",
+    "synonyms": "Graphics Processing Unit",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Grade",
+    "meaning": "कंक्रीट की मजबूती का स्तर जैसे M20, M25",
+    "synonyms": "Mix ratio, Strength class",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Grafting",
+    "meaning": "एक पौधे पर दूसरे पौधे की टहनी जोड़ना",
+    "synonyms": "Kalam lagana",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Granite",
+    "meaning": "कठोर प्राकृतिक पत्थर जो फर्श/किचन में लगता है",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Gravel",
+    "meaning": "बजरी/गिट्टी",
+    "synonyms": "Coarse aggregate, Stone chips",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Gravity",
+    "meaning": "गुरुत्वाकर्षण - पृथ्वी का खींचने वाला बल",
+    "synonyms": "Gravitational force",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Greenhouse",
+    "meaning": "पौधे उगाने का कांच/प्लास्टिक का घर",
+    "synonyms": "Polyhouse",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Grout",
+    "meaning": "दरारों/जोड़ों में भरा जाने वाला तरल सीमेंट मिश्रण",
+    "synonyms": "Filler, Sealant",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Grouting",
+    "meaning": "दरारों में सीमेंट का घोल भरना",
+    "synonyms": "Cement injection, Filling",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "GST",
+    "meaning": "वस्तु एवं सेवा कर",
+    "synonyms": "Goods and Services Tax",
+    "category": "Finance"
+  },
+  {
+    "word": "Gynecologist",
+    "meaning": "स्त्री रोग विशेषज्ञ",
+    "synonyms": "Women's doctor",
+    "category": "Medical"
+  },
+  {
+    "word": "Habeas Corpus",
+    "meaning": "गैरकानूनी हिरासत के खिलाफ याचिका",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "Hangar",
+    "meaning": "हवाई जहाज़ रखने का बड़ा शेड",
+    "synonyms": "Aircraft shed",
+    "category": "Transport"
+  },
+  {
+    "word": "Hardware",
+    "meaning": "कंप्यूटर के भौतिक उपकरण/पुर्जे",
+    "synonyms": "Device, Equipment",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Harvester",
+    "meaning": "फसल काटने की मशीन",
+    "synonyms": "Combine",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Hat-trick",
+    "meaning": "एक ही मैच में तीन बार सफलता",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Headline",
+    "meaning": "मुख्य समाचार शीर्षक",
+    "synonyms": "Top story",
+    "category": "Media"
+  },
+  {
+    "word": "Hearing",
+    "meaning": "अदालत में मुकदमे की सुनवाई",
+    "synonyms": "Trial, Court date",
+    "category": "Legal"
+  },
+  {
+    "word": "Hemoglobin",
+    "meaning": "खून में ऑक्सीजन ले जाने वाला प्रोटीन",
+    "synonyms": "Hb",
+    "category": "Medical"
+  },
+  {
+    "word": "Herbicide",
+    "meaning": "खरपतवार नाशक",
+    "synonyms": "Weedicide",
+    "category": "Agriculture"
+  },
+  {
+    "word": "High Court",
+    "meaning": "उच्च न्यायालय",
+    "synonyms": "HC",
+    "category": "Legal"
+  },
+  {
+    "word": "Highway",
+    "meaning": "राजमार्ग/राष्ट्रीय सड़क",
+    "synonyms": "National Highway, NH",
+    "category": "Transport"
+  },
+  {
+    "word": "Home Loan",
+    "meaning": "घर खरीदने/बनाने के लिए कर्ज़ा",
+    "synonyms": "Housing loan, Mortgage",
+    "category": "Finance"
+  },
+  {
+    "word": "Hybrid",
+    "meaning": "पेट्रोल और बिजली दोनों से चलने वाला वाहन",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "Hybrid Seed",
+    "meaning": "संकर बीज - दो किस्मों को मिलाकर बना बीज",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "ICU",
+    "meaning": "गंभीर रोगियों की देखभाल इकाई",
+    "synonyms": "Intensive Care Unit",
+    "category": "Medical"
+  },
+  {
+    "word": "IFSC Code",
+    "meaning": "बैंक शाखा की पहचान का कोड",
+    "synonyms": "Indian Financial System Code",
+    "category": "Finance"
+  },
+  {
+    "word": "Immunity",
+    "meaning": "शरीर की रोग प्रतिरोधक क्षमता",
+    "synonyms": "Resistance, Defence",
+    "category": "Medical"
+  },
+  {
+    "word": "IMPS",
+    "meaning": "तुरंत मोबाइल से पैसा भेजने की सेवा",
+    "synonyms": "Immediate Payment Service",
+    "category": "Finance"
+  },
+  {
+    "word": "Income Tax",
+    "meaning": "आय पर लगने वाला कर",
+    "synonyms": "IT",
+    "category": "Finance"
+  },
+  {
+    "word": "Infantry",
+    "meaning": "पैदल सेना",
+    "synonyms": "Foot soldiers",
+    "category": "Military"
+  },
+  {
+    "word": "Inflation",
+    "meaning": "महँगाई दर - वस्तुओं की कीमत बढ़ना",
+    "synonyms": "Price rise",
+    "category": "Finance"
+  },
+  {
+    "word": "Influencer",
+    "meaning": "सोशल मीडिया पर प्रभावशाली व्यक्ति",
+    "synonyms": "Creator, Blogger",
+    "category": "Media"
+  },
+  {
+    "word": "Injection",
+    "meaning": "सुई द्वारा शरीर में दवाई देना",
+    "synonyms": "Shot, Syringe",
+    "category": "Medical"
+  },
+  {
+    "word": "Innings",
+    "meaning": "क्रिकेट में बल्लेबाजी की पारी",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Inspection",
+    "meaning": "निर्माण कार्य की गुणवत्ता जाँच",
+    "synonyms": "Quality check, Audit",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Insurance",
+    "meaning": "बीमा",
+    "synonyms": "Coverage, Policy",
+    "category": "Finance"
+  },
+  {
+    "word": "Intelligence",
+    "meaning": "गुप्तचर/खुफिया जानकारी",
+    "synonyms": "Secret information",
+    "category": "Military"
+  },
+  {
+    "word": "Interest",
+    "meaning": "ब्याज - जमा/उधार पर मिलने/देने वाली रकम",
+    "synonyms": "Byaj",
+    "category": "Finance"
+  },
+  {
+    "word": "Interest Rate",
+    "meaning": "ब्याज दर",
+    "synonyms": "Rate of interest",
+    "category": "Finance"
+  },
+  {
+    "word": "Internship",
+    "meaning": "व्यावहारिक प्रशिक्षण अवधि",
+    "synonyms": "Training, Apprenticeship",
+    "category": "Education"
+  },
+  {
+    "word": "Inverter",
+    "meaning": "DC बिजली को AC में बदलने वाला उपकरण",
+    "synonyms": "Power inverter",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Invoice",
+    "meaning": "बिक्री का बिल/चालान",
+    "synonyms": "Bill, Challan",
+    "category": "Finance"
+  },
+  {
+    "word": "IoT",
+    "meaning": "इंटरनेट से जुड़े स्मार्ट उपकरण",
+    "synonyms": "Internet of Things",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "IPC",
+    "meaning": "भारतीय दंड संहिता",
+    "synonyms": "Indian Penal Code",
+    "category": "Legal"
+  },
+  {
+    "word": "IPD",
+    "meaning": "भर्ती रोगी विभाग",
+    "synonyms": "In Patient Department",
+    "category": "Medical"
+  },
+  {
+    "word": "IPO",
+    "meaning": "कंपनी द्वारा पहली बार शेयर बेचना",
+    "synonyms": "Initial Public Offering",
+    "category": "Finance"
+  },
+  {
+    "word": "IRC",
+    "meaning": "भारतीय सड़क कांग्रेस - सड़क मानक तय करने वाली संस्था",
+    "synonyms": "Indian Roads Congress",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "IS Code",
+    "meaning": "भारतीय मानक ब्यूरो के निर्माण नियम",
+    "synonyms": "Indian Standard, BIS Code",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Isotope",
+    "meaning": "एक ही तत्व के अलग-अलग भारी/हल्के रूप",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "ITR",
+    "meaning": "आयकर रिटर्न - सालाना कर विवरण",
+    "synonyms": "Income Tax Return",
+    "category": "Finance"
+  },
+  {
+    "word": "IV Drip",
+    "meaning": "नस में चढ़ाया जाने वाला तरल",
+    "synonyms": "Intravenous, Saline",
+    "category": "Medical"
+  },
+  {
+    "word": "Jal Nigam",
+    "meaning": "जल निगम - पानी की आपूर्ति का सरकारी विभाग",
+    "synonyms": "Water corporation",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "JCB",
+    "meaning": "खुदाई करने वाली बड़ी मशीन",
+    "synonyms": "Excavator, Backhoe, Poclain",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "JEE",
+    "meaning": "इंजीनियरिंग प्रवेश परीक्षा",
+    "synonyms": "Joint Entrance Examination",
+    "category": "Education"
+  },
+  {
+    "word": "KCC",
+    "meaning": "किसान क्रेडिट कार्ड",
+    "synonyms": "Kisan Credit Card",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Kharif",
+    "meaning": "बारिश की फसल (जून-अक्तूबर)",
+    "synonyms": "Monsoon crop",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Kilowatt",
+    "meaning": "एक हजार वॉट",
+    "synonyms": "kW",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Knockout",
+    "meaning": "हार पर बाहर होने वाली प्रतियोगिता",
+    "synonyms": "Elimination round",
+    "category": "Sports"
+  },
+  {
+    "word": "KYC",
+    "meaning": "ग्राहक की पहचान सत्यापन",
+    "synonyms": "Know Your Customer",
+    "category": "Finance"
+  },
+  {
+    "word": "Labour",
+    "meaning": "मजदूर/श्रमिक",
+    "synonyms": "Worker, Mazdoor, Beldar",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "LAC",
+    "meaning": "वास्तविक नियंत्रण रेखा (भारत-चीन सीमा)",
+    "synonyms": "Line of Actual Control",
+    "category": "Military"
+  },
+  {
+    "word": "Lane",
+    "meaning": "सड़क पर वाहन चलने की पट्टी",
+    "synonyms": "Track",
+    "category": "Transport"
+  },
+  {
+    "word": "Latency",
+    "meaning": "डेटा भेजने में लगने वाला समय/देरी",
+    "synonyms": "Delay, Response time",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Lawyer",
+    "meaning": "वकील/अधिवक्ता",
+    "synonyms": "Advocate, Attorney, Counsel",
+    "category": "Legal"
+  },
+  {
+    "word": "Layout",
+    "meaning": "निर्माण स्थल पर नक्शे के अनुसार निशान लगाना",
+    "synonyms": "Setting out, Marking",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "LBW",
+    "meaning": "पैर के सामने आने पर आउट",
+    "synonyms": "Leg Before Wicket",
+    "category": "Sports"
+  },
+  {
+    "word": "League",
+    "meaning": "लीग - टीमों के बीच नियमित मैच",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Lecture",
+    "meaning": "कक्षा में पढ़ाना",
+    "synonyms": "Class, Teaching session",
+    "category": "Education"
+  },
+  {
+    "word": "Ledger",
+    "meaning": "खाता बही",
+    "synonyms": "Account book",
+    "category": "Finance"
+  },
+  {
+    "word": "Levelling",
+    "meaning": "जमीन या सतह को समतल करना",
+    "synonyms": "Grading, Flattening",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Liability",
+    "meaning": "देनदारी/ऋण",
+    "synonyms": "Debt, Obligation",
+    "category": "Finance"
+  },
+  {
+    "word": "Lintel",
+    "meaning": "दरवाजे/खिड़की के ऊपर का बीम",
+    "synonyms": "Header beam",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Lithium Ion",
+    "meaning": "आधुनिक रिचार्जेबल बैटरी की तकनीक",
+    "synonyms": "Li-ion",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Live",
+    "meaning": "सीधा प्रसारण",
+    "synonyms": "Real-time",
+    "category": "Media"
+  },
+  {
+    "word": "Loan",
+    "meaning": "ऋण/कर्ज़ा",
+    "synonyms": "Credit, Advance, Udhaar",
+    "category": "Finance"
+  },
+  {
+    "word": "LOC",
+    "meaning": "नियंत्रण रेखा (भारत-पाक सीमा)",
+    "synonyms": "Line of Control",
+    "category": "Military"
+  },
+  {
+    "word": "Logistics",
+    "meaning": "माल ढुलाई और आपूर्ति श्रृंखला प्रबंधन",
+    "synonyms": "Supply chain",
+    "category": "Transport"
+  },
+  {
+    "word": "Loss",
+    "meaning": "हानि/नुकसान",
+    "synonyms": "Deficit",
+    "category": "Finance"
+  },
+  {
+    "word": "M20",
+    "meaning": "20 न्यूटन प्रति वर्ग मिमी मजबूती वाला कंक्रीट",
+    "synonyms": "Grade 20",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "M25",
+    "meaning": "25 न्यूटन प्रति वर्ग मिमी मजबूती वाला कंक्रीट",
+    "synonyms": "Grade 25",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Machine Learning",
+    "meaning": "मशीन का डेटा से सीखना",
+    "synonyms": "ML",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Magistrate",
+    "meaning": "न्यायाधीश (निचली अदालत)",
+    "synonyms": "Judge, Judicial magistrate",
+    "category": "Legal"
+  },
+  {
+    "word": "Malware",
+    "meaning": "कंप्यूटर को नुकसान पहुँचाने वाला सॉफ्टवेयर",
+    "synonyms": "Virus, Trojan",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Mandi",
+    "meaning": "कृषि उपज बेचने का बाज़ार",
+    "synonyms": "APMC, Wholesale market",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Manhole",
+    "meaning": "सीवर/पाइपलाइन की जाँच के लिए ढक्कन वाला गड्ढा",
+    "synonyms": "Inspection chamber",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Marathon",
+    "meaning": "42 किमी की लंबी दौड़",
+    "synonyms": "Long distance race",
+    "category": "Sports"
+  },
+  {
+    "word": "Marble",
+    "meaning": "संगमरमर - सफेद चमकदार पत्थर",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Mason",
+    "meaning": "ईंट/पत्थर लगाने वाला कारीगर",
+    "synonyms": "Rajgir, Bricklayer",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Medal",
+    "meaning": "पदक - स्वर्ण, रजत, कांस्य",
+    "synonyms": "Gold, Silver, Bronze",
+    "category": "Sports"
+  },
+  {
+    "word": "Mediation",
+    "meaning": "मध्यस्थता से विवाद सुलझाना",
+    "synonyms": "Conciliation",
+    "category": "Legal"
+  },
+  {
+    "word": "Metro",
+    "meaning": "शहर की भूमिगत/ऊपरी रेल सेवा",
+    "synonyms": "Subway, Urban rail",
+    "category": "Transport"
+  },
+  {
+    "word": "Milestone",
+    "meaning": "परियोजना का महत्वपूर्ण पड़ाव",
+    "synonyms": "Checkpoint",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Missile",
+    "meaning": "प्रक्षेपास्त्र/मिसाइल",
+    "synonyms": "Rocket",
+    "category": "Military"
+  },
+  {
+    "word": "Mixer",
+    "meaning": "कंक्रीट मिलाने की मशीन",
+    "synonyms": "Concrete mixer, Batching plant",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Molecule",
+    "meaning": "दो या अधिक परमाणुओं से बना कण",
+    "synonyms": "Anu",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Momentum",
+    "meaning": "गति और द्रव्यमान का गुणनफल",
+    "synonyms": "संवेग",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Monetization",
+    "meaning": "सामग्री से पैसा कमाना",
+    "synonyms": "Revenue generation",
+    "category": "Media"
+  },
+  {
+    "word": "Monorail",
+    "meaning": "एक पटरी पर चलने वाली रेल",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "MOOC",
+    "meaning": "बड़े पैमाने पर खुला ऑनलाइन पाठ्यक्रम",
+    "synonyms": "Massive Open Online Course",
+    "category": "Education"
+  },
+  {
+    "word": "Mortar",
+    "meaning": "सीमेंट और रेत का मिश्रण जो ईंटें जोड़ता है",
+    "synonyms": "Plaster mix",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Mortgage",
+    "meaning": "संपत्ति गिरवी रखकर लिया गया कर्ज़ा",
+    "synonyms": "Hypothecation, Pledge",
+    "category": "Finance"
+  },
+  {
+    "word": "MRI",
+    "meaning": "चुंबकीय तरंगों से शरीर की तस्वीर",
+    "synonyms": "Magnetic Resonance Imaging",
+    "category": "Medical"
+  },
+  {
+    "word": "MSP",
+    "meaning": "न्यूनतम समर्थन मूल्य - सरकार की गारंटी कीमत",
+    "synonyms": "Minimum Support Price",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Mulching",
+    "meaning": "पौधों के चारों ओर पत्ते/प्लास्टिक बिछाना",
+    "synonyms": "Ground cover",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Mutation",
+    "meaning": "राजस्व रिकॉर्ड में मालिकाना हक बदलना",
+    "synonyms": "Dakhil kharij, Intkal",
+    "category": "Legal"
+  },
+  {
+    "word": "Mutual Fund",
+    "meaning": "कई निवेशकों का पैसा मिलाकर निवेश करने वाला फंड",
+    "synonyms": "MF",
+    "category": "Finance"
+  },
+  {
+    "word": "NAAC",
+    "meaning": "शिक्षा संस्थानों की गुणवत्ता मूल्यांकन संस्था",
+    "synonyms": "National Assessment and Accreditation Council",
+    "category": "Education"
+  },
+  {
+    "word": "Nanotechnology",
+    "meaning": "अत्यंत सूक्ष्म स्तर पर तकनीक",
+    "synonyms": "Nanotech",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Navy",
+    "meaning": "नौसेना",
+    "synonyms": "Naval force",
+    "category": "Military"
+  },
+  {
+    "word": "NBC",
+    "meaning": "राष्ट्रीय भवन संहिता",
+    "synonyms": "National Building Code",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "NEET",
+    "meaning": "मेडिकल प्रवेश परीक्षा",
+    "synonyms": "National Eligibility cum Entrance Test",
+    "category": "Education"
+  },
+  {
+    "word": "NEFT",
+    "meaning": "एक बैंक से दूसरे बैंक में पैसा भेजने की प्रणाली",
+    "synonyms": "National Electronic Funds Transfer",
+    "category": "Finance"
+  },
+  {
+    "word": "Neurologist",
+    "meaning": "मस्तिष्क और तंत्रिका रोग विशेषज्ञ",
+    "synonyms": "Brain specialist",
+    "category": "Medical"
+  },
+  {
+    "word": "Neutron",
+    "meaning": "बिना आवेश वाला परमाणु कण",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "NHAI",
+    "meaning": "राष्ट्रीय राजमार्ग प्राधिकरण",
+    "synonyms": "National Highway Authority of India",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "NICU",
+    "meaning": "नवजात शिशुओं की गहन चिकित्सा इकाई",
+    "synonyms": "Neonatal ICU",
+    "category": "Medical"
+  },
+  {
+    "word": "Nifty",
+    "meaning": "NSE का प्रमुख सूचकांक",
+    "synonyms": "Nifty 50",
+    "category": "Finance"
+  },
+  {
+    "word": "NOC",
+    "meaning": "अनापत्ति प्रमाण पत्र",
+    "synonyms": "No Objection Certificate",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Notary",
+    "meaning": "नोटरी - दस्तावेजों को प्रमाणित करने वाला अधिकारी",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "NPA",
+    "meaning": "बैंक का वो कर्ज़ जो वापस नहीं आ रहा",
+    "synonyms": "Non Performing Asset, Bad loan",
+    "category": "Finance"
+  },
+  {
+    "word": "NPK",
+    "meaning": "नाइट्रोजन-फॉस्फोरस-पोटाश का मिश्रित खाद",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "NSE",
+    "meaning": "नेशनल स्टॉक एक्सचेंज",
+    "synonyms": "National Stock Exchange",
+    "category": "Finance"
+  },
+  {
+    "word": "Nuclear",
+    "meaning": "परमाणु से संबंधित",
+    "synonyms": "Atomic",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Nursery",
+    "meaning": "पौधे तैयार करने की जगह",
+    "synonyms": "Plant nursery",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Offside",
+    "meaning": "नियम-विरुद्ध आगे खड़ा होना (फुटबॉल)",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Olympics",
+    "meaning": "ओलंपिक खेल",
+    "synonyms": "Olympic Games",
+    "category": "Sports"
+  },
+  {
+    "word": "OPD",
+    "meaning": "बाहरी रोगी विभाग",
+    "synonyms": "Out Patient Department",
+    "category": "Medical"
+  },
+  {
+    "word": "Open Source",
+    "meaning": "स्वतंत्र रूप से उपलब्ध सॉफ्टवेयर कोड",
+    "synonyms": "Free software",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Operation Theater",
+    "meaning": "शल्य चिकित्सा कक्ष",
+    "synonyms": "OT, Surgery room",
+    "category": "Medical"
+  },
+  {
+    "word": "Ophthalmologist",
+    "meaning": "नेत्र रोग विशेषज्ञ",
+    "synonyms": "Eye specialist",
+    "category": "Medical"
+  },
+  {
+    "word": "Organic Farming",
+    "meaning": "जैविक/प्राकृतिक खेती",
+    "synonyms": "Chemical-free farming",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Orthopedic",
+    "meaning": "हड्डी और जोड़ों का डॉक्टर/विभाग",
+    "synonyms": "Bone specialist",
+    "category": "Medical"
+  },
+  {
+    "word": "Overhead Tank",
+    "meaning": "छत पर रखी पानी की टंकी",
+    "synonyms": "Syntax tank, Water tank",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Overtaking",
+    "meaning": "आगे निकलना",
+    "synonyms": "Passing",
+    "category": "Transport"
+  },
+  {
+    "word": "Oxygen",
+    "meaning": "ऑक्सीजन - साँस लेने के लिए जरूरी गैस",
+    "synonyms": "O2",
+    "category": "Medical"
+  },
+  {
+    "word": "Painkiller",
+    "meaning": "दर्द निवारक दवाई",
+    "synonyms": "Analgesic, Pain reliever",
+    "category": "Medical"
+  },
+  {
+    "word": "PAN Card",
+    "meaning": "आयकर विभाग का पहचान पत्र",
+    "synonyms": "Permanent Account Number",
+    "category": "Finance"
+  },
+  {
+    "word": "Panchayat",
+    "meaning": "ग्राम स्तर की स्थानीय शासन संस्था",
+    "synonyms": "Village council",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Parapet",
+    "meaning": "छत के किनारे की दीवार/मुंडेर",
+    "synonyms": "Railing wall, Boundary wall",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Parking",
+    "meaning": "वाहन खड़ा करने की जगह",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "Patent",
+    "meaning": "आविष्कार का एकाधिकार पत्र",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "Pathology",
+    "meaning": "रोगों की जाँच का विज्ञान/प्रयोगशाला",
+    "synonyms": "Lab, Laboratory",
+    "category": "Medical"
+  },
+  {
+    "word": "Patrol",
+    "meaning": "गश्त/निगरानी दौरा",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "PCC",
+    "meaning": "प्लेन सीमेंट कंक्रीट - बिना सरिये का कंक्रीट",
+    "synonyms": "Plain Cement Concrete",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Pediatrician",
+    "meaning": "बाल रोग विशेषज्ञ",
+    "synonyms": "Child specialist",
+    "category": "Medical"
+  },
+  {
+    "word": "Penalty",
+    "meaning": "नियम तोड़ने पर दंड",
+    "synonyms": "Foul",
+    "category": "Sports"
+  },
+  {
+    "word": "Personal Loan",
+    "meaning": "व्यक्तिगत कर्ज़ा",
+    "synonyms": "Consumer loan",
+    "category": "Finance"
+  },
+  {
+    "word": "PERT",
+    "meaning": "परियोजना का समय प्रबंधन तकनीक",
+    "synonyms": "Program Evaluation Review Technique",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Pesticide",
+    "meaning": "कीटनाशक",
+    "synonyms": "Insecticide",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Petition",
+    "meaning": "न्यायालय में दायर याचिका/अर्ज़ी",
+    "synonyms": "Plea, Application",
+    "category": "Legal"
+  },
+  {
+    "word": "Petrol",
+    "meaning": "पेट्रोल ईंधन",
+    "synonyms": "Gasoline",
+    "category": "Transport"
+  },
+  {
+    "word": "pH Level",
+    "meaning": "मिट्टी/पानी की अम्लीयता/क्षारीयता का माप",
+    "synonyms": "Acidity level",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Pharmacy",
+    "meaning": "दवाई की दुकान/विभाग",
+    "synonyms": "Medical store, Chemist",
+    "category": "Medical"
+  },
+  {
+    "word": "PhD",
+    "meaning": "डॉक्टरेट - सर्वोच्च शैक्षणिक उपाधि",
+    "synonyms": "Doctorate",
+    "category": "Education"
+  },
+  {
+    "word": "Phishing",
+    "meaning": "धोखाधड़ी से जानकारी चुराने का तरीका",
+    "synonyms": "Online fraud",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Photosynthesis",
+    "meaning": "पौधों द्वारा सूर्य की रोशनी से भोजन बनाना",
+    "synonyms": "प्रकाश संश्लेषण",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Physiotherapy",
+    "meaning": "व्यायाम/मालिश से शारीरिक उपचार",
+    "synonyms": "Physical therapy, PT",
+    "category": "Medical"
+  },
+  {
+    "word": "PIL",
+    "meaning": "जनहित याचिका",
+    "synonyms": "Public Interest Litigation",
+    "category": "Legal"
+  },
+  {
+    "word": "Pile",
+    "meaning": "गहरी नींव के लिए जमीन में गाड़ा जाने वाला खंभा",
+    "synonyms": "Deep foundation, Boring pile",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Placement",
+    "meaning": "कॉलेज से सीधे नौकरी लगना",
+    "synonyms": "Campus recruitment",
+    "category": "Education"
+  },
+  {
+    "word": "Plagiarism",
+    "meaning": "दूसरे का काम अपने नाम से दिखाना/चोरी",
+    "synonyms": "Copying",
+    "category": "Education"
+  },
+  {
+    "word": "Plaintiff",
+    "meaning": "वादी - मुकदमा दायर करने वाला",
+    "synonyms": "Complainant",
+    "category": "Legal"
+  },
+  {
+    "word": "Plaster",
+    "meaning": "दीवार पर सीमेंट-रेत की परत चढ़ाना",
+    "synonyms": "Rendering, Pargetting",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Platelet",
+    "meaning": "खून के थक्के बनाने वाली कोशिकाएँ",
+    "synonyms": "Thrombocyte",
+    "category": "Medical"
+  },
+  {
+    "word": "Platform",
+    "meaning": "रेलवे स्टेशन पर ट्रेन का प्लेटफॉर्म",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "Platoon",
+    "meaning": "30-50 सैनिकों का दल",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Plinth",
+    "meaning": "भवन का जमीन से ऊपर का आधार भाग",
+    "synonyms": "Base, Foundation level",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Plumber",
+    "meaning": "पानी की पाइपलाइन लगाने वाला",
+    "synonyms": "Pipefitter",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "PM-KISAN",
+    "meaning": "प्रधानमंत्री किसान सम्मान निधि योजना",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "POCSO",
+    "meaning": "बच्चों के यौन शोषण से संरक्षण का कानून",
+    "synonyms": "Protection of Children from Sexual Offences",
+    "category": "Legal"
+  },
+  {
+    "word": "Podcast",
+    "meaning": "ऑनलाइन ऑडियो कार्यक्रम",
+    "synonyms": "Audio show",
+    "category": "Media"
+  },
+  {
+    "word": "Policy",
+    "meaning": "बीमा पॉलिसी",
+    "synonyms": "Insurance plan",
+    "category": "Finance"
+  },
+  {
+    "word": "Polyhouse",
+    "meaning": "प्लास्टिक शीट से बना पौधाघर",
+    "synonyms": "Greenhouse",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Portfolio",
+    "meaning": "निवेश का समूह",
+    "synonyms": "Investment portfolio",
+    "category": "Finance"
+  },
+  {
+    "word": "Power of Attorney",
+    "meaning": "मुख्तारनामा - किसी को अपनी ओर से काम करने का अधिकार",
+    "synonyms": "POA",
+    "category": "Legal"
+  },
+  {
+    "word": "Powerplay",
+    "meaning": "क्रिकेट में फील्डिंग प्रतिबंध वाले ओवर",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Precast",
+    "meaning": "पहले से ढाला हुआ कंक्रीट का टुकड़ा",
+    "synonyms": "Prefabricated",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Premium",
+    "meaning": "बीमा किस्त",
+    "synonyms": "Insurance premium",
+    "category": "Finance"
+  },
+  {
+    "word": "Prescription",
+    "meaning": "डॉक्टर द्वारा लिखी दवाइयों की पर्ची",
+    "synonyms": "Rx",
+    "category": "Medical"
+  },
+  {
+    "word": "Press Conference",
+    "meaning": "पत्रकार सम्मेलन",
+    "synonyms": "Media briefing",
+    "category": "Media"
+  },
+  {
+    "word": "Press Release",
+    "meaning": "मीडिया के लिए आधिकारिक बयान",
+    "synonyms": "Media statement",
+    "category": "Media"
+  },
+  {
+    "word": "Principal",
+    "meaning": "मूलधन - कर्ज़े की असली रकम बिना ब्याज के",
+    "synonyms": "Capital amount",
+    "category": "Finance"
+  },
+  {
+    "word": "Processor",
+    "meaning": "कंप्यूटर का मुख्य गणना करने वाला चिप",
+    "synonyms": "CPU, Chip",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Professor",
+    "meaning": "प्राध्यापक",
+    "synonyms": "Faculty",
+    "category": "Education"
+  },
+  {
+    "word": "Profit",
+    "meaning": "लाभ/मुनाफा",
+    "synonyms": "Gain, Earnings",
+    "category": "Finance"
+  },
+  {
+    "word": "Prosecution",
+    "meaning": "अभियोजन - सरकार की तरफ से मुकदमा चलाना",
+    "synonyms": "",
+    "category": "Legal"
+  },
+  {
+    "word": "Proton",
+    "meaning": "धनात्मक आवेश वाला परमाणु कण",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Public Prosecutor",
+    "meaning": "सरकारी वकील",
+    "synonyms": "PP, State counsel",
+    "category": "Legal"
+  },
+  {
+    "word": "PUC",
+    "meaning": "वाहन प्रदूषण जाँच प्रमाण पत्र",
+    "synonyms": "Pollution Under Control",
+    "category": "Transport"
+  },
+  {
+    "word": "Pulse Oximeter",
+    "meaning": "उँगली से ऑक्सीजन स्तर मापने वाला उपकरण",
+    "synonyms": "SpO2 meter",
+    "category": "Medical"
+  },
+  {
+    "word": "Pump",
+    "meaning": "पानी खींचने/चढ़ाने की मशीन",
+    "synonyms": "Motor, Submersible",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "PWD",
+    "meaning": "लोक निर्माण विभाग",
+    "synonyms": "Public Works Department",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Quarter",
+    "meaning": "तिमाही - तीन महीने की अवधि",
+    "synonyms": "Q1 Q2 Q3 Q4",
+    "category": "Finance"
+  },
+  {
+    "word": "Quarter-Final",
+    "meaning": "क्वार्टर फाइनल",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Rabi",
+    "meaning": "सर्दी की फसल (अक्तूबर-मार्च)",
+    "synonyms": "Winter crop",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Radar",
+    "meaning": "रेडियो तरंगों से वस्तु का पता लगाने वाली प्रणाली",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Radiation",
+    "meaning": "ऊर्जा का विकिरण/उत्सर्जन",
+    "synonyms": "Emission",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "RAM",
+    "meaning": "कंप्यूटर की अस्थायी तेज़ मेमोरी",
+    "synonyms": "Random Access Memory",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Ramp",
+    "meaning": "ढलान वाला रास्ता",
+    "synonyms": "Slope, Incline",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "RBC",
+    "meaning": "लाल रक्त कोशिका - ऑक्सीजन ले जाती है",
+    "synonyms": "Red Blood Cell",
+    "category": "Medical"
+  },
+  {
+    "word": "RBI",
+    "meaning": "भारतीय रिज़र्व बैंक - केंद्रीय बैंक",
+    "synonyms": "Reserve Bank of India",
+    "category": "Finance"
+  },
+  {
+    "word": "RC",
+    "meaning": "वाहन पंजीकरण प्रमाण पत्र",
+    "synonyms": "Registration Certificate",
+    "category": "Transport"
+  },
+  {
+    "word": "RCC",
+    "meaning": "सरिये वाला प्रबलित सीमेंट कंक्रीट",
+    "synonyms": "Reinforced Cement Concrete",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Reactor",
+    "meaning": "नियंत्रित परमाणु प्रतिक्रिया का संयंत्र",
+    "synonyms": "Nuclear reactor",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Ready Mix",
+    "meaning": "फैक्ट्री में तैयार कंक्रीट जो ट्रक से आता है",
+    "synonyms": "RMC, Pre-mixed concrete",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Rebar",
+    "meaning": "कंक्रीट मजबूत करने वाला सरिया",
+    "synonyms": "Reinforcement bar, TMT bar, Sariya",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Record",
+    "meaning": "सर्वश्रेष्ठ प्रदर्शन का कीर्तिमान",
+    "synonyms": "Best mark",
+    "category": "Sports"
+  },
+  {
+    "word": "Recurring Deposit",
+    "meaning": "आवर्ती जमा - हर महीने जमा करने वाली योजना",
+    "synonyms": "RD",
+    "category": "Finance"
+  },
+  {
+    "word": "Referee",
+    "meaning": "खेल का निर्णायक",
+    "synonyms": "Umpire, Judge",
+    "category": "Sports"
+  },
+  {
+    "word": "Regiment",
+    "meaning": "सेना की बड़ी इकाई",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Registry",
+    "meaning": "संपत्ति का सरकारी पंजीकरण",
+    "synonyms": "Registration",
+    "category": "Legal"
+  },
+  {
+    "word": "Reinforcement",
+    "meaning": "कंक्रीट में डाला जाने वाला सरिया/लोहा",
+    "synonyms": "Rebar, Steel bars, Sariya",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Relay",
+    "meaning": "टीम के सदस्यों द्वारा बारी-बारी दौड़",
+    "synonyms": "Relay race",
+    "category": "Sports"
+  },
+  {
+    "word": "Renewable Energy",
+    "meaning": "नवीकरणीय ऊर्जा जैसे सौर, पवन",
+    "synonyms": "Green energy, Clean energy",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Reporter",
+    "meaning": "संवाददाता/पत्रकार",
+    "synonyms": "Journalist, Correspondent",
+    "category": "Media"
+  },
+  {
+    "word": "RERA",
+    "meaning": "रियल एस्टेट नियामक प्राधिकरण",
+    "synonyms": "Real Estate Regulatory Authority",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Research Paper",
+    "meaning": "शोध पत्र",
+    "synonyms": "Journal article",
+    "category": "Education"
+  },
+  {
+    "word": "Resistance",
+    "meaning": "विद्युत प्रवाह का विरोध",
+    "synonyms": "Ohm, Impedance",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Retaining Wall",
+    "meaning": "मिट्टी का दबाव सहने वाली दीवार",
+    "synonyms": "Support wall",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Revenue",
+    "meaning": "कुल आय/राजस्व",
+    "synonyms": "Income, Turnover",
+    "category": "Finance"
+  },
+  {
+    "word": "Rising Main",
+    "meaning": "पानी ऊपर चढ़ाने वाली मुख्य पाइपलाइन",
+    "synonyms": "Water main, Supply pipe",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "RNA",
+    "meaning": "प्रोटीन बनाने में मदद करने वाला अणु",
+    "synonyms": "Ribonucleic Acid",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Robotics",
+    "meaning": "रोबोट बनाने और चलाने का विज्ञान",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "ROI",
+    "meaning": "निवेश पर प्रतिफल",
+    "synonyms": "Return on Investment",
+    "category": "Finance"
+  },
+  {
+    "word": "Roller",
+    "meaning": "सड़क/मिट्टी दबाने वाली भारी गोल मशीन",
+    "synonyms": "Compactor, Road roller",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Rotavator",
+    "meaning": "खेत की मिट्टी भुरभुरी करने की मशीन",
+    "synonyms": "Cultivator",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Roundabout",
+    "meaning": "गोलचक्कर",
+    "synonyms": "Traffic circle, Rotary",
+    "category": "Transport"
+  },
+  {
+    "word": "Router",
+    "meaning": "इंटरनेट सिग्नल बाँटने वाला उपकरण",
+    "synonyms": "Gateway, Modem",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "RTGS",
+    "meaning": "बड़ी रकम तुरंत भेजने की प्रणाली",
+    "synonyms": "Real Time Gross Settlement",
+    "category": "Finance"
+  },
+  {
+    "word": "RTI",
+    "meaning": "सूचना का अधिकार",
+    "synonyms": "Right to Information",
+    "category": "Legal"
+  },
+  {
+    "word": "Run Rate",
+    "meaning": "प्रति ओवर रन बनने की दर",
+    "synonyms": "Scoring rate",
+    "category": "Sports"
+  },
+  {
+    "word": "Runway",
+    "meaning": "हवाई जहाज़ उड़ने/उतरने का रास्ता",
+    "synonyms": "Airstrip",
+    "category": "Transport"
+  },
+  {
+    "word": "Saline",
+    "meaning": "नमक का घोल जो नस में चढ़ाया जाता है",
+    "synonyms": "NS, Normal saline",
+    "category": "Medical"
+  },
+  {
+    "word": "Sand",
+    "meaning": "रेत/बालू",
+    "synonyms": "Fine aggregate, Bajri",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Satellite",
+    "meaning": "पृथ्वी की कक्षा में घूमने वाला उपकरण",
+    "synonyms": "Upagrah",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Savings Account",
+    "meaning": "बचत खाता",
+    "synonyms": "SB Account",
+    "category": "Finance"
+  },
+  {
+    "word": "Scaffolding",
+    "meaning": "ऊँचाई पर काम करने के लिए अस्थायी ढाँचा",
+    "synonyms": "Staging, Platform",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Scholarship",
+    "meaning": "छात्रवृत्ति",
+    "synonyms": "Fellowship",
+    "category": "Education"
+  },
+  {
+    "word": "Script",
+    "meaning": "फिल्म/कार्यक्रम की पटकथा",
+    "synonyms": "Screenplay",
+    "category": "Media"
+  },
+  {
+    "word": "Scrum",
+    "meaning": "एजाइल का एक ढाँचा जिसमें स्प्रिंट होते हैं",
+    "synonyms": "Sprint",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "SEBI",
+    "meaning": "शेयर बाज़ार का नियामक",
+    "synonyms": "Securities and Exchange Board of India",
+    "category": "Finance"
+  },
+  {
+    "word": "Section",
+    "meaning": "कानून की धारा/अनुच्छेद",
+    "synonyms": "Dhara, Article",
+    "category": "Legal"
+  },
+  {
+    "word": "Semester",
+    "meaning": "छह महीने की शैक्षणिक अवधि",
+    "synonyms": "Term",
+    "category": "Education"
+  },
+  {
+    "word": "Semi-Final",
+    "meaning": "उपांतिम मैच",
+    "synonyms": "",
+    "category": "Sports"
+  },
+  {
+    "word": "Semiconductor",
+    "meaning": "अर्धचालक - बिजली आंशिक रूप से गुजारने वाला पदार्थ",
+    "synonyms": "Chip material",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Seminar",
+    "meaning": "विषय पर चर्चा सभा",
+    "synonyms": "Workshop, Conference",
+    "category": "Education"
+  },
+  {
+    "word": "Sensex",
+    "meaning": "BSE का प्रमुख सूचकांक",
+    "synonyms": "BSE Index",
+    "category": "Finance"
+  },
+  {
+    "word": "Sensor",
+    "meaning": "तापमान/गति/प्रकाश आदि मापने वाला उपकरण",
+    "synonyms": "Detector",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Sentence",
+    "meaning": "सज़ा का आदेश",
+    "synonyms": "Punishment, Penalty",
+    "category": "Legal"
+  },
+  {
+    "word": "SEO",
+    "meaning": "गूगल खोज में ऊपर आने की तकनीक",
+    "synonyms": "Search Engine Optimization",
+    "category": "Media"
+  },
+  {
+    "word": "Septic Tank",
+    "meaning": "गंदे पानी को साफ करने का भूमिगत टैंक",
+    "synonyms": "Sewage tank",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Server",
+    "meaning": "अन्य कंप्यूटरों को सेवा देने वाला कंप्यूटर",
+    "synonyms": "Host",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Setback",
+    "meaning": "भवन और सड़क/सीमा के बीच छोड़ी जाने वाली खाली जगह",
+    "synonyms": "Margin, Offset",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Settlement",
+    "meaning": "आपसी समझौता/सुलह",
+    "synonyms": "Compromise",
+    "category": "Legal"
+  },
+  {
+    "word": "Share Market",
+    "meaning": "शेयर बाज़ार",
+    "synonyms": "Stock market, Equity market",
+    "category": "Finance"
+  },
+  {
+    "word": "Shuttering",
+    "meaning": "कंक्रीट ढालने के लिए लकड़ी/स्टील का ढाँचा",
+    "synonyms": "Formwork, Centering",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Side Effect",
+    "meaning": "दवाई का अनचाहा प्रभाव",
+    "synonyms": "Adverse effect",
+    "category": "Medical"
+  },
+  {
+    "word": "Silt",
+    "meaning": "नदी/तालाब में जमी बारीक मिट्टी",
+    "synonyms": "Sediment",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Simple Interest",
+    "meaning": "साधारण ब्याज",
+    "synonyms": "SI",
+    "category": "Finance"
+  },
+  {
+    "word": "SIP",
+    "meaning": "हर महीने म्यूचुअल फंड में निश्चित रकम लगाना",
+    "synonyms": "Systematic Investment Plan",
+    "category": "Finance"
+  },
+  {
+    "word": "Site Engineer",
+    "meaning": "निर्माण स्थल पर काम देखने वाला इंजीनियर",
+    "synonyms": "Field engineer",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Site Plan",
+    "meaning": "पूरे प्लॉट का नक्शा जिसमें भवन की स्थिति दिखती है",
+    "synonyms": "Plot plan",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Six",
+    "meaning": "क्रिकेट में छक्का",
+    "synonyms": "Sixer",
+    "category": "Sports"
+  },
+  {
+    "word": "Slab",
+    "meaning": "छत की समतल कंक्रीट पट्टी",
+    "synonyms": "Roof slab, Floor slab",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Slump Test",
+    "meaning": "कंक्रीट की गुणवत्ता जाँचने का परीक्षण",
+    "synonyms": "Consistency test",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Software",
+    "meaning": "कंप्यूटर को चलाने वाले प्रोग्राम",
+    "synonyms": "Application, Program",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Soil Testing",
+    "meaning": "मिट्टी की जाँच",
+    "synonyms": "Soil analysis",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Solar Panel",
+    "meaning": "सूर्य की रोशनी से बिजली बनाने वाला पैनल",
+    "synonyms": "PV panel, Solar cell",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Source",
+    "meaning": "खबर का स्रोत/सूत्र",
+    "synonyms": "Informant",
+    "category": "Media"
+  },
+  {
+    "word": "Spacer",
+    "meaning": "सरिये और शटरिंग के बीच दूरी बनाए रखने वाला टुकड़ा",
+    "synonyms": "Cover block, Chair",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Spectrum",
+    "meaning": "तरंगों का पूरा दायरा जैसे प्रकाश स्पेक्ट्रम",
+    "synonyms": "Range",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Speed Limit",
+    "meaning": "अधिकतम गति सीमा",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "Sprayer",
+    "meaning": "कीटनाशक छिड़कने की मशीन",
+    "synonyms": "Spray pump",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Sprinkler",
+    "meaning": "फव्वारे से सिंचाई करने वाला उपकरण",
+    "synonyms": "Rain gun",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Sprint",
+    "meaning": "छोटी दूरी की तेज़ दौड़",
+    "synonyms": "100m, 200m race",
+    "category": "Sports"
+  },
+  {
+    "word": "SSD",
+    "meaning": "तेज़ गति वाली ठोस अवस्था भंडारण ड्राइव",
+    "synonyms": "Solid State Drive",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Stadium",
+    "meaning": "खेल का मैदान/स्टेडियम",
+    "synonyms": "Ground, Arena",
+    "category": "Sports"
+  },
+  {
+    "word": "Staircase",
+    "meaning": "सीढ़ी",
+    "synonyms": "Steps, Stairs",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Stamp Duty",
+    "meaning": "दस्तावेजों पर लगने वाला सरकारी शुल्क",
+    "synonyms": "Registration fee",
+    "category": "Legal"
+  },
+  {
+    "word": "Stay Order",
+    "meaning": "अदालत का रोक आदेश",
+    "synonyms": "Injunction",
+    "category": "Legal"
+  },
+  {
+    "word": "Steel",
+    "meaning": "इस्पात/लोहा जो निर्माण में इस्तेमाल होता है",
+    "synonyms": "Iron, TMT",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Steroid",
+    "meaning": "सूजन और एलर्जी कम करने वाली दवाई",
+    "synonyms": "Corticosteroid",
+    "category": "Medical"
+  },
+  {
+    "word": "Stethoscope",
+    "meaning": "हृदय और फेफड़ों की आवाज सुनने का उपकरण",
+    "synonyms": "",
+    "category": "Medical"
+  },
+  {
+    "word": "Stirrup",
+    "meaning": "सरियों को बाँधने वाला छोटा लोहे का फ्रेम",
+    "synonyms": "Ring, Binding wire frame",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Stock",
+    "meaning": "शेयर/हिस्सेदारी",
+    "synonyms": "Share, Equity",
+    "category": "Finance"
+  },
+  {
+    "word": "STP",
+    "meaning": "सीवेज ट्रीटमेंट प्लांट - गंदा पानी साफ करने का संयंत्र",
+    "synonyms": "Sewage Treatment Plant",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Streaming",
+    "meaning": "इंटरनेट पर सीधे वीडियो/ऑडियो देखना-सुनना",
+    "synonyms": "Online viewing",
+    "category": "Media"
+  },
+  {
+    "word": "Sub-contractor",
+    "meaning": "मुख्य ठेकेदार के नीचे काम करने वाला ठेकेदार",
+    "synonyms": "Petty contractor",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Submersible Pump",
+    "meaning": "पानी के अंदर डूबकर चलने वाला पंप",
+    "synonyms": "Boring pump",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Subscribers",
+    "meaning": "चैनल/सेवा के सदस्य",
+    "synonyms": "Followers",
+    "category": "Media"
+  },
+  {
+    "word": "Subsidy",
+    "meaning": "सरकारी सहायता/अनुदान",
+    "synonyms": "Grant, Aid",
+    "category": "Finance"
+  },
+  {
+    "word": "Substitute",
+    "meaning": "बदली खिलाड़ी",
+    "synonyms": "Reserve, Bench player",
+    "category": "Sports"
+  },
+  {
+    "word": "Subtitles",
+    "meaning": "स्क्रीन पर लिखित अनुवाद",
+    "synonyms": "Captions",
+    "category": "Media"
+  },
+  {
+    "word": "Summons",
+    "meaning": "अदालत में पेश होने का आदेश",
+    "synonyms": "Court notice",
+    "category": "Legal"
+  },
+  {
+    "word": "Sump",
+    "meaning": "जमीन के अंदर बनी पानी की टंकी",
+    "synonyms": "Underground tank",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Supervisor",
+    "meaning": "काम की निगरानी करने वाला",
+    "synonyms": "Overseer, Foreman, Mistri",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Supreme Court",
+    "meaning": "सर्वोच्च न्यायालय",
+    "synonyms": "SC, Apex court",
+    "category": "Legal"
+  },
+  {
+    "word": "Surgery",
+    "meaning": "शल्य चिकित्सा/ऑपरेशन",
+    "synonyms": "Operation",
+    "category": "Medical"
+  },
+  {
+    "word": "Surveillance",
+    "meaning": "निगरानी/जासूसी",
+    "synonyms": "Monitoring, Recon",
+    "category": "Military"
+  },
+  {
+    "word": "Survey",
+    "meaning": "जमीन का नक्शा/माप निकालना",
+    "synonyms": "Land survey, Measurement",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Suspension",
+    "meaning": "वाहन का झटके सहने का तंत्र",
+    "synonyms": "Shock absorber",
+    "category": "Transport"
+  },
+  {
+    "word": "SWR Pipe",
+    "meaning": "गंदे पानी की पाइप",
+    "synonyms": "Soil Waste Rain pipe",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Syllabus",
+    "meaning": "पाठ्यक्रम",
+    "synonyms": "Curriculum",
+    "category": "Education"
+  },
+  {
+    "word": "Tablet",
+    "meaning": "गोली/दवाई",
+    "synonyms": "Pill, Medicine",
+    "category": "Medical"
+  },
+  {
+    "word": "TDS",
+    "meaning": "स्रोत पर कर कटौती",
+    "synonyms": "Tax Deducted at Source",
+    "category": "Finance"
+  },
+  {
+    "word": "Tender",
+    "meaning": "निर्माण कार्य के लिए बोली/निविदा",
+    "synonyms": "Bid, Quotation",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Terminal",
+    "meaning": "हवाई अड्डे/बस अड्डे की इमारत",
+    "synonyms": "",
+    "category": "Transport"
+  },
+  {
+    "word": "Theodolite",
+    "meaning": "जमीन के कोण मापने का उपकरण",
+    "synonyms": "Transit, Total station",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Thermodynamics",
+    "meaning": "ऊष्मा और ऊर्जा का विज्ञान",
+    "synonyms": "Heat science",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Thesis",
+    "meaning": "शोध प्रबंध",
+    "synonyms": "Dissertation",
+    "category": "Education"
+  },
+  {
+    "word": "Thresher",
+    "meaning": "फसल से दाना अलग करने की मशीन",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Thumbnail",
+    "meaning": "वीडियो की छोटी प्रदर्शन तस्वीर",
+    "synonyms": "Preview image",
+    "category": "Media"
+  },
+  {
+    "word": "Thyroid",
+    "meaning": "गले की ग्रंथि जो हार्मोन बनाती है",
+    "synonyms": "Thyroid gland",
+    "category": "Medical"
+  },
+  {
+    "word": "Tie Wire",
+    "meaning": "सरिये बाँधने का पतला तार",
+    "synonyms": "Binding wire, GI wire",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Tile",
+    "meaning": "फर्श/दीवार पर लगाई जाने वाली टाइल",
+    "synonyms": "Ceramic tile, Vitrified tile",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "TMT Bar",
+    "meaning": "थर्मो मैकेनिकली ट्रीटेड सरिया",
+    "synonyms": "Rebar, Reinforcement bar",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Toll Plaza",
+    "meaning": "राजमार्ग पर शुल्क वसूली केंद्र",
+    "synonyms": "Toll booth, Toll gate",
+    "category": "Transport"
+  },
+  {
+    "word": "Torpedo",
+    "meaning": "पानी में चलने वाला विस्फोटक हथियार",
+    "synonyms": "",
+    "category": "Military"
+  },
+  {
+    "word": "Total Station",
+    "meaning": "दूरी और कोण मापने का इलेक्ट्रॉनिक उपकरण",
+    "synonyms": "ETS",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Tournament",
+    "meaning": "प्रतियोगिता/टूर्नामेंट",
+    "synonyms": "Championship, Competition",
+    "category": "Sports"
+  },
+  {
+    "word": "Tractor",
+    "meaning": "खेत जोतने/बोझ ढोने वाला वाहन",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Trademark",
+    "meaning": "व्यापार चिह्न/ब्रांड का कानूनी संरक्षण",
+    "synonyms": "Brand protection",
+    "category": "Legal"
+  },
+  {
+    "word": "Traffic Signal",
+    "meaning": "यातायात बत्ती",
+    "synonyms": "Traffic light, Red light",
+    "category": "Transport"
+  },
+  {
+    "word": "Transaction",
+    "meaning": "लेन-देन",
+    "synonyms": "Transfer, Payment",
+    "category": "Finance"
+  },
+  {
+    "word": "Transistor",
+    "meaning": "विद्युत संकेत बढ़ाने/स्विच करने वाला पुर्जा",
+    "synonyms": "",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Transplant",
+    "meaning": "शरीर में किसी अंग को बदलना",
+    "synonyms": "Organ transplant",
+    "category": "Medical"
+  },
+  {
+    "word": "Transplanting",
+    "meaning": "पौधे को एक जगह से उखाड़कर दूसरी जगह लगाना",
+    "synonyms": "Ropai",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Tribunal",
+    "meaning": "विशेष मामलों की न्यायिक संस्था",
+    "synonyms": "Bench",
+    "category": "Legal"
+  },
+  {
+    "word": "TRP",
+    "meaning": "टीवी चैनल की लोकप्रियता मापने का पैमाना",
+    "synonyms": "Television Rating Point",
+    "category": "Media"
+  },
+  {
+    "word": "Tubewell",
+    "meaning": "ज़मीन से पानी खींचने का कुआँ",
+    "synonyms": "Bore well, Boring",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Turnover",
+    "meaning": "कुल कारोबार/बिक्री",
+    "synonyms": "Sales, Revenue",
+    "category": "Finance"
+  },
+  {
+    "word": "UGC",
+    "meaning": "विश्वविद्यालय अनुदान आयोग",
+    "synonyms": "University Grants Commission",
+    "category": "Education"
+  },
+  {
+    "word": "Ultrasound",
+    "meaning": "ध्वनि तरंगों से शरीर के अंदर देखना",
+    "synonyms": "Sonography, USG",
+    "category": "Medical"
+  },
+  {
+    "word": "Underpass",
+    "meaning": "सड़क के नीचे का रास्ता",
+    "synonyms": "Subway, Tunnel",
+    "category": "Transport"
+  },
+  {
+    "word": "Underpinning",
+    "meaning": "कमजोर नींव को मजबूत करने की तकनीक",
+    "synonyms": "Foundation strengthening",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "UPI",
+    "meaning": "मोबाइल से भुगतान की एकीकृत प्रणाली",
+    "synonyms": "Unified Payments Interface",
+    "category": "Finance"
+  },
+  {
+    "word": "UPVC",
+    "meaning": "खिड़की/पाइप में इस्तेमाल होने वाला प्लास्टिक",
+    "synonyms": "Unplasticized PVC",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Urea",
+    "meaning": "नाइट्रोजन वाली रासायनिक खाद",
+    "synonyms": "",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Vaccine",
+    "meaning": "बीमारी से बचाव का टीका",
+    "synonyms": "Immunization, Tika",
+    "category": "Medical"
+  },
+  {
+    "word": "Valve",
+    "meaning": "पानी/गैस का बहाव रोकने/चालू करने का उपकरण",
+    "synonyms": "Tap, Stopcock",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Velocity",
+    "meaning": "किसी दिशा में गति",
+    "synonyms": "Speed",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Ventilator",
+    "meaning": "साँस लेने में मदद करने वाली मशीन",
+    "synonyms": "Breathing machine",
+    "category": "Medical"
+  },
+  {
+    "word": "Verdict",
+    "meaning": "अदालत का फैसला/निर्णय",
+    "synonyms": "Judgment, Order",
+    "category": "Legal"
+  },
+  {
+    "word": "Vermicompost",
+    "meaning": "केंचुआ खाद",
+    "synonyms": "Worm compost",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Vibrator",
+    "meaning": "कंक्रीट से हवा निकालने वाली मशीन",
+    "synonyms": "Needle vibrator, Poker",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Viewership",
+    "meaning": "दर्शकों की संख्या",
+    "synonyms": "TRP, Audience",
+    "category": "Media"
+  },
+  {
+    "word": "Viral",
+    "meaning": "तेज़ी से फैलने वाली सामग्री",
+    "synonyms": "Trending",
+    "category": "Media"
+  },
+  {
+    "word": "Viva",
+    "meaning": "मौखिक परीक्षा",
+    "synonyms": "Oral exam",
+    "category": "Education"
+  },
+  {
+    "word": "Voltage",
+    "meaning": "विद्युत दबाव/वोल्टेज",
+    "synonyms": "Potential difference",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "VPN",
+    "meaning": "इंटरनेट पर सुरक्षित निजी कनेक्शन",
+    "synonyms": "Virtual Private Network",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Wallet",
+    "meaning": "डिजिटल भुगतान का वॉलेट",
+    "synonyms": "E-wallet, Digital wallet",
+    "category": "Finance"
+  },
+  {
+    "word": "Warm-up",
+    "meaning": "खेल से पहले शरीर गर्म करना",
+    "synonyms": "Stretching",
+    "category": "Sports"
+  },
+  {
+    "word": "Warrant",
+    "meaning": "गिरफ्तारी/तलाशी का न्यायिक आदेश",
+    "synonyms": "Arrest order",
+    "category": "Legal"
+  },
+  {
+    "word": "Waterproofing",
+    "meaning": "पानी/नमी रोकने का उपचार",
+    "synonyms": "Damp proofing, Sealing",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Watershed",
+    "meaning": "जल संग्रहण क्षेत्र",
+    "synonyms": "Catchment area",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Watt",
+    "meaning": "बिजली की शक्ति की इकाई",
+    "synonyms": "Power unit",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Wavelength",
+    "meaning": "तरंग की लंबाई",
+    "synonyms": "Lambda",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "WBC",
+    "meaning": "श्वेत रक्त कोशिका - संक्रमण से लड़ती है",
+    "synonyms": "White Blood Cell",
+    "category": "Medical"
+  },
+  {
+    "word": "Webinar",
+    "meaning": "ऑनलाइन सेमिनार",
+    "synonyms": "Online seminar",
+    "category": "Education"
+  },
+  {
+    "word": "Welder",
+    "meaning": "लोहा जोड़ने वाला कारीगर",
+    "synonyms": "",
+    "category": "Civil/Construction"
+  },
+  {
+    "word": "Wicket",
+    "meaning": "क्रिकेट में गिल्लियाँ/आउट होना",
+    "synonyms": "Stumps",
+    "category": "Sports"
+  },
+  {
+    "word": "WiFi",
+    "meaning": "वायरलेस इंटरनेट कनेक्शन",
+    "synonyms": "Wireless LAN",
+    "category": "Science/Technology"
+  },
+  {
+    "word": "Witness",
+    "meaning": "गवाह",
+    "synonyms": "Testimony provider",
+    "category": "Legal"
+  },
+  {
+    "word": "Writ",
+    "meaning": "उच्च न्यायालय का आदेश",
+    "synonyms": "Court order",
+    "category": "Legal"
+  },
+  {
+    "word": "X-Ray",
+    "meaning": "हड्डी/अंदरूनी अंग देखने की किरण तकनीक",
+    "synonyms": "Radiograph",
+    "category": "Medical"
+  },
+  {
+    "word": "Yield",
+    "meaning": "प्रति एकड़ फसल की पैदावार",
+    "synonyms": "Production, Output",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Zaid",
+    "meaning": "गर्मी की छोटी फसल (मार्च-जून)",
+    "synonyms": "Summer crop",
+    "category": "Agriculture"
+  },
+  {
+    "word": "Zebra Crossing",
+    "meaning": "पैदल पार पट्टी",
+    "synonyms": "Pedestrian crossing",
+    "category": "Transport"
+  }
+]
