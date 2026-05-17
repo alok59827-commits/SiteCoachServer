@@ -356,8 +356,75 @@ def discover_diff_pairs(raw: str, processed: str,
     return pairs
 
 
+# Common Hindi grammatical particles / function words.
+# We MUST NOT generate one-way corrections for these, because the
+# correct form depends entirely on local context.
+HINDI_FUNCTION_WORDS = {
+    "है", "हैं", "हो", "हूं", "हूँ", "ही", "और", "या", "तो", "भी",
+    "का", "की", "के", "को", "ने", "से", "में", "पर", "तक",
+    "यह", "वह", "ये", "वे", "इस", "उस", "इन", "उन",
+    "मैं", "तू", "तुम", "हम", "आप", "मुझे", "तुझे", "हमें",
+    "नहीं", "नही", "ना", "न", "जो", "जब", "कब", "कहाँ", "कहां",
+    "क्या", "कौन", "क्यों", "कैसे", "अब", "तब", "फिर",
+    "एक", "दो", "बहुत", "थोड़ा", "कुछ", "सब", "सभी",
+    "ठीक", "अच्छा", "बुरा", "बड़ा", "छोटा",
+}
+
+
+def _is_quality_csv_pair(wrong: str, right: str, count: int) -> bool:
+    """Only keep CSV-diff pairs that look like genuine STT mistakes,
+    not paraphrases the LLM introduced.
+
+    Heuristics:
+      - Reject any pair where either side is a single Hindi function word.
+      - Cross-script pairs (Latin → Devanagari) are gold — keep at count>=2.
+      - Single Devanagari token → Devanagari token requires count>=3 AND
+        phonetic closeness (>=0.5 ratio).
+      - Multi-word phrases need shared tokens or phonetic closeness >=0.45.
+    """
+    wrong = wrong.strip()
+    right = right.strip()
+    if not wrong or not right or wrong == right:
+        return False
+
+    # Reject grammatical-particle substitutions entirely
+    if wrong in HINDI_FUNCTION_WORDS or right in HINDI_FUNCTION_WORDS:
+        return False
+
+    wrong_has_latin = bool(LATIN.search(wrong)) and not DEVANAGARI.search(wrong)
+    right_has_dev = bool(DEVANAGARI.search(right)) and not LATIN.search(right)
+    cross_script = wrong_has_latin and right_has_dev
+
+    w_tokens = set(wrong.lower().split())
+    r_tokens = set(right.lower().split())
+
+    if cross_script:
+        return count >= 2
+
+    # Same-script single-token swap — strictest filter to avoid spurious
+    # gender/tense variations like "जाएगा/जाएगी" or "हुआ/हुई".
+    if len(w_tokens) == 1 and len(r_tokens) == 1:
+        if count < 5:
+            return False
+        ratio = SequenceMatcher(None, wrong, right).ratio()
+        # Either phonetically very close, or completely different
+        # (genuine misrecognition like जलज → कमल).
+        return ratio >= 0.7 or ratio <= 0.3
+
+    # Multi-word phrases need either shared tokens or phonetic closeness
+    if w_tokens & r_tokens:
+        return count >= 2
+    if SequenceMatcher(None, wrong, right).ratio() >= 0.45:
+        return count >= 2
+
+    return False
+
+
 def load_csv_pairs(csv_path: Path, max_rows: int | None = None) -> list[dict]:
-    """Diff-mine wrong→correct candidates from the dialogue CSV."""
+    """Diff-mine wrong→correct candidates from the dialogue CSV.
+
+    Applies a quality filter so paraphrase noise doesn't pollute the seed.
+    """
     try:
         import pandas as pd
     except ImportError:
@@ -381,10 +448,10 @@ def load_csv_pairs(csv_path: Path, max_rows: int | None = None) -> list[dict]:
 
     entries: list[dict] = []
     for (wrong, right), count in pair_counter.most_common():
-        if count < 1:
+        if not _is_quality_csv_pair(wrong, right, count):
             continue
-        # Confidence scales with how often the same correction was applied
-        confidence = min(0.5 + 0.1 * count, 0.95)
+        # Confidence scales with how often the same correction recurred
+        confidence = min(0.5 + 0.05 * count, 0.9)
         entries.append({
             "wrongWord": wrong,
             "correctWord": right,
