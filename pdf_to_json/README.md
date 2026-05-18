@@ -7,7 +7,7 @@ Auto-extracted from `MP_ESB_GROUP_3_SUB_ENGINEER_CIVIL_ENGINEERING_SOLVED_PAPERS
 
 ```
 output/
-├── questions.json          — 1,083 question objects
+├── questions.json          — 1,572 question objects
 ├── manifest.json           — extraction metadata
 ├── figures/                — 38 PNG files (figures referenced from questions.json)
 │   ├── q118_2.png
@@ -44,12 +44,12 @@ When a figure is attached, `figure` is set to `"figures/q<question_id>_<n>.png"`
 | Metric | Value |
 |---|---|
 | Pages OCR'd | 766 (3..768) |
-| Total questions captured | **1,083** |
+| Total questions captured | **1,572** |
 | Papers identified | 5 distinct |
 | Subjects identified | 12+ |
-| Figures extracted | **38** PNG files (35 questions) |
-| JSON file size | ~3.5 MB |
-| ZIP package size | **1.5 MB** |
+| Figures extracted | **68** PNG files |
+| JSON file size | ~5 MB |
+| ZIP package size | **~3.2 MB** |
 
 ### Top papers
 | Paper | Questions |
@@ -82,6 +82,17 @@ python pdf_to_json/extract.py --skip-ocr
 # Test on first 10 question pages
 python pdf_to_json/extract.py --first-page 3 --last-page 12
 ```
+
+## Parser improvements (v2)
+
+- Options are parsed only from lines starting with `(a)`, `(b)`, … — avoids false
+  matches like `(b)` inside the word “below”.
+- Multiple options on one OCR line are split correctly, e.g. `(a) 70 (b) 60`.
+- English/Hindi fields are separated per line and via `/` markers; duplicate
+  `question_hindi` copies of English are avoided when Devanagari is present.
+- Explanations keep full Hindi text; diagram OCR junk is stripped from English.
+- Re-parse without re-OCR: `python pdf_to_json/extract.py --skip-ocr`
+- OCR in 100-page batches: `python pdf_to_json/extract.py --batch-pages 100`
 
 ## Known limitations
 
