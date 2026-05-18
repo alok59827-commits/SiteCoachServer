@@ -1,0 +1,3 @@
+pdfplumber>=0.10.0
+PyMuPDF>=1.23.0
+pyiwn>=0.0.5
