@@ -1,0 +1,2141 @@
+[
+  {
+    "wrongWord": "जगह रहा",
+    "correctWord": "अजगरहा",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "सर किन्हीं",
+    "correctWord": "सरकिनी",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "सेट के नहीं",
+    "correctWord": "सरकिनी",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "अमेरिकी",
+    "correctWord": "अमिरिती",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "कोलाहा",
+    "correctWord": "अमिरिती",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "दिल्ली बेरी",
+    "correctWord": "डेल्हीवेरी",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पीएचडी विभाग",
+    "correctWord": "पीएचई विभाग",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पीएचडी",
+    "correctWord": "पीएचई",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "PhD विभाग",
+    "correctWord": "PHE विभाग",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "PhD",
+    "correctWord": "PHE",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पीएसई",
+    "correctWord": "पीएचई",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "एसी वाले",
+    "correctWord": "पीएचई वाले",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "एसएससी",
+    "correctWord": "ईएसआईसी",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "SSC",
+    "correctWord": "ESIC",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "यूएसबी",
+    "correctWord": "जीआईएस",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "USB",
+    "correctWord": "GIS",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "सीए मेल्टलाइन",
+    "correctWord": "सीएम हेल्पलाइन",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "डब्ल्यूसी पोकलेन",
+    "correctWord": "डब्ल्यूसी पॉलिसी",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "जीने में कॉन्ट्रैक्टर",
+    "correctWord": "जेई या कॉन्ट्रैक्टर",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "जीने",
+    "correctWord": "जेई",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "सीमेंट भी लेना",
+    "correctWord": "पेमेंट भी देना",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "मेरा सीमेंट",
+    "correctWord": "मेरा पेमेंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "सीमेंट देखिए",
+    "correctWord": "पेमेंट देखिए",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "एक करीब देंगे",
+    "correctWord": "एक ब्रीफ देंगे",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पैसे लाइन",
+    "correctWord": "पाइप लाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पेशेंट लाइन",
+    "correctWord": "पाइप लाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पाइप लेनी",
+    "correctWord": "पाइप लाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "फॉर्मेट करिए",
+    "correctWord": "फॉरवर्ड करिए",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "रेलवे दिन कर रहा",
+    "correctWord": "रेलवे में ड्यूटी कर रहा",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "दिन कर रहा हूं",
+    "correctWord": "ड्यूटी कर रहा हूँ",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "थोड़ा सपोर्ट",
+    "correctWord": "थोड़ा पासपोर्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "मेरे पापा",
+    "correctWord": "मैंने वापस",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पापा से शायद",
+    "correctWord": "वापस से शायद",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पापा",
+    "correctWord": "वापस",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "दाई",
+    "correctWord": "भाई",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "गुड हो जाएगा",
+    "correctWord": "ठीक हो जाएगा",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "थोड़ा सा गुड",
+    "correctWord": "थोड़ा सा ठीक",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "नाहर",
+    "correctWord": "नहर",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पंचनामा तो सब",
+    "correctWord": "पेंडिंग तो सब",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पंचनामा",
+    "correctWord": "पेंडिंग",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "लिखवा देता हूं",
+    "correctWord": "दिखवा देता हूँ",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "ब्लॉक पिट जाएगा",
+    "correctWord": "ब्लॉक कट जाएगा",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पिट जाएगा",
+    "correctWord": "कट जाएगा",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "यही आदमी लिखा",
+    "correctWord": "यही आदेश लिखा",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "कॉफी नहीं है",
+    "correctWord": "हो भी नहीं पा रहा है",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "संपर्क कॉफी",
+    "correctWord": "संपर्क हो भी",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "शुभम कौन",
+    "correctWord": "शुभम बोल रहा हूँ",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "तालमाओ का ही दिया है",
+    "correctWord": "टालमटोल कर ही दिया है",
+    "category": "ACCENT",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "ना चाखथे",
+    "correctWord": "ना चाहते हुए भी",
+    "category": "ACCENT",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पांच बज तक का",
+    "correctWord": "5 लाख तक का",
+    "category": "NUMBER",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "पांच बज",
+    "correctWord": "5 लाख",
+    "category": "NUMBER",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "तीन दिन से, दस दिन से बारिश",
+    "correctWord": "जिस दिन से बारिश",
+    "category": "NUMBER",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "कि यह सब वाले हैं",
+    "correctWord": "कि यह सीवेज वाले हैं",
+    "category": "CONTEXT_BLIND",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "यह सब वाले",
+    "correctWord": "यह सीवेज वाले",
+    "category": "CONTEXT_BLIND",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "कल आज छुट्टी में वह",
+    "correctWord": "आज छुट्टी पर हूँ",
+    "category": "CONTEXT_BLIND",
+    "confidence": 1.0,
+    "source": "expert_seed"
+  },
+  {
+    "wrongWord": "शुभम कौन? संपर्क कॉफी नहीं है यही आदमी लिखा है",
+    "correctWord": "शुभम बोल रहा हूँ। संपर्क हो भी नहीं पा रहा है यही आदेश/आगे लिखा है",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "जगह रहा छब्बीस सर किन्हीं गांव है सेट के नहीं",
+    "correctWord": "अजगरहा 26 सरकिनी गाँव है सरकिनी",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "कल आज छुट्टी में वह कि यह सब वाले हैं अपनी नहीं। है किस विभाग की है यह?",
+    "correctWord": "आज छुट्टी पर हूँ कि यह सीवेज वाले हैं अपनी नहीं है। (सोनू) फिर \"किस विभाग की है यह?\" (कॉलर)",
+    "category": "CONTEXT_BLIND",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "मेरे पापा आऐंगे तो फिर पापा से शायद किए फिर से आऐंगे पंचनामा तो सब अभी...",
+    "correctWord": "मैंने वापस कॉल किया था, तो फिर वापस से शायद कट गया, फिर से लगाएँगे पेंडिंग तो सब अभी...",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "सीमेंट भी लेना होगा एक करीब देंगे? डब्ल्यूसी पोकलेन",
+    "correctWord": "पेमेंट भी देना होगा एक ब्रीफ (Brief) देंगे? डब्ल्यूसी पॉलिसी (WC Policy)",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "पाइप लेनी हुई है यूएसबी (USB) वाला जो डेटा है बच्ची का थोड़ा सपोर्ट था",
+    "correctWord": "पाइप लाइन डली हुई है जीआईएस (GIS) वाला जो डेटा है बच्ची का थोड़ा पासपोर्ट (या स्पोर्ट्स) का काम था",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "पांच बज तक का मेरा सीमेंट देखिए ईपीएफ एसएससी वाला",
+    "correctWord": "5 लाख तक का मेरा पेमेंट देखिए ईपीएफ-ईएसआईसी (EPF-ESIC) वाला",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "बढ़िया, दाई तालमाओ का ही दिया है ना चाखथे पैसे लाइन / पेशेंट लाइन",
+    "correctWord": "बढ़िया, भाई टालमटोल कर ही दिया है ना चाहते हुए भी पाइप लाइन (Pipeline)",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "सीए मेल्टलाइन अमेरिकी / कोलाहा पीएचडी विभाग / पीएसई",
+    "correctWord": "सीएम हेल्पलाइन (CM Helpline) अमिरिती पीएचई (PHE) विभाग",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "एक ही वाक्य का 30+ बार रिपीट होना पीएचडी (PhD) विभाग",
+    "correctWord": "सिर्फ एक बार लिखा गया पीएचई (PHE) विभाग",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "रेलवे दिन कर रहा हूं एसी वाले ही पाइप डालेंगे फॉर्मेट करिए ब्लॉक पिट जाएगा",
+    "correctWord": "रेलवे में ड्यूटी कर रहा हूँ पीएचई (PHE) वाले ही पाइप डालेंगे फॉरवर्ड (Forward) करिए ब्लॉक कट जाएगा / छूट जाएगा",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "नाहर पाइप मारी गई इसकी डब्लू जी हां वाली गई है हमारे जीने में कॉन्ट्रैक्टर मैं लिखवा देता हूं",
+    "correctWord": "नहर (Canal) पाइप लाइन बिछाई गई है... हमारे जेई (JE) या कॉन्ट्रैक्टर मैं दिखवा देता हूं",
+    "category": "ABBREVIATION",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "तीन दिन से, दस दिन से बारिश हुई है थोड़ा सा गुड हो जाएगा आपने भी शिकायत की थी क्या? जी। मडुवा प्रेम नगर वाली। जी।",
+    "correctWord": "जिस दिन से बारिश हुई है थोड़ा सा, ठीक हो जाएगा संवाद को अलग-अलग किया गया",
+    "category": "HOMOPHONE",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "दिल्ली बेरी",
+    "correctWord": "डेल्हीवेरी (Delhivery)",
+    "category": "PROPER_NOUN",
+    "confidence": 1.0,
+    "source": "expert_xlsx"
+  },
+  {
+    "wrongWord": "meter",
+    "correctWord": "मीटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 38
+  },
+  {
+    "wrongWord": "sir",
+    "correctWord": "सर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 35
+  },
+  {
+    "wrongWord": "phone",
+    "correctWord": "फोन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 29
+  },
+  {
+    "wrongWord": "photo",
+    "correctWord": "फोटो",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 18
+  },
+  {
+    "wrongWord": "kilometer",
+    "correctWord": "किलोमीटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 17
+  },
+  {
+    "wrongWord": "हज़ार",
+    "correctWord": "हजार",
+    "category": "NUMBER",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 14
+  },
+  {
+    "wrongWord": "bill",
+    "correctWord": "बिल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 12
+  },
+  {
+    "wrongWord": "number",
+    "correctWord": "नंबर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 11
+  },
+  {
+    "wrongWord": "clear",
+    "correctWord": "क्लियर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 10
+  },
+  {
+    "wrongWord": "line",
+    "correctWord": "लाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 10
+  },
+  {
+    "wrongWord": "AC",
+    "correctWord": "एयर कंडीशनर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 10
+  },
+  {
+    "wrongWord": "sign",
+    "correctWord": "साइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 9
+  },
+  {
+    "wrongWord": "side",
+    "correctWord": "साइड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 9
+  },
+  {
+    "wrongWord": "minus",
+    "correctWord": "माइनस",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 8
+  },
+  {
+    "wrongWord": "Speaker 1: Hello Speaker 2:",
+    "correctWord": "नमस्ते",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.9,
+    "source": "csv_diff",
+    "occurrences": 8
+  },
+  {
+    "wrongWord": "location",
+    "correctWord": "लोकेशन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "plan",
+    "correctWord": "प्लान",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "time",
+    "correctWord": "समय",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "level",
+    "correctWord": "लेवल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "transfer",
+    "correctWord": "ट्रांसफर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "labor",
+    "correctWord": "लेबर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "gap",
+    "correctWord": "गैप",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.85,
+    "source": "csv_diff",
+    "occurrences": 7
+  },
+  {
+    "wrongWord": "minute",
+    "correctWord": "मिनट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "issue",
+    "correctWord": "इश्यू",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "clamp",
+    "correctWord": "क्लैंप",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "percent",
+    "correctWord": "प्रतिशत",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "चाहते हैं",
+    "correctWord": "चाहता हूं",
+    "category": "ACCENT",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "DBL",
+    "correctWord": "डीबीएल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "leakage",
+    "correctWord": "लीकेज",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "complaint",
+    "correctWord": "शिकायत",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "pipe",
+    "correctWord": "पाइप",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.8,
+    "source": "csv_diff",
+    "occurrences": 6
+  },
+  {
+    "wrongWord": "pending",
+    "correctWord": "पेंडिंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "rate",
+    "correctWord": "रेट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "April",
+    "correctWord": "अप्रैल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "last",
+    "correctWord": "लास्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "team",
+    "correctWord": "टीम",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "link ID",
+    "correctWord": "लिंक आईडी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "Ok",
+    "correctWord": "ओके",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "beach",
+    "correctWord": "बीच",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "school",
+    "correctWord": "स्कूल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "जाएगा",
+    "correctWord": "जाएगी",
+    "category": "ACCENT",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "call",
+    "correctWord": "कॉल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "build",
+    "correctWord": "बिल्ड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "forward",
+    "correctWord": "फॉरवर्ड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "percent",
+    "correctWord": "परसेंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "RFI",
+    "correctWord": "आरएफआई",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.75,
+    "source": "csv_diff",
+    "occurrences": 5
+  },
+  {
+    "wrongWord": "meeting",
+    "correctWord": "मीटिंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "complete",
+    "correctWord": "कम्प्लीट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "company",
+    "correctWord": "कंपनी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "quantity",
+    "correctWord": "क्वांटिटी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "class",
+    "correctWord": "क्लास",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "time",
+    "correctWord": "टाइम",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "second",
+    "correctWord": "सेकेंड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "data",
+    "correctWord": "डेटा",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "/ MB sheet",
+    "correctWord": "एमबी शीट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "amount",
+    "correctWord": "अमाउंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "mood",
+    "correctWord": "मूड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "group",
+    "correctWord": "ग्रुप",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "WhatsApp",
+    "correctWord": "व्हाट्सएप",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "open",
+    "correctWord": "ओपन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "motor",
+    "correctWord": "मोटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "form",
+    "correctWord": "फॉर्म",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "approval",
+    "correctWord": "अप्रूवल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "payment",
+    "correctWord": "पेमेंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "OTP",
+    "correctWord": "ओटीपी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "labor",
+    "correctWord": "श्रमिक",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "pipeline",
+    "correctWord": "पाइपलाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "under",
+    "correctWord": "अंडर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "coat",
+    "correctWord": "कोट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.7,
+    "source": "csv_diff",
+    "occurrences": 4
+  },
+  {
+    "wrongWord": "direct",
+    "correctWord": "डायरेक्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "रहे हैं",
+    "correctWord": "रहा हूं",
+    "category": "PROPER_NOUN",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "complete",
+    "correctWord": "पूरा",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "observation",
+    "correctWord": "ऑब्जर्वेशन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "list",
+    "correctWord": "लिस्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "check",
+    "correctWord": "चेक",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "blasting",
+    "correctWord": "ब्लास्टिंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "लागा",
+    "correctWord": "तेल लगा",
+    "category": "HOMOPHONE",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "plus",
+    "correctWord": "प्लस",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "process",
+    "correctWord": "प्रोसेस",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "online",
+    "correctWord": "ऑनलाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "approve",
+    "correctWord": "अप्रूव",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "height",
+    "correctWord": "हाइट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "add",
+    "correctWord": "एड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "total",
+    "correctWord": "टोटल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "side clear",
+    "correctWord": "साइड क्लियर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "free",
+    "correctWord": "फ्री",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "GM",
+    "correctWord": "जीएम",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "NOC",
+    "correctWord": "एनओसी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "late",
+    "correctWord": "लेट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "urgent",
+    "correctWord": "अर्जेंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "sir",
+    "correctWord": "सिर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "आस पास",
+    "correctWord": "आसपास",
+    "category": "ACCENT",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "search",
+    "correctWord": "सर्च",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "loan",
+    "correctWord": "लोन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "guarantor",
+    "correctWord": "गारंटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "condition",
+    "correctWord": "कंडीशन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "matter",
+    "correctWord": "मैटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "daily",
+    "correctWord": "डेली",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "Speaker 1: Sir",
+    "correctWord": "सर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "pipe line",
+    "correctWord": "पाइप लाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "sir Speaker 2:",
+    "correctWord": "सर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "fault",
+    "correctWord": "फॉल्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "P 5",
+    "correctWord": "पी5",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "रूपया GST",
+    "correctWord": "रुपया जीएसटी",
+    "category": "HOMOPHONE",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "sir Speaker 1:",
+    "correctWord": "सर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "block",
+    "correctWord": "ब्लॉक",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "HSE",
+    "correctWord": "एचएसई",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.65,
+    "source": "csv_diff",
+    "occurrences": 3
+  },
+  {
+    "wrongWord": "mobile",
+    "correctWord": "मोबाइल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Speaker 2: Sir",
+    "correctWord": "सर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "attendance",
+    "correctWord": "अटेंडेंस",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "fail",
+    "correctWord": "फ़ेल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "news",
+    "correctWord": "न्यूज",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "market",
+    "correctWord": "मार्केट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Speaker 1: Hello",
+    "correctWord": "हैलो",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Speaker 1: Hello",
+    "correctWord": "नमस्ते",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "engineer",
+    "correctWord": "इंजीनियर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "ISI mark",
+    "correctWord": "आईएसआई मार्क",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "hundred percent",
+    "correctWord": "हंड्रेड परसेंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "without AC",
+    "correctWord": "बिना एयर कंडीशनर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "confirm",
+    "correctWord": "कंफर्म",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "close",
+    "correctWord": "बंद",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "but",
+    "correctWord": "लेकिन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "drawing",
+    "correctWord": "ड्राइंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "case",
+    "correctWord": "केस",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "plane protection",
+    "correctWord": "प्लेन प्रोटेक्शन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "meter minus",
+    "correctWord": "मीटर माइनस",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Ema",
+    "correctWord": "एमए",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "admit",
+    "correctWord": "एडमिट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "private",
+    "correctWord": "प्राइवेट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "portal",
+    "correctWord": "पोर्टल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Speaker 1:",
+    "correctWord": "हां",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "coaching",
+    "correctWord": "कोचिंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "CM helpline",
+    "correctWord": "सीएम हेल्पलाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "करवाओ",
+    "correctWord": "करवा दूंगा",
+    "category": "HOMOPHONE",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "निकल के",
+    "correctWord": "निकलकर",
+    "category": "ACCENT",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "लगाएं ना अब अब फोन लगाएं",
+    "correctWord": "लगाना चाहिए",
+    "category": "HOMOPHONE",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "चलाए थे पहुंच कर",
+    "correctWord": "चलाकर वहां पहुंचकर",
+    "category": "HOMOPHONE",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "बताए थे",
+    "correctWord": "कुछ बताया था",
+    "category": "HOMOPHONE",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "हमकह",
+    "correctWord": "हम कह",
+    "category": "ACCENT",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "liter",
+    "correctWord": "लीटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "delete",
+    "correctWord": "डिलीट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "recharge",
+    "correctWord": "रिचार्ज",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "idol",
+    "correctWord": "आईडी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "possible",
+    "correctWord": "पॉसिबल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Sunday",
+    "correctWord": "संडे",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "civil",
+    "correctWord": "सिविल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "side Speaker 2:",
+    "correctWord": "साइड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "idea",
+    "correctWord": "आइडिया",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "meter Speaker 2:",
+    "correctWord": "मीटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "machine",
+    "correctWord": "मशीन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "sir good evening Speaker 2:",
+    "correctWord": "सर शाम को नमस्कार",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "good evening Speaker 1:",
+    "correctWord": "शाम को नमस्कार",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "PS sir",
+    "correctWord": "पीएस सर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Rising main",
+    "correctWord": "राइजिंग मेन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "counter",
+    "correctWord": "काउंटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "issue",
+    "correctWord": "मुद्दा",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "जलिगम",
+    "correctWord": "जल निगम",
+    "category": "ACCENT",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Please friend",
+    "correctWord": "प्लीज़ फ्रेंड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Hello Speaker 3: Hello Speaker 1:",
+    "correctWord": "हेलो हेलो",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Jackson line",
+    "correctWord": "जैक्सन लाइन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "photo Speaker 1:",
+    "correctWord": "फोटो",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "through off",
+    "correctWord": "थ्रू ऑफ",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "site",
+    "correctWord": "साइट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "drawing",
+    "correctWord": "ड्रॉइंग अप्रूव",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "reject",
+    "correctWord": "रिजेक्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "reinspection",
+    "correctWord": "रीइंस्पेक्शन",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "accept",
+    "correctWord": "एक्सेप्ट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "hill ward number",
+    "correctWord": "हिल वार्ड नंबर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "यहचा",
+    "correctWord": "है यहाँ",
+    "category": "HOMOPHONE",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "parcel",
+    "correctWord": "पार्सल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Speaker 1:",
+    "correctWord": "उपलब्ध होगा",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "rate",
+    "correctWord": "दर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "sir Speaker 2: Without material",
+    "correctWord": "सर बिना सामग्री के",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "material",
+    "correctWord": "सामग्री",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "available",
+    "correctWord": "उपलब्ध",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "party",
+    "correctWord": "पार्टी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "wall operator",
+    "correctWord": "वॉल ऑपरेटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "second",
+    "correctWord": "सेकंड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Triple",
+    "correctWord": "ट्रिपल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Actual",
+    "correctWord": "वास्तव",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "field engineer",
+    "correctWord": "फील्ड इंजीनियर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Speaker 1: Hello Hello Hello",
+    "correctWord": "नमस्ते",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "coordinate",
+    "correctWord": "समन्वय",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "proper",
+    "correctWord": "प्रॉपर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "building",
+    "correctWord": "बिल्डिंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "duty",
+    "correctWord": "ड्यूटी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "valid",
+    "correctWord": "वैलिड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "road",
+    "correctWord": "रोड",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "P 6",
+    "correctWord": "पी6",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "Canal crossing",
+    "correctWord": "कैनाल क्रॉसिंग",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "close",
+    "correctWord": "क्लोज",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "length",
+    "correctWord": "लेंथ",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "bill Speaker 2:",
+    "correctWord": "बिल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "communication work",
+    "correctWord": "कम्युनिकेशन वर्क",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "input",
+    "correctWord": "इनपुट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "show",
+    "correctWord": "शो",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "coordinate",
+    "correctWord": "कोऑर्डिनेट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "extra",
+    "correctWord": "एक्स्ट्रा",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "cash",
+    "correctWord": "कैश",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "instant",
+    "correctWord": "इंस्टेंट",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "maximum",
+    "correctWord": "मैक्सिमम",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "GST",
+    "correctWord": "जीएसटी",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "register",
+    "correctWord": "रजिस्टर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "file",
+    "correctWord": "फाइल",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "format",
+    "correctWord": "प्रारूप तैयार",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "square meter",
+    "correctWord": "स्क्वायर मीटर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  },
+  {
+    "wrongWord": "order",
+    "correctWord": "ऑर्डर",
+    "category": "ENGLISH_HINDI_MIX",
+    "confidence": 0.6,
+    "source": "csv_diff",
+    "occurrences": 2
+  }
+]
