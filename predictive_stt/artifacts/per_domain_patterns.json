@@ -1,0 +1,4455 @@
+{
+  "re": [],
+  "architecture": [],
+  "general": [
+    {
+      "heard": "है",
+      "correct": "हैं",
+      "count": 3
+    },
+    {
+      "heard": "thik jama",
+      "correct": "ठीक है",
+      "count": 2
+    },
+    {
+      "heard": "left side me thik",
+      "correct": "लेफ्ट साइड में",
+      "count": 2
+    },
+    {
+      "heard": "सपनावान",
+      "correct": "सपनावा",
+      "count": 2
+    },
+    {
+      "heard": "EFSSC",
+      "correct": "ESIC",
+      "count": 2
+    },
+    {
+      "heard": "दलदल",
+      "correct": "नल जल",
+      "count": 2
+    },
+    {
+      "heard": "Mildlife",
+      "correct": "सीएम हेल्पलाइन",
+      "count": 2
+    },
+    {
+      "heard": "Jalgam",
+      "correct": "जल निगम",
+      "count": 2
+    },
+    {
+      "heard": "Jalnam",
+      "correct": "जल निगम",
+      "count": 2
+    },
+    {
+      "heard": "मिश्राबाद से डाल",
+      "correct": "मिश्रा बात कर",
+      "count": 2
+    },
+    {
+      "heard": "Rising main",
+      "correct": "राइजिंग मेन",
+      "count": 2
+    },
+    {
+      "heard": "school",
+      "correct": "इशू",
+      "count": 2
+    },
+    {
+      "heard": "school में",
+      "correct": "इशू",
+      "count": 2
+    },
+    {
+      "heard": "पर यादव",
+      "correct": "परियोजना",
+      "count": 2
+    },
+    {
+      "heard": "कांजस",
+      "correct": "कॉम्प्लेक्स",
+      "count": 2
+    },
+    {
+      "heard": "अजीब",
+      "correct": "राजीव",
+      "count": 2
+    },
+    {
+      "heard": "जितोही",
+      "correct": "टोटी",
+      "count": 2
+    },
+    {
+      "heard": "कंधाइला",
+      "correct": "कहाँ पेंडिंग",
+      "count": 2
+    },
+    {
+      "heard": "पांचवीं",
+      "correct": "पाइपलाइन",
+      "count": 2
+    },
+    {
+      "heard": "teacher",
+      "correct": "ठेकेदार",
+      "count": 2
+    },
+    {
+      "heard": "Please friend",
+      "correct": "प्लीज इनसे",
+      "count": 2
+    },
+    {
+      "heard": "side में दे",
+      "correct": "साइट पे देखें",
+      "count": 2
+    },
+    {
+      "heard": "ऊंचा अपन",
+      "correct": "वहां अपना",
+      "count": 2
+    },
+    {
+      "heard": "चलाएगी",
+      "correct": "चालू किये",
+      "count": 2
+    },
+    {
+      "heard": "पा",
+      "correct": "बता",
+      "count": 2
+    },
+    {
+      "heard": "form",
+      "correct": "इन्फॉर्म",
+      "count": 2
+    },
+    {
+      "heard": "paper",
+      "correct": "ज़ीरो पैंतालीस",
+      "count": 2
+    },
+    {
+      "heard": "युवा",
+      "correct": "ये",
+      "count": 2
+    },
+    {
+      "heard": "दीवाली",
+      "correct": "डीबीएल DBL",
+      "count": 2
+    },
+    {
+      "heard": "जाती है हम",
+      "correct": "करवाते हैं",
+      "count": 2
+    },
+    {
+      "heard": "music",
+      "correct": "प्रोसेस",
+      "count": 2
+    },
+    {
+      "heard": "तु",
+      "correct": "तू",
+      "count": 2
+    },
+    {
+      "heard": "जाओ",
+      "correct": "जाऊँ",
+      "count": 2
+    },
+    {
+      "heard": "यू",
+      "correct": "यूँ",
+      "count": 2
+    }
+  ],
+  "masonry": [],
+  "material": [
+    {
+      "heard": "a c c sment",
+      "correct": "ACC सीमेंट",
+      "count": 3
+    },
+    {
+      "heard": "krashar dust",
+      "correct": "क्रेशर डस्ट",
+      "count": 2
+    }
+  ],
+  "plumbing": [
+    {
+      "heard": "sr pipe",
+      "correct": "SWR पाइप",
+      "count": 2
+    },
+    {
+      "heard": "kansil pipe",
+      "correct": "कंसील पाइप",
+      "count": 2
+    }
+  ],
+  "electrical": [
+    {
+      "heard": "konsil light",
+      "correct": "कंसील लाइट",
+      "count": 2
+    },
+    {
+      "heard": "main suvich",
+      "correct": "मेन स्विच",
+      "count": 2
+    },
+    {
+      "heard": "kabel tre",
+      "correct": "केबल ट्रे",
+      "count": 2
+    }
+  ],
+  "rental": [
+    {
+      "heard": "bijli bill alag",
+      "correct": "बिजली बिल अलग",
+      "count": 2
+    }
+  ],
+  "construction": [
+    {
+      "heard": "kavar bhlok",
+      "correct": "कवर ब्लॉक",
+      "count": 2
+    },
+    {
+      "heard": "colam farma",
+      "correct": "कॉलम फर्मा",
+      "count": 2
+    },
+    {
+      "heard": "dpc dalna",
+      "correct": "DPC डालना",
+      "count": 2
+    },
+    {
+      "heard": "pcc karna",
+      "correct": "PCC करना",
+      "count": 2
+    },
+    {
+      "heard": "compaktor chalao",
+      "correct": "कम्पैक्टर चलाओ",
+      "count": 2
+    },
+    {
+      "heard": "steel",
+      "correct": "स्टील",
+      "count": 2
+    }
+  ],
+  "interior": [],
+  "painting": [],
+  "carpentry": [
+    {
+      "heard": "flas dor",
+      "correct": "फ्लश डोर",
+      "count": 2
+    },
+    {
+      "heard": "fawikal dabba",
+      "correct": "फेविकोल डब्बा",
+      "count": 2
+    }
+  ],
+  "fabrication": [],
+  "labor": [
+    {
+      "heard": "aaj lebara nahi aayi",
+      "correct": "आज लेबर नहीं आई",
+      "count": 4
+    },
+    {
+      "heard": "मैं",
+      "correct": "महीने",
+      "count": 2
+    }
+  ],
+  "excavation": [
+    {
+      "heard": "extra vision",
+      "correct": "एक्सावेशन",
+      "count": 2
+    }
+  ],
+  "legal": [
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 8
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 8
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार",
+      "count": 5
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 2
+    },
+    {
+      "heard": "बीवियां दिए",
+      "correct": "बाइंडिंग वायर",
+      "count": 2
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार को",
+      "count": 2
+    }
+  ],
+  "contract": [],
+  "logistics": [],
+  "layout": [],
+  "kitchen": [],
+  "management": [],
+  "electrical/it": [],
+  "security": [
+    {
+      "heard": "c c camera",
+      "correct": "CCTV कैमरा",
+      "count": 2
+    },
+    {
+      "heard": "wifi routar",
+      "correct": "WiFi राउटर",
+      "count": 2
+    }
+  ],
+  "commercial": [],
+  "tools": [],
+  "safety": [
+    {
+      "heard": "gam boot",
+      "correct": "गम बूट",
+      "count": 2
+    },
+    {
+      "heard": "kambal",
+      "correct": "कम्बल",
+      "count": 2
+    }
+  ],
+  "sanitary": [],
+  "site issues": [],
+  "hvac": [
+    {
+      "heard": "चिल्लर",
+      "correct": "चिलर",
+      "count": 66
+    },
+    {
+      "heard": "आज यू",
+      "correct": "एएचयू",
+      "count": 55
+    },
+    {
+      "heard": "कंप्यूटर",
+      "correct": "कंप्रेसर",
+      "count": 54
+    },
+    {
+      "heard": "एडजस्ट",
+      "correct": "एग्जॉस्ट",
+      "count": 51
+    },
+    {
+      "heard": "डस्टिंग",
+      "correct": "डक्टिंग",
+      "count": 47
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 11
+    }
+  ],
+  "flooring": [],
+  "billing": [
+    {
+      "heard": "मैं",
+      "correct": "महीने",
+      "count": 59
+    },
+    {
+      "heard": "एम बी",
+      "correct": "एमबी",
+      "count": 36
+    },
+    {
+      "heard": "टीचर",
+      "correct": "ठेकेदार",
+      "count": 24
+    },
+    {
+      "heard": "पे मिंट",
+      "correct": "पेमेंट",
+      "count": 24
+    },
+    {
+      "heard": "टेक अ दर",
+      "correct": "ठेकेदार",
+      "count": 20
+    },
+    {
+      "heard": "पी मिंट",
+      "correct": "पेमेंट",
+      "count": 19
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 9
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 8
+    },
+    {
+      "heard": "लोग इन",
+      "correct": "लॉगिन",
+      "count": 3
+    },
+    {
+      "heard": "gst bil",
+      "correct": "GST बिल",
+      "count": 2
+    },
+    {
+      "heard": "kacha bil",
+      "correct": "कच्चा बिल",
+      "count": 2
+    },
+    {
+      "heard": "सौ",
+      "correct": "हंड्रेड",
+      "count": 2
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 2
+    }
+  ],
+  "waterproofing": [],
+  "roofing": [],
+  "machinery": [
+    {
+      "heard": "जूसी",
+      "correct": "जेसीबी",
+      "count": 23
+    },
+    {
+      "heard": "पोक लेन",
+      "correct": "पोकलेन",
+      "count": 23
+    },
+    {
+      "heard": "हाईवे",
+      "correct": "हाइवा",
+      "count": 23
+    },
+    {
+      "heard": "krane lgegi",
+      "correct": "क्रेन लगेगी",
+      "count": 2
+    },
+    {
+      "heard": "kancreet pmp",
+      "correct": "कंक्रीट पंप",
+      "count": 2
+    },
+    {
+      "heard": "compresar avj",
+      "correct": "कंप्रेसर आवाज़",
+      "count": 2
+    },
+    {
+      "heard": "bucket",
+      "correct": "बकेट",
+      "count": 2
+    }
+  ],
+  "upvc/glass": [],
+  "elevator": [],
+  "fire safety": [],
+  "smart home": [],
+  "earthwork": [
+    {
+      "heard": "जे एस बी",
+      "correct": "जेसीबी",
+      "count": 21
+    },
+    {
+      "heard": "जय सी बी",
+      "correct": "जेसीबी",
+      "count": 20
+    },
+    {
+      "heard": "हाई बार",
+      "correct": "हाइवा",
+      "count": 20
+    },
+    {
+      "heard": "एग्जीबिशन",
+      "correct": "एक्सावेशन",
+      "count": 18
+    },
+    {
+      "heard": "एक्स्ट्रा विज़न",
+      "correct": "एक्सावेशन",
+      "count": 16
+    },
+    {
+      "heard": "पॉलीथिन",
+      "correct": "पोकलेन",
+      "count": 16
+    },
+    {
+      "heard": "पॉलीथिन एक्स्ट्रा विज़न",
+      "correct": "पोकलेन एक्सावेशन",
+      "count": 5
+    },
+    {
+      "heard": "एग्जीबिशन खत्म",
+      "correct": "एक्सावेशन ख़त्म",
+      "count": 3
+    }
+  ],
+  "green building": [],
+  "industrial": [],
+  "labour": [],
+  "admin/slang": [],
+  "defects": [],
+  "automobile": [],
+  "it": [],
+  "banking": [],
+  "catering/event": [],
+  "electronics": [],
+  "medical": [],
+  "legal/police": [],
+  "manufacturing": [],
+  "printing/studio": [],
+  "logistics/railway": [],
+  "farming/mandi": [],
+  "urdu/arabic": [],
+  "measurement": [],
+  "civil work": [],
+  "people": [],
+  "project": [],
+  "variation": [],
+  "मैं फ्लिपकार्ट से हितेश बोल रहा हूँ।": [],
+  "consumer": [],
+  "क्या मैं जान सकता हूँ कि आप फ्लिपकार्ट पर कौन से प्रोडक्ट बेचने वाले हैं?": [],
+  "मैं अभी थोड़ा व्यस्त हूँ। क्या मैं आपको एक घंटे बाद कॉल कर सकता हूँ?": [],
+  "पिन कोड 486003 रहेगा।": [],
+  "आपको सिंगल कुर्ती": [],
+  "आपको वीडियो कॉल पर सेलेक्शन दिखाया जाएगा।": [],
+  "nan": [],
+  "financial": [],
+  "xl": [],
+  "civil": [
+    {
+      "heard": "स्पीकर",
+      "correct": "Speaker",
+      "count": 17
+    },
+    {
+      "heard": "लॉक",
+      "correct": "ब्लॉक",
+      "count": 2
+    },
+    {
+      "heard": "सीमेंट",
+      "correct": "पेमेंट",
+      "count": 2
+    },
+    {
+      "heard": "phone",
+      "correct": "फोन",
+      "count": 2
+    },
+    {
+      "heard": "है",
+      "correct": "ह Speaker",
+      "count": 2
+    },
+    {
+      "heard": "हां",
+      "correct": "Speaker",
+      "count": 2
+    },
+    {
+      "heard": "AC",
+      "correct": "एयर कंडीशनर",
+      "count": 2
+    },
+    {
+      "heard": "चाल",
+      "correct": "है",
+      "count": 2
+    },
+    {
+      "heard": "जी",
+      "correct": "Speaker",
+      "count": 2
+    },
+    {
+      "heard": "तो",
+      "correct": "Speaker",
+      "count": 2
+    },
+    {
+      "heard": "रुपए",
+      "correct": "रुपये",
+      "count": 2
+    },
+    {
+      "heard": "number",
+      "correct": "नंबर",
+      "count": 2
+    },
+    {
+      "heard": "Hello",
+      "correct": "नमस्ते",
+      "count": 2
+    }
+  ],
+  "वाइज टाइपिंग और उनकी लोकेशन वगैरह है।": [],
+  "family": [
+    {
+      "heard": "है",
+      "correct": "हैं",
+      "count": 4
+    },
+    {
+      "heard": "पती",
+      "correct": "पति",
+      "count": 3
+    },
+    {
+      "heard": "जाएं",
+      "correct": "जाएँ",
+      "count": 2
+    },
+    {
+      "heard": "ले",
+      "correct": "लें",
+      "count": 2
+    },
+    {
+      "heard": "आये",
+      "correct": "आए",
+      "count": 2
+    },
+    {
+      "heard": "पेक्षा",
+      "correct": "अपेक्षा",
+      "count": 2
+    },
+    {
+      "heard": "दप्तर",
+      "correct": "दफ़्तर",
+      "count": 2
+    },
+    {
+      "heard": "हमाई",
+      "correct": "हमारी",
+      "count": 2
+    },
+    {
+      "heard": "हस्बिन",
+      "correct": "हसबैंड",
+      "count": 2
+    }
+  ],
+  "हम मीटिंग में नहीं जुड़ पाए हैं।": [],
+  "तो अगर नहीं है तो...": [],
+  "मैं थोड़ा चाह रहा हूँ।": [],
+  "education": [],
+  "property": [],
+  "roadwork": [
+    {
+      "heard": "site",
+      "correct": "साइट",
+      "count": 2
+    },
+    {
+      "heard": "compaktor chalao",
+      "correct": "कम्पैक्टर चलाओ",
+      "count": 2
+    }
+  ],
+  "jal nigam": [],
+  "pipeline": [
+    {
+      "heard": "पिन",
+      "correct": "पाइप लाइन",
+      "count": 29
+    },
+    {
+      "heard": "बॉल",
+      "correct": "वाल्व",
+      "count": 22
+    },
+    {
+      "heard": "जलनाम",
+      "correct": "जल निगम",
+      "count": 21
+    },
+    {
+      "heard": "पापा",
+      "correct": "पाइप",
+      "count": 20
+    },
+    {
+      "heard": "फ्लैश",
+      "correct": "फ्लैंज",
+      "count": 20
+    },
+    {
+      "heard": "जलगम",
+      "correct": "जल निगम",
+      "count": 15
+    },
+    {
+      "heard": "दिल्लीगढ़",
+      "correct": "जल निगम",
+      "count": 15
+    },
+    {
+      "heard": "एचटीटीपी",
+      "correct": "एचडीपीई",
+      "count": 13
+    },
+    {
+      "heard": "पाइन",
+      "correct": "पाइप",
+      "count": 12
+    },
+    {
+      "heard": "एचडीएफसी",
+      "correct": "एचडीपीई",
+      "count": 10
+    },
+    {
+      "heard": "जाली गम वालो",
+      "correct": "जल निगम वालों",
+      "count": 5
+    },
+    {
+      "heard": "दिल्लीगढ़ वालो",
+      "correct": "जल निगम वालों",
+      "count": 3
+    },
+    {
+      "heard": "जलगम वालो",
+      "correct": "जल निगम वालों",
+      "count": 3
+    },
+    {
+      "heard": "ms paip",
+      "correct": "MS पाइप",
+      "count": 2
+    },
+    {
+      "heard": "meter",
+      "correct": "मीटर",
+      "count": 2
+    },
+    {
+      "heard": "पाइपर",
+      "correct": "पाइप",
+      "count": 2
+    },
+    {
+      "heard": "जलगम पिन",
+      "correct": "जल निगम पाइप लाइन",
+      "count": 2
+    },
+    {
+      "heard": "जलगम पाइन",
+      "correct": "जल निगम पाइप",
+      "count": 2
+    }
+  ],
+  "quality": [
+    {
+      "heard": "lab",
+      "correct": "लैब",
+      "count": 2
+    }
+  ],
+  "finishing": [],
+  "reinforcement": [],
+  "repair": [
+    {
+      "heard": "c c roof",
+      "correct": "RCC रूफ",
+      "count": 2
+    },
+    {
+      "heard": "epoksi karni",
+      "correct": "इपॉक्सी करनी",
+      "count": 2
+    },
+    {
+      "heard": "sir",
+      "correct": "सर",
+      "count": 2
+    }
+  ],
+  "structural": [],
+  "maintenance": [],
+  "hardware": [
+    {
+      "heard": "al drop",
+      "correct": "एल्ड्रॉप",
+      "count": 2
+    }
+  ],
+  "approval": [],
+  "land records": [],
+  "public grievance": [],
+  "administration": [],
+  "accounts": [],
+  "government": [],
+  "public issue": [],
+  "documentation": [],
+  "mechanical": [],
+  "rcc_work": [
+    {
+      "heard": "स्टटरिंग",
+      "correct": "शटरिंग",
+      "count": 57
+    },
+    {
+      "heard": "वाई ब्रेटर",
+      "correct": "वाइब्रेटर",
+      "count": 34
+    },
+    {
+      "heard": "कॉन क्रिएट",
+      "correct": "कंक्रीट",
+      "count": 33
+    },
+    {
+      "heard": "कॉंग क्रिएट",
+      "correct": "कंक्रीट",
+      "count": 31
+    },
+    {
+      "heard": "मैड रियल",
+      "correct": "मटेरियल",
+      "count": 17
+    },
+    {
+      "heard": "मेट रियल",
+      "correct": "मटेरियल",
+      "count": 15
+    }
+  ],
+  "water_supply": [
+    {
+      "heard": "समरसेब",
+      "correct": "सबमर्सिबल",
+      "count": 51
+    },
+    {
+      "heard": "पीच ही",
+      "correct": "पीएचई",
+      "count": 51
+    },
+    {
+      "heard": "पी ए च",
+      "correct": "पीएचई",
+      "count": 43
+    },
+    {
+      "heard": "समर्सबल",
+      "correct": "सबमर्सिबल",
+      "count": 39
+    },
+    {
+      "heard": "ओ एच सर",
+      "correct": "ओएचएसआर",
+      "count": 36
+    },
+    {
+      "heard": "पापा",
+      "correct": "पाइप",
+      "count": 35
+    },
+    {
+      "heard": "कोरी नेशन",
+      "correct": "क्लोरिनेशन",
+      "count": 34
+    },
+    {
+      "heard": "हाईट रोस्ट",
+      "correct": "हाइड्रोटेस्ट",
+      "count": 33
+    },
+    {
+      "heard": "वाटर प्रूफ",
+      "correct": "वाटरप्रूफ",
+      "count": 31
+    },
+    {
+      "heard": "वाटर प्रूफिंग",
+      "correct": "वाटरप्रूफिंग",
+      "count": 30
+    },
+    {
+      "heard": "पिन",
+      "correct": "पाइप लाइन",
+      "count": 27
+    },
+    {
+      "heard": "एचटीटीपी",
+      "correct": "एचडीपीई",
+      "count": 27
+    },
+    {
+      "heard": "जाली गम",
+      "correct": "जल निगम",
+      "count": 26
+    },
+    {
+      "heard": "दिल्लीगढ़",
+      "correct": "जल निगम",
+      "count": 24
+    },
+    {
+      "heard": "फ्लैश",
+      "correct": "फ्लैंज",
+      "count": 21
+    },
+    {
+      "heard": "बॉल",
+      "correct": "वाल्व",
+      "count": 19
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 19
+    },
+    {
+      "heard": "पी ए च वालो",
+      "correct": "पीएचई वालों",
+      "count": 6
+    },
+    {
+      "heard": "एम बी",
+      "correct": "एमबी",
+      "count": 6
+    },
+    {
+      "heard": "गयी",
+      "correct": "गई",
+      "count": 3
+    },
+    {
+      "heard": "जलगम",
+      "correct": "जल निगम",
+      "count": 3
+    },
+    {
+      "heard": "गयी पी ए च",
+      "correct": "गई पीएचई",
+      "count": 2
+    },
+    {
+      "heard": "गैस किट",
+      "correct": "गास्केट",
+      "count": 2
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 2
+    }
+  ],
+  "mixed": [
+    {
+      "heard": "टीचर",
+      "correct": "ठेकेदार",
+      "count": 18
+    },
+    {
+      "heard": "एक्स्ट्रा विज़न",
+      "correct": "एक्सावेशन",
+      "count": 17
+    },
+    {
+      "heard": "एम बी",
+      "correct": "एमबी",
+      "count": 15
+    },
+    {
+      "heard": "कॉंग क्रिएट",
+      "correct": "कंक्रीट",
+      "count": 14
+    },
+    {
+      "heard": "एचडीएफसी",
+      "correct": "एचडीपीई",
+      "count": 14
+    },
+    {
+      "heard": "जे एस बी",
+      "correct": "जेसीबी",
+      "count": 14
+    },
+    {
+      "heard": "कॉन क्रिएट",
+      "correct": "कंक्रीट",
+      "count": 14
+    },
+    {
+      "heard": "जूसी",
+      "correct": "जेसीबी",
+      "count": 13
+    },
+    {
+      "heard": "टेक अ दर",
+      "correct": "ठेकेदार",
+      "count": 13
+    },
+    {
+      "heard": "बॉल",
+      "correct": "वाल्व",
+      "count": 12
+    },
+    {
+      "heard": "वाई ब्रेटर",
+      "correct": "वाइब्रेटर",
+      "count": 12
+    },
+    {
+      "heard": "स्टटरिंग",
+      "correct": "शटरिंग",
+      "count": 12
+    },
+    {
+      "heard": "पे मिंट",
+      "correct": "पेमेंट",
+      "count": 11
+    },
+    {
+      "heard": "जलगम",
+      "correct": "जल निगम",
+      "count": 10
+    },
+    {
+      "heard": "पोक लेन",
+      "correct": "पोकलेन",
+      "count": 10
+    },
+    {
+      "heard": "समर्सबल",
+      "correct": "सबमर्सिबल",
+      "count": 10
+    },
+    {
+      "heard": "पापा",
+      "correct": "पाइप",
+      "count": 9
+    },
+    {
+      "heard": "समरसेब",
+      "correct": "सबमर्सिबल",
+      "count": 9
+    },
+    {
+      "heard": "हाईवे",
+      "correct": "हाइवा",
+      "count": 9
+    },
+    {
+      "heard": "पी मिंट",
+      "correct": "पेमेंट",
+      "count": 9
+    },
+    {
+      "heard": "दिल्लीगढ़",
+      "correct": "जल निगम",
+      "count": 8
+    },
+    {
+      "heard": "पीच ही",
+      "correct": "पीएचई",
+      "count": 8
+    },
+    {
+      "heard": "पाइन",
+      "correct": "पाइप",
+      "count": 7
+    },
+    {
+      "heard": "वाटर प्रूफ",
+      "correct": "वाटरप्रूफ",
+      "count": 7
+    },
+    {
+      "heard": "वाटर प्रूफिंग",
+      "correct": "वाटरप्रूफिंग",
+      "count": 7
+    },
+    {
+      "heard": "फ्लैश",
+      "correct": "फ्लैंज",
+      "count": 6
+    },
+    {
+      "heard": "पिन",
+      "correct": "पाइप लाइन",
+      "count": 6
+    },
+    {
+      "heard": "दिल्लीगढ़ पापा",
+      "correct": "जल निगम पाइप",
+      "count": 6
+    },
+    {
+      "heard": "जलगम वालो",
+      "correct": "जल निगम वालों",
+      "count": 5
+    },
+    {
+      "heard": "मैड रियल",
+      "correct": "मटेरियल",
+      "count": 4
+    },
+    {
+      "heard": "दिल्लीगढ़ वालो",
+      "correct": "जल निगम वालों",
+      "count": 4
+    },
+    {
+      "heard": "जलनाम एचटीटीपी",
+      "correct": "जल निगम एचडीपीई",
+      "count": 4
+    },
+    {
+      "heard": "पी ए च",
+      "correct": "पीएचई",
+      "count": 4
+    },
+    {
+      "heard": "फस",
+      "correct": "फँस",
+      "count": 3
+    },
+    {
+      "heard": "पी मिंट फस",
+      "correct": "पेमेंट फँस",
+      "count": 3
+    },
+    {
+      "heard": "जलनाम वालो",
+      "correct": "जल निगम वालों",
+      "count": 3
+    },
+    {
+      "heard": "पी ए च वालो",
+      "correct": "पीएचई वालों",
+      "count": 3
+    },
+    {
+      "heard": "जलगम पिन",
+      "correct": "जल निगम पाइप लाइन",
+      "count": 3
+    },
+    {
+      "heard": "पीच ही वालो",
+      "correct": "पीएचई वालों",
+      "count": 3
+    },
+    {
+      "heard": "जलनाम फ्लैश",
+      "correct": "जल निगम फ्लैंज",
+      "count": 3
+    },
+    {
+      "heard": "मेट रियल खत्म",
+      "correct": "मटेरियल ख़त्म",
+      "count": 3
+    },
+    {
+      "heard": "जलनाम पाइन",
+      "correct": "जल निगम पाइप",
+      "count": 3
+    },
+    {
+      "heard": "एचटीटीपी",
+      "correct": "एचडीपीई",
+      "count": 3
+    },
+    {
+      "heard": "खत्म",
+      "correct": "ख़त्म",
+      "count": 2
+    },
+    {
+      "heard": "मेट रियल",
+      "correct": "मटेरियल",
+      "count": 2
+    },
+    {
+      "heard": "पीच ही समरसेब",
+      "correct": "पीएचई सबमर्सिबल",
+      "count": 2
+    },
+    {
+      "heard": "पिन फ्लैश",
+      "correct": "पाइप लाइन फ्लैंज",
+      "count": 2
+    }
+  ],
+  "ohsr_work": [
+    {
+      "heard": "समरसेब",
+      "correct": "सबमर्सिबल",
+      "count": 2
+    },
+    {
+      "heard": "पीच ही",
+      "correct": "पीएचई",
+      "count": 2
+    },
+    {
+      "heard": "वाटर प्रूफ",
+      "correct": "वाटरप्रूफ",
+      "count": 2
+    }
+  ],
+  "labor_management": [
+    {
+      "heard": "शॉपर वाइजर",
+      "correct": "सुपरवाइजर",
+      "count": 2
+    },
+    {
+      "heard": "पी मिंट",
+      "correct": "पेमेंट",
+      "count": 2
+    }
+  ],
+  "road_work": [
+    {
+      "heard": "कम एक्शन",
+      "correct": "कम्पेक्शन",
+      "count": 74
+    },
+    {
+      "heard": "रूलर",
+      "correct": "रोलर",
+      "count": 72
+    },
+    {
+      "heard": "इस फाल्ट",
+      "correct": "एस्फाल्ट",
+      "count": 67
+    },
+    {
+      "heard": "पी डब्लू डी",
+      "correct": "पीडब्ल्यूडी",
+      "count": 65
+    },
+    {
+      "heard": "पावर",
+      "correct": "पेवर",
+      "count": 62
+    },
+    {
+      "heard": "डबलू बीम",
+      "correct": "डब्लू बी एम",
+      "count": 59
+    },
+    {
+      "heard": "बिट्टू मैन",
+      "correct": "बिटुमिन",
+      "count": 55
+    },
+    {
+      "heard": "चेंबर",
+      "correct": "कैम्बर",
+      "count": 43
+    },
+    {
+      "heard": "गद्दार",
+      "correct": "ग्रेडर",
+      "count": 37
+    },
+    {
+      "heard": "सोल्जर",
+      "correct": "शोल्डर",
+      "count": 31
+    },
+    {
+      "heard": "सब्जी रेट",
+      "correct": "सबग्रेड",
+      "count": 30
+    },
+    {
+      "heard": "डिब्बा एम",
+      "correct": "डीबीएम",
+      "count": 26
+    },
+    {
+      "heard": "कोर्ट",
+      "correct": "कोट",
+      "count": 25
+    },
+    {
+      "heard": "ट्रैक कोर्ट",
+      "correct": "टैक कोट",
+      "count": 25
+    },
+    {
+      "heard": "बैंक में",
+      "correct": "एम्बैंकमेंट",
+      "count": 22
+    },
+    {
+      "heard": "सब ग्रेट",
+      "correct": "सबग्रेड",
+      "count": 14
+    },
+    {
+      "heard": "ग्रेटर",
+      "correct": "ग्रेडर",
+      "count": 14
+    },
+    {
+      "heard": "अपॉइंटमेंट",
+      "correct": "अबटमेंट",
+      "count": 14
+    },
+    {
+      "heard": "गड़बड़",
+      "correct": "गर्डर",
+      "count": 14
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 14
+    },
+    {
+      "heard": "डी बी एम",
+      "correct": "डीबीएम",
+      "count": 10
+    },
+    {
+      "heard": "एक्स्ट्रा विज़न",
+      "correct": "एक्सावेशन",
+      "count": 5
+    },
+    {
+      "heard": "मिटटी",
+      "correct": "मिट्टी",
+      "count": 3
+    },
+    {
+      "heard": "बैंक",
+      "correct": "एम्बैंकमेंट",
+      "count": 3
+    },
+    {
+      "heard": "जे सी बी",
+      "correct": "जेसीबी",
+      "count": 3
+    },
+    {
+      "heard": "कम एक्शन पी डब्लू डी",
+      "correct": "कम्पेक्शन पीडब्ल्यूडी",
+      "count": 3
+    },
+    {
+      "heard": "पी",
+      "correct": "पीडब्ल्यूडी वाले",
+      "count": 3
+    },
+    {
+      "heard": "डी वाले डबलू बीम",
+      "correct": "बी एम",
+      "count": 3
+    }
+  ],
+  "electricity": [
+    {
+      "heard": "कीवी",
+      "correct": "केवी",
+      "count": 95
+    },
+    {
+      "heard": "डांस फार्मर",
+      "correct": "ट्रांसफार्मर",
+      "count": 67
+    },
+    {
+      "heard": "सब्जी स्टेशन",
+      "correct": "सबस्टेशन",
+      "count": 62
+    },
+    {
+      "heard": "बेकर",
+      "correct": "ब्रेकर",
+      "count": 51
+    },
+    {
+      "heard": "आर्थिक",
+      "correct": "अर्थिंग",
+      "count": 44
+    },
+    {
+      "heard": "इन स्वेटर",
+      "correct": "इंसुलेटर",
+      "count": 43
+    },
+    {
+      "heard": "कान डॉक्टर",
+      "correct": "कंडक्टर",
+      "count": 36
+    },
+    {
+      "heard": "सेट डाउन",
+      "correct": "शटडाउन",
+      "count": 31
+    },
+    {
+      "heard": "संपर्क",
+      "correct": "जंपर",
+      "count": 30
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 14
+    },
+    {
+      "heard": "आर्थिक",
+      "correct": "अर्थ",
+      "count": 4
+    }
+  ],
+  "railways": [
+    {
+      "heard": "गड़बड़",
+      "correct": "गर्डर",
+      "count": 53
+    },
+    {
+      "heard": "ब्लास्ट",
+      "correct": "बैलास्ट",
+      "count": 51
+    },
+    {
+      "heard": "ऑनलाइन मेंट",
+      "correct": "अलाइनमेंट",
+      "count": 38
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 12
+    },
+    {
+      "heard": "इसका फोल्डिंग",
+      "correct": "स्कैफोल्डिंग",
+      "count": 8
+    },
+    {
+      "heard": "टायर्स",
+      "correct": "टाइल्स",
+      "count": 3
+    },
+    {
+      "heard": "कूरियर",
+      "correct": "क्यूरिंग",
+      "count": 2
+    },
+    {
+      "heard": "पी डब्लू डी",
+      "correct": "पीडब्ल्यूडी",
+      "count": 2
+    }
+  ],
+  "building": [
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 84
+    },
+    {
+      "heard": "बीवियां दिए",
+      "correct": "बाइंडिंग वायर",
+      "count": 50
+    },
+    {
+      "heard": "टायर्स",
+      "correct": "टाइल्स",
+      "count": 35
+    },
+    {
+      "heard": "प्लास्टिक",
+      "correct": "प्लास्टर",
+      "count": 31
+    },
+    {
+      "heard": "छुट्टी",
+      "correct": "पुट्टी",
+      "count": 25
+    },
+    {
+      "heard": "कूरियर",
+      "correct": "क्यूरिंग",
+      "count": 24
+    },
+    {
+      "heard": "आलसी सी",
+      "correct": "आरसीसी",
+      "count": 23
+    },
+    {
+      "heard": "इसका फोल्डिंग",
+      "correct": "स्कैफोल्डिंग",
+      "count": 20
+    },
+    {
+      "heard": "भीम",
+      "correct": "बीम",
+      "count": 17
+    },
+    {
+      "heard": "इलेक्शन",
+      "correct": "एलिवेशन",
+      "count": 12
+    },
+    {
+      "heard": "कॉलर",
+      "correct": "कॉलम",
+      "count": 11
+    },
+    {
+      "heard": "सीमंत",
+      "correct": "सीमेंट",
+      "count": 11
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 11
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 10
+    },
+    {
+      "heard": "सेंसरिंग",
+      "correct": "सेंटरिंग",
+      "count": 9
+    },
+    {
+      "heard": "पलंग",
+      "correct": "प्लंबिंग",
+      "count": 9
+    },
+    {
+      "heard": "लालटेन",
+      "correct": "लिंटेल",
+      "count": 9
+    },
+    {
+      "heard": "स्लीप",
+      "correct": "स्लैब",
+      "count": 9
+    },
+    {
+      "heard": "स्टटरिंग",
+      "correct": "शटरिंग",
+      "count": 8
+    },
+    {
+      "heard": "वाटर वोटिंग",
+      "correct": "वाटरप्रूफिंग",
+      "count": 7
+    },
+    {
+      "heard": "ब्रेक वर्क",
+      "correct": "ब्रिकवर्क",
+      "count": 5
+    },
+    {
+      "heard": "कॉलर का",
+      "correct": "कॉलम की",
+      "count": 3
+    },
+    {
+      "heard": "करना",
+      "correct": "करनी",
+      "count": 3
+    },
+    {
+      "heard": "एग्रीमेंट",
+      "correct": "एग्रीगेट",
+      "count": 3
+    },
+    {
+      "heard": "भीम का",
+      "correct": "बीम की",
+      "count": 2
+    },
+    {
+      "heard": "वाटर वोटिंग का",
+      "correct": "वाटरप्रूफिंग की",
+      "count": 2
+    },
+    {
+      "heard": "दिया",
+      "correct": "दी",
+      "count": 2
+    },
+    {
+      "heard": "बीवियां दिए हुजूर",
+      "correct": "बाइंडिंग वायर हुज़ूर",
+      "count": 2
+    }
+  ],
+  "metro": [
+    {
+      "heard": "गड़बड़",
+      "correct": "गर्डर",
+      "count": 13
+    },
+    {
+      "heard": "ऑनलाइन मेंट",
+      "correct": "अलाइनमेंट",
+      "count": 8
+    },
+    {
+      "heard": "इसका फोल्डिंग",
+      "correct": "स्कैफोल्डिंग",
+      "count": 4
+    },
+    {
+      "heard": "सेंसरिंग",
+      "correct": "सेंटरिंग",
+      "count": 2
+    }
+  ],
+  "bridge_work": [
+    {
+      "heard": "अपार्टमेंट",
+      "correct": "अबटमेंट",
+      "count": 20
+    },
+    {
+      "heard": "गड़बड़",
+      "correct": "गर्डर",
+      "count": 20
+    },
+    {
+      "heard": "वहां",
+      "correct": "वहाँ",
+      "count": 2
+    }
+  ],
+  "irrigation": [
+    {
+      "heard": "गैराज",
+      "correct": "बैराज",
+      "count": 43
+    },
+    {
+      "heard": "टाइम",
+      "correct": "डैम",
+      "count": 43
+    },
+    {
+      "heard": "कमाल",
+      "correct": "कनाल",
+      "count": 40
+    },
+    {
+      "heard": "सिल्वर",
+      "correct": "स्पिलवे",
+      "count": 32
+    },
+    {
+      "heard": "सिलाई",
+      "correct": "स्लुइस",
+      "count": 29
+    },
+    {
+      "heard": "अटैचमेंट",
+      "correct": "कैचमेंट",
+      "count": 22
+    },
+    {
+      "heard": "बैंक में",
+      "correct": "एम्बैंकमेंट",
+      "count": 15
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 12
+    },
+    {
+      "heard": "पुलिस",
+      "correct": "स्लुइस",
+      "count": 6
+    },
+    {
+      "heard": "डीजे",
+      "correct": "डीजी",
+      "count": 4
+    },
+    {
+      "heard": "डिस्टिल्टिंग",
+      "correct": "डीसिल्टिंग",
+      "count": 2
+    },
+    {
+      "heard": "जे सी बी",
+      "correct": "जेसीबी",
+      "count": 2
+    },
+    {
+      "heard": "टाकी",
+      "correct": "टॉकी",
+      "count": 2
+    }
+  ],
+  "telecom": [
+    {
+      "heard": "डस्टिंग",
+      "correct": "डक्टिंग",
+      "count": 65
+    },
+    {
+      "heard": "सप्लाई",
+      "correct": "स्प्लाइसिंग",
+      "count": 48
+    },
+    {
+      "heard": "मेन हॉल",
+      "correct": "मैनहोल",
+      "count": 45
+    },
+    {
+      "heard": "ऑफिस",
+      "correct": "ओएफसी",
+      "count": 44
+    },
+    {
+      "heard": "वापसी",
+      "correct": "ओएफसी",
+      "count": 35
+    },
+    {
+      "heard": "टेंशन",
+      "correct": "ट्रेंचिंग",
+      "count": 28
+    },
+    {
+      "heard": "ट्रेन",
+      "correct": "ट्रेंचिंग",
+      "count": 20
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 13
+    },
+    {
+      "heard": "पी डब्लू डी",
+      "correct": "पीडब्ल्यूडी",
+      "count": 12
+    },
+    {
+      "heard": "एन ओ सी",
+      "correct": "एनओसी",
+      "count": 7
+    },
+    {
+      "heard": "जे सी बी",
+      "correct": "जेसीबी",
+      "count": 5
+    },
+    {
+      "heard": "ट्रेन",
+      "correct": "ट्रेंच",
+      "count": 4
+    }
+  ],
+  "heavy_machinery": [
+    {
+      "heard": "रूम",
+      "correct": "बूम",
+      "count": 66
+    },
+    {
+      "heard": "पावर ट्रेन",
+      "correct": "टावर क्रेन",
+      "count": 48
+    },
+    {
+      "heard": "मैचिंग",
+      "correct": "बैचिंग",
+      "count": 44
+    },
+    {
+      "heard": "डीजे",
+      "correct": "डीजी",
+      "count": 41
+    },
+    {
+      "heard": "कंप्यूटर",
+      "correct": "कंप्रेसर",
+      "count": 36
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 12
+    },
+    {
+      "heard": "एग्रीमेंट",
+      "correct": "एग्रीगेट",
+      "count": 2
+    }
+  ],
+  "mining": [
+    {
+      "heard": "प्लास्टिक",
+      "correct": "ब्लास्टिंग",
+      "count": 50
+    },
+    {
+      "heard": "डीलिंग",
+      "correct": "ड्रिलिंग",
+      "count": 44
+    },
+    {
+      "heard": "साफ़",
+      "correct": "शाफ़्ट",
+      "count": 43
+    },
+    {
+      "heard": "पेंटीलेशन",
+      "correct": "वेंटिलेशन",
+      "count": 41
+    },
+    {
+      "heard": "एक्सप्रेस",
+      "correct": "एक्सप्लोसिव",
+      "count": 38
+    },
+    {
+      "heard": "चैनल",
+      "correct": "टनल",
+      "count": 38
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 12
+    },
+    {
+      "heard": "पी डब्लू डी",
+      "correct": "पीडब्ल्यूडी",
+      "count": 2
+    }
+  ],
+  "building_construction": [
+    {
+      "heard": "आलसी सी",
+      "correct": "आरसीसी",
+      "count": 26
+    },
+    {
+      "heard": "टायर्स",
+      "correct": "टाइल्स",
+      "count": 24
+    },
+    {
+      "heard": "प्लास्टिक",
+      "correct": "प्लास्टर",
+      "count": 19
+    },
+    {
+      "heard": "पलंग",
+      "correct": "प्लंबिंग",
+      "count": 19
+    },
+    {
+      "heard": "सीमंत",
+      "correct": "सीमेंट",
+      "count": 19
+    },
+    {
+      "heard": "कॉलर",
+      "correct": "कॉलम",
+      "count": 18
+    },
+    {
+      "heard": "भीम",
+      "correct": "बीम",
+      "count": 17
+    },
+    {
+      "heard": "कूरियर",
+      "correct": "क्यूरिंग",
+      "count": 17
+    },
+    {
+      "heard": "छुट्टी",
+      "correct": "पुट्टी",
+      "count": 17
+    },
+    {
+      "heard": "इलेक्शन",
+      "correct": "एलिवेशन",
+      "count": 17
+    },
+    {
+      "heard": "इसका फोल्डिंग",
+      "correct": "स्कैफोल्डिंग",
+      "count": 17
+    },
+    {
+      "heard": "ब्रेक वर्क",
+      "correct": "ब्रिकवर्क",
+      "count": 16
+    },
+    {
+      "heard": "एग्रीमेंट",
+      "correct": "एग्रीगेट",
+      "count": 16
+    },
+    {
+      "heard": "स्लीप",
+      "correct": "स्लैब",
+      "count": 14
+    },
+    {
+      "heard": "लालटेन",
+      "correct": "लिंटेल",
+      "count": 13
+    },
+    {
+      "heard": "वाटर वोटिंग",
+      "correct": "वाटरप्रूफिंग",
+      "count": 12
+    },
+    {
+      "heard": "स्टटरिंग",
+      "correct": "शटरिंग",
+      "count": 11
+    },
+    {
+      "heard": "वहां",
+      "correct": "वहाँ",
+      "count": 3
+    },
+    {
+      "heard": "जाएगा",
+      "correct": "जाएगी",
+      "count": 2
+    },
+    {
+      "heard": "भीम का",
+      "correct": "बीम की",
+      "count": 2
+    },
+    {
+      "heard": "छुट्टी का",
+      "correct": "पुट्टी की",
+      "count": 2
+    }
+  ],
+  "अरे ग्रेडर को बोल सबग्रेड पे मिट्टी डाले और रोलर चला दे।": [],
+  "insurance": [
+    {
+      "heard": "पोकलेन",
+      "correct": "पॉलिसी",
+      "count": 60
+    },
+    {
+      "heard": "ही शायद",
+      "correct": "शुक्रवार",
+      "count": 35
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 7
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 6
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार",
+      "count": 6
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार को",
+      "count": 3
+    },
+    {
+      "heard": "बीवियां दिए",
+      "correct": "बाइंडिंग वायर",
+      "count": 2
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 2
+    }
+  ],
+  "digital": [
+    {
+      "heard": "लोग इन",
+      "correct": "लॉगिन",
+      "count": 51
+    },
+    {
+      "heard": "सर अंदर",
+      "correct": "सरेंडर",
+      "count": 46
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 8
+    },
+    {
+      "heard": "लोग इन आई डी",
+      "correct": "लॉगिन आईडी",
+      "count": 7
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 7
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार",
+      "count": 2
+    }
+  ],
+  "sewerage": [],
+  "process": [
+    {
+      "heard": "सर अंदर",
+      "correct": "सरेंडर",
+      "count": 4
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 3
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार",
+      "count": 2
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार को",
+      "count": 2
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 2
+    },
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 2
+    }
+  ],
+  "location": [],
+  "3.85/location hallucinations": [],
+  "transport": [],
+  "project status": [],
+  "technical": [],
+  "administrative": [],
+  "finance": [],
+  "inspection": [],
+  "store": [],
+  "estimation": [],
+  "shuttering": [],
+  "dg set": [],
+  "resource management": [],
+  "permission": [],
+  "hydrotest": [],
+  "valve chamber": [],
+  "site_call": [],
+  "complaint_call": [],
+  "complaint": [],
+  "hydro": [],
+  "sentence": [
+    {
+      "heard": "शरीर",
+      "correct": "सरिया",
+      "count": 213
+    },
+    {
+      "heard": "गड़बड़",
+      "correct": "गर्डर",
+      "count": 93
+    },
+    {
+      "heard": "डस्टिंग",
+      "correct": "डक्टिंग",
+      "count": 83
+    },
+    {
+      "heard": "कीवी",
+      "correct": "केवी",
+      "count": 82
+    },
+    {
+      "heard": "पी डब्लू डी",
+      "correct": "पीडब्ल्यूडी",
+      "count": 76
+    },
+    {
+      "heard": "कम एक्शन",
+      "correct": "कम्पेक्शन",
+      "count": 71
+    },
+    {
+      "heard": "कंप्यूटर",
+      "correct": "कंप्रेसर",
+      "count": 69
+    },
+    {
+      "heard": "रूलर",
+      "correct": "रोलर",
+      "count": 69
+    },
+    {
+      "heard": "मैं",
+      "correct": "महीने",
+      "count": 65
+    },
+    {
+      "heard": "इस फाल्ट",
+      "correct": "एस्फाल्ट",
+      "count": 64
+    },
+    {
+      "heard": "पोकलेन",
+      "correct": "पॉलिसी",
+      "count": 62
+    },
+    {
+      "heard": "रूम",
+      "correct": "बूम",
+      "count": 58
+    },
+    {
+      "heard": "टायर्स",
+      "correct": "टाइल्स",
+      "count": 58
+    },
+    {
+      "heard": "पावर",
+      "correct": "पेवर",
+      "count": 58
+    },
+    {
+      "heard": "बीवियां दिए",
+      "correct": "बाइंडिंग वायर",
+      "count": 57
+    },
+    {
+      "heard": "लोग इन",
+      "correct": "लॉगिन",
+      "count": 56
+    },
+    {
+      "heard": "डबलू बीम",
+      "correct": "डब्लू बी एम",
+      "count": 56
+    },
+    {
+      "heard": "सब्जी स्टेशन",
+      "correct": "सबस्टेशन",
+      "count": 56
+    },
+    {
+      "heard": "डांस फार्मर",
+      "correct": "ट्रांसफार्मर",
+      "count": 55
+    },
+    {
+      "heard": "पापा",
+      "correct": "पाइप",
+      "count": 53
+    },
+    {
+      "heard": "बिट्टू मैन",
+      "correct": "बिटुमिन",
+      "count": 53
+    },
+    {
+      "heard": "सर अंदर",
+      "correct": "सरेंडर",
+      "count": 51
+    },
+    {
+      "heard": "हुजूर",
+      "correct": "हुज़ूर",
+      "count": 51
+    },
+    {
+      "heard": "स्टटरिंग",
+      "correct": "शटरिंग",
+      "count": 51
+    },
+    {
+      "heard": "पिन",
+      "correct": "पाइप लाइन",
+      "count": 51
+    },
+    {
+      "heard": "चिल्लर",
+      "correct": "चिलर",
+      "count": 50
+    },
+    {
+      "heard": "ब्लास्ट",
+      "correct": "बैलास्ट",
+      "count": 47
+    },
+    {
+      "heard": "इसका फोल्डिंग",
+      "correct": "स्कैफोल्डिंग",
+      "count": 46
+    },
+    {
+      "heard": "जगह रहा छब्बीस",
+      "correct": "अजगरहा",
+      "count": 45
+    },
+    {
+      "heard": "आलसी सी",
+      "correct": "आरसीसी",
+      "count": 45
+    },
+    {
+      "heard": "प्लास्टिक",
+      "correct": "प्लास्टर",
+      "count": 44
+    },
+    {
+      "heard": "प्लास्टिक",
+      "correct": "ब्लास्टिंग",
+      "count": 44
+    },
+    {
+      "heard": "पावर ट्रेन",
+      "correct": "टावर क्रेन",
+      "count": 42
+    },
+    {
+      "heard": "ऑनलाइन मेंट",
+      "correct": "अलाइनमेंट",
+      "count": 42
+    },
+    {
+      "heard": "बॉल",
+      "correct": "वाल्व",
+      "count": 42
+    },
+    {
+      "heard": "कूरियर",
+      "correct": "क्यूरिंग",
+      "count": 41
+    },
+    {
+      "heard": "चेंबर",
+      "correct": "कैम्बर",
+      "count": 41
+    },
+    {
+      "heard": "मैचिंग",
+      "correct": "बैचिंग",
+      "count": 40
+    },
+    {
+      "heard": "फ्लैश",
+      "correct": "फ्लैंज",
+      "count": 40
+    },
+    {
+      "heard": "दिल्लीगढ़",
+      "correct": "जल निगम",
+      "count": 39
+    },
+    {
+      "heard": "डीजे",
+      "correct": "डीजी",
+      "count": 39
+    },
+    {
+      "heard": "डीलिंग",
+      "correct": "ड्रिलिंग",
+      "count": 39
+    },
+    {
+      "heard": "इन स्वेटर",
+      "correct": "इंसुलेटर",
+      "count": 39
+    },
+    {
+      "heard": "गैराज",
+      "correct": "बैराज",
+      "count": 39
+    },
+    {
+      "heard": "एचटीटीपी",
+      "correct": "एचडीपीई",
+      "count": 38
+    },
+    {
+      "heard": "एडजस्ट",
+      "correct": "एग्जॉस्ट",
+      "count": 38
+    },
+    {
+      "heard": "छुट्टी",
+      "correct": "पुट्टी",
+      "count": 38
+    },
+    {
+      "heard": "साफ़",
+      "correct": "शाफ़्ट",
+      "count": 38
+    },
+    {
+      "heard": "समरसेब",
+      "correct": "सबमर्सिबल",
+      "count": 38
+    },
+    {
+      "heard": "आज यू",
+      "correct": "एएचयू",
+      "count": 38
+    },
+    {
+      "heard": "आर्थिक",
+      "correct": "अर्थिंग",
+      "count": 38
+    },
+    {
+      "heard": "टाइम",
+      "correct": "डैम",
+      "count": 38
+    },
+    {
+      "heard": "बेकर",
+      "correct": "ब्रेकर",
+      "count": 37
+    },
+    {
+      "heard": "सप्लाई",
+      "correct": "स्प्लाइसिंग",
+      "count": 37
+    },
+    {
+      "heard": "पीच ही",
+      "correct": "पीएचई",
+      "count": 37
+    },
+    {
+      "heard": "कमाल",
+      "correct": "कनाल",
+      "count": 37
+    },
+    {
+      "heard": "ही शायद",
+      "correct": "शुक्रवार",
+      "count": 37
+    },
+    {
+      "heard": "पेंटीलेशन",
+      "correct": "वेंटिलेशन",
+      "count": 35
+    },
+    {
+      "heard": "गद्दार",
+      "correct": "ग्रेडर",
+      "count": 35
+    },
+    {
+      "heard": "मेन हॉल",
+      "correct": "मैनहोल",
+      "count": 35
+    },
+    {
+      "heard": "एक्सप्रेस",
+      "correct": "एक्सप्लोसिव",
+      "count": 34
+    },
+    {
+      "heard": "ऑफिस",
+      "correct": "ओएफसी",
+      "count": 34
+    },
+    {
+      "heard": "चैनल",
+      "correct": "टनल",
+      "count": 33
+    },
+    {
+      "heard": "बैंक में",
+      "correct": "एम्बैंकमेंट",
+      "count": 32
+    },
+    {
+      "heard": "एम बी",
+      "correct": "एमबी",
+      "count": 32
+    },
+    {
+      "heard": "पी ए च",
+      "correct": "पीएचई",
+      "count": 31
+    },
+    {
+      "heard": "ओ एच सर",
+      "correct": "ओएचएसआर",
+      "count": 31
+    },
+    {
+      "heard": "कोरी नेशन",
+      "correct": "क्लोरिनेशन",
+      "count": 31
+    },
+    {
+      "heard": "वाई ब्रेटर",
+      "correct": "वाइब्रेटर",
+      "count": 30
+    },
+    {
+      "heard": "भीम",
+      "correct": "बीम",
+      "count": 30
+    },
+    {
+      "heard": "हाईट रोस्ट",
+      "correct": "हाइड्रोटेस्ट",
+      "count": 29
+    },
+    {
+      "heard": "सोल्जर",
+      "correct": "शोल्डर",
+      "count": 29
+    },
+    {
+      "heard": "सब्जी रेट",
+      "correct": "सबग्रेड",
+      "count": 28
+    },
+    {
+      "heard": "कॉन क्रिएट",
+      "correct": "कंक्रीट",
+      "count": 28
+    },
+    {
+      "heard": "पलंग",
+      "correct": "प्लंबिंग",
+      "count": 27
+    },
+    {
+      "heard": "समर्सबल",
+      "correct": "सबमर्सिबल",
+      "count": 27
+    },
+    {
+      "heard": "इलेक्शन",
+      "correct": "एलिवेशन",
+      "count": 27
+    },
+    {
+      "heard": "वापसी",
+      "correct": "ओएफसी",
+      "count": 27
+    },
+    {
+      "heard": "कान डॉक्टर",
+      "correct": "कंडक्टर",
+      "count": 27
+    },
+    {
+      "heard": "सिलाई",
+      "correct": "स्लुइस",
+      "count": 27
+    },
+    {
+      "heard": "सिल्वर",
+      "correct": "स्पिलवे",
+      "count": 27
+    },
+    {
+      "heard": "कॉलर",
+      "correct": "कॉलम",
+      "count": 27
+    },
+    {
+      "heard": "सेट डाउन",
+      "correct": "शटडाउन",
+      "count": 26
+    },
+    {
+      "heard": "सीमंत",
+      "correct": "सीमेंट",
+      "count": 25
+    },
+    {
+      "heard": "एक्स्ट्रा विज़न",
+      "correct": "एक्सावेशन",
+      "count": 24
+    },
+    {
+      "heard": "संपर्क",
+      "correct": "जंपर",
+      "count": 24
+    },
+    {
+      "heard": "डिब्बा एम",
+      "correct": "डीबीएम",
+      "count": 24
+    },
+    {
+      "heard": "जाली गम",
+      "correct": "जल निगम",
+      "count": 23
+    },
+    {
+      "heard": "ट्रैक कोर्ट",
+      "correct": "टैक कोट",
+      "count": 23
+    },
+    {
+      "heard": "कोर्ट",
+      "correct": "कोट",
+      "count": 23
+    },
+    {
+      "heard": "कॉंग क्रिएट",
+      "correct": "कंक्रीट",
+      "count": 22
+    },
+    {
+      "heard": "एग्रीमेंट",
+      "correct": "एग्रीगेट",
+      "count": 22
+    },
+    {
+      "heard": "टेंशन",
+      "correct": "ट्रेंचिंग",
+      "count": 22
+    },
+    {
+      "heard": "स्लीप",
+      "correct": "स्लैब",
+      "count": 21
+    },
+    {
+      "heard": "वाटर प्रूफ",
+      "correct": "वाटरप्रूफ",
+      "count": 20
+    },
+    {
+      "heard": "लालटेन",
+      "correct": "लिंटेल",
+      "count": 20
+    },
+    {
+      "heard": "टीचर",
+      "correct": "ठेकेदार",
+      "count": 20
+    },
+    {
+      "heard": "अटैचमेंट",
+      "correct": "कैचमेंट",
+      "count": 20
+    },
+    {
+      "heard": "अपार्टमेंट",
+      "correct": "अबटमेंट",
+      "count": 20
+    },
+    {
+      "heard": "जलनाम",
+      "correct": "जल निगम",
+      "count": 20
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार",
+      "count": 19
+    },
+    {
+      "heard": "जे एस बी",
+      "correct": "जेसीबी",
+      "count": 19
+    },
+    {
+      "heard": "ब्रेक वर्क",
+      "correct": "ब्रिकवर्क",
+      "count": 19
+    },
+    {
+      "heard": "वाटर प्रूफिंग",
+      "correct": "वाटरप्रूफिंग",
+      "count": 18
+    },
+    {
+      "heard": "एचडीएफसी",
+      "correct": "एचडीपीई",
+      "count": 18
+    },
+    {
+      "heard": "जूसी",
+      "correct": "जेसीबी",
+      "count": 18
+    },
+    {
+      "heard": "वाटर वोटिंग",
+      "correct": "वाटरप्रूफिंग",
+      "count": 18
+    },
+    {
+      "heard": "जलगम",
+      "correct": "जल निगम",
+      "count": 18
+    },
+    {
+      "heard": "पोक लेन",
+      "correct": "पोकलेन",
+      "count": 17
+    },
+    {
+      "heard": "पे मिंट",
+      "correct": "पेमेंट",
+      "count": 17
+    },
+    {
+      "heard": "हाईवे",
+      "correct": "हाइवा",
+      "count": 16
+    },
+    {
+      "heard": "टेक अ दर",
+      "correct": "ठेकेदार",
+      "count": 16
+    },
+    {
+      "heard": "पाइन",
+      "correct": "पाइप",
+      "count": 15
+    },
+    {
+      "heard": "पी मिंट",
+      "correct": "पेमेंट",
+      "count": 15
+    },
+    {
+      "heard": "ट्रेन",
+      "correct": "ट्रेंचिंग",
+      "count": 14
+    },
+    {
+      "heard": "सब ग्रेट",
+      "correct": "सबग्रेड",
+      "count": 14
+    },
+    {
+      "heard": "ग्रेटर",
+      "correct": "ग्रेडर",
+      "count": 14
+    },
+    {
+      "heard": "अपॉइंटमेंट",
+      "correct": "अबटमेंट",
+      "count": 14
+    },
+    {
+      "heard": "सेंसरिंग",
+      "correct": "सेंटरिंग",
+      "count": 12
+    },
+    {
+      "heard": "Friday ही शायद",
+      "correct": "शुक्रवार को",
+      "count": 11
+    },
+    {
+      "heard": "मैड रियल",
+      "correct": "मटेरियल",
+      "count": 10
+    },
+    {
+      "heard": "हाई बार",
+      "correct": "हाइवा",
+      "count": 10
+    },
+    {
+      "heard": "डी बी एम",
+      "correct": "डीबीएम",
+      "count": 10
+    },
+    {
+      "heard": "जे सी बी",
+      "correct": "जेसीबी",
+      "count": 10
+    },
+    {
+      "heard": "पॉलीथिन",
+      "correct": "पोकलेन",
+      "count": 9
+    },
+    {
+      "heard": "मेट रियल",
+      "correct": "मटेरियल",
+      "count": 9
+    },
+    {
+      "heard": "एग्जीबिशन",
+      "correct": "एक्सावेशन",
+      "count": 9
+    },
+    {
+      "heard": "जय सी बी",
+      "correct": "जेसीबी",
+      "count": 9
+    },
+    {
+      "heard": "लोग इन आई डी",
+      "correct": "लॉगिन आईडी",
+      "count": 8
+    },
+    {
+      "heard": "है",
+      "correct": "हैं",
+      "count": 8
+    },
+    {
+      "heard": "वहां",
+      "correct": "वहाँ",
+      "count": 7
+    },
+    {
+      "heard": "जलगम वालो",
+      "correct": "जल निगम वालों",
+      "count": 6
+    },
+    {
+      "heard": "एन ओ सी",
+      "correct": "एनओसी",
+      "count": 6
+    },
+    {
+      "heard": "पती",
+      "correct": "पति",
+      "count": 6
+    },
+    {
+      "heard": "पी ए च वालो",
+      "correct": "पीएचई वालों",
+      "count": 5
+    },
+    {
+      "heard": "पुलिस",
+      "correct": "स्लुइस",
+      "count": 5
+    },
+    {
+      "heard": "कॉलर का",
+      "correct": "कॉलम की",
+      "count": 4
+    },
+    {
+      "heard": "करना",
+      "correct": "करनी",
+      "count": 4
+    },
+    {
+      "heard": "compaktor chalao",
+      "correct": "कम्पैक्टर चलाओ",
+      "count": 4
+    },
+    {
+      "heard": "दिल्लीगढ़ पापा",
+      "correct": "जल निगम पाइप",
+      "count": 4
+    },
+    {
+      "heard": "दिल्लीगढ़ वालो",
+      "correct": "जल निगम वालों",
+      "count": 4
+    },
+    {
+      "heard": "aaj lebara nahi aayi",
+      "correct": "आज लेबर नहीं आई",
+      "count": 4
+    },
+    {
+      "heard": "आर्थिक",
+      "correct": "अर्थ",
+      "count": 4
+    },
+    {
+      "heard": "overhad tank",
+      "correct": "ओवरहेड टैंक",
+      "count": 4
+    },
+    {
+      "heard": "भीम का",
+      "correct": "बीम की",
+      "count": 4
+    },
+    {
+      "heard": "जाली गम वालो",
+      "correct": "जल निगम वालों",
+      "count": 4
+    },
+    {
+      "heard": "यहां",
+      "correct": "यहाँ",
+      "count": 4
+    },
+    {
+      "heard": "आये",
+      "correct": "आए",
+      "count": 4
+    },
+    {
+      "heard": "हमाई",
+      "correct": "हमारी",
+      "count": 4
+    },
+    {
+      "heard": "लॉक",
+      "correct": "ब्लॉक",
+      "count": 4
+    },
+    {
+      "heard": "जाएं",
+      "correct": "जाएँ",
+      "count": 3
+    },
+    {
+      "heard": "extra vision",
+      "correct": "एक्सावेशन",
+      "count": 3
+    },
+    {
+      "heard": "jcb opretar",
+      "correct": "JCB ऑपरेटर",
+      "count": 3
+    },
+    {
+      "heard": "sir",
+      "correct": "सर",
+      "count": 3
+    },
+    {
+      "heard": "वाटर वोटिंग का",
+      "correct": "वाटरप्रूफिंग की",
+      "count": 3
+    },
+    {
+      "heard": "दिया",
+      "correct": "दी",
+      "count": 3
+    },
+    {
+      "heard": "पी",
+      "correct": "पीडब्ल्यूडी वाले",
+      "count": 3
+    },
+    {
+      "heard": "डी वाले डबलू बीम",
+      "correct": "बी एम",
+      "count": 3
+    },
+    {
+      "heard": "छुट्टी का",
+      "correct": "पुट्टी की",
+      "count": 3
+    },
+    {
+      "heard": "ms paip",
+      "correct": "MS पाइप",
+      "count": 3
+    },
+    {
+      "heard": "site",
+      "correct": "साइट",
+      "count": 3
+    },
+    {
+      "heard": "जलनाम पाइन",
+      "correct": "जल निगम पाइप",
+      "count": 3
+    },
+    {
+      "heard": "a c c sment",
+      "correct": "ACC सीमेंट",
+      "count": 3
+    },
+    {
+      "heard": "wifi routar",
+      "correct": "WiFi राउटर",
+      "count": 3
+    },
+    {
+      "heard": "jcb khudaai",
+      "correct": "JCB खुदाई",
+      "count": 3
+    },
+    {
+      "heard": "c c roof",
+      "correct": "RCC रूफ",
+      "count": 3
+    },
+    {
+      "heard": "kansil pipe",
+      "correct": "कंसील पाइप",
+      "count": 3
+    },
+    {
+      "heard": "krashar dust",
+      "correct": "क्रेशर डस्ट",
+      "count": 3
+    },
+    {
+      "heard": "pcc karna",
+      "correct": "PCC करना",
+      "count": 3
+    },
+    {
+      "heard": "kancreet pmp",
+      "correct": "कंक्रीट पंप",
+      "count": 3
+    },
+    {
+      "heard": "diesel",
+      "correct": "डीजल",
+      "count": 3
+    },
+    {
+      "heard": "al drop",
+      "correct": "एल्ड्रॉप",
+      "count": 3
+    },
+    {
+      "heard": "मिटटी",
+      "correct": "मिट्टी",
+      "count": 3
+    },
+    {
+      "heard": "हस्बिन",
+      "correct": "हसबैंड",
+      "count": 3
+    },
+    {
+      "heard": "ट्रेन",
+      "correct": "ट्रेंच",
+      "count": 3
+    },
+    {
+      "heard": "बैंक",
+      "correct": "एम्बैंकमेंट",
+      "count": 3
+    },
+    {
+      "heard": "जाओ",
+      "correct": "जाऊँ",
+      "count": 3
+    },
+    {
+      "heard": "दप्तर",
+      "correct": "दफ़्तर",
+      "count": 3
+    },
+    {
+      "heard": "पेक्षा",
+      "correct": "अपेक्षा",
+      "count": 3
+    },
+    {
+      "heard": "हां",
+      "correct": "हाँ",
+      "count": 3
+    },
+    {
+      "heard": "इदर",
+      "correct": "इधर",
+      "count": 3
+    },
+    {
+      "heard": "तु",
+      "correct": "तू",
+      "count": 3
+    },
+    {
+      "heard": "काफी",
+      "correct": "कॉफी",
+      "count": 3
+    },
+    {
+      "heard": "सेट",
+      "correct": "सेठ",
+      "count": 3
+    },
+    {
+      "heard": "फोड़ा",
+      "correct": "थोड़ा",
+      "count": 2
+    },
+    {
+      "heard": "ले",
+      "correct": "लें",
+      "count": 2
+    },
+    {
+      "heard": "दोएन",
+      "correct": "दोनों",
+      "count": 2
+    },
+    {
+      "heard": "हीरोग",
+      "correct": "ही लोग",
+      "count": 2
+    },
+    {
+      "heard": "tu bech ke",
+      "correct": "BHK",
+      "count": 2
+    },
+    {
+      "heard": "pcc dal",
+      "correct": "PCC डाल",
+      "count": 2
+    },
+    {
+      "heard": "kavar blook",
+      "correct": "कवर ब्लॉक",
+      "count": 2
+    },
+    {
+      "heard": "लगे शादी कैंसल है लोंडिया",
+      "correct": "लगेगा लड़की",
+      "count": 2
+    },
+    {
+      "heard": "जलनाम एचटीटीपी",
+      "correct": "जल निगम एचडीपीई",
+      "count": 2
+    },
+    {
+      "heard": "कम एक्शन पी डब्लू डी",
+      "correct": "कम्पेक्शन पीडब्ल्यूडी",
+      "count": 2
+    },
+    {
+      "heard": "सब्सक्राइब",
+      "correct": "सब ठीक",
+      "count": 2
+    },
+    {
+      "heard": "जलनाम वालो",
+      "correct": "जल निगम वालों",
+      "count": 2
+    },
+    {
+      "heard": "अच्छा हो और",
+      "correct": "अगर",
+      "count": 2
+    },
+    {
+      "heard": "कहेंदे",
+      "correct": "कह दें",
+      "count": 2
+    },
+    {
+      "heard": "set",
+      "correct": "सेट",
+      "count": 2
+    },
+    {
+      "heard": "ark valding",
+      "correct": "आर्क वेल्डिंग",
+      "count": 2
+    },
+    {
+      "heard": "बहलाओं",
+      "correct": "बहलाऊँ",
+      "count": 2
+    },
+    {
+      "heard": "यू",
+      "correct": "यूँ",
+      "count": 2
+    },
+    {
+      "heard": "रोवांस",
+      "correct": "रोमांस",
+      "count": 2
+    },
+    {
+      "heard": "रहूं",
+      "correct": "रहूँ",
+      "count": 2
+    },
+    {
+      "heard": "khsra khtoni",
+      "correct": "खसरा खतौनी",
+      "count": 2
+    },
+    {
+      "heard": "steel",
+      "correct": "स्टील",
+      "count": 2
+    },
+    {
+      "heard": "c c camera",
+      "correct": "CCTV कैमरा",
+      "count": 2
+    },
+    {
+      "heard": "compresar avj",
+      "correct": "कंप्रेसर आवाज़",
+      "count": 2
+    },
+    {
+      "heard": "खत्म",
+      "correct": "ख़त्म",
+      "count": 2
+    },
+    {
+      "heard": "फिचरों",
+      "correct": "फिल्मों",
+      "count": 2
+    },
+    {
+      "heard": "insepcsn chambr",
+      "correct": "इंस्पेक्शन चेंबर",
+      "count": 2
+    },
+    {
+      "heard": "cast iron",
+      "correct": "कास्ट आयरन",
+      "count": 2
+    },
+    {
+      "heard": "krek dalo",
+      "correct": "क्रैक भर दो",
+      "count": 2
+    },
+    {
+      "heard": "bhada",
+      "correct": "भाड़ा",
+      "count": 2
+    },
+    {
+      "heard": "p trap dalo",
+      "correct": "P ट्रैप डालो",
+      "count": 2
+    },
+    {
+      "heard": "slab",
+      "correct": "स्लैब",
+      "count": 2
+    },
+    {
+      "heard": "पॉलीथिन एक्स्ट्रा विज़न",
+      "correct": "पोकलेन एक्सावेशन",
+      "count": 2
+    },
+    {
+      "heard": "पीच ही समरसेब",
+      "correct": "पीएचई सबमर्सिबल",
+      "count": 2
+    },
+    {
+      "heard": "जिति",
+      "correct": "जितनी",
+      "count": 2
+    },
+    {
+      "heard": "sr pipe",
+      "correct": "SWR पाइप",
+      "count": 2
+    },
+    {
+      "heard": "joint",
+      "correct": "जॉइंट",
+      "count": 2
+    },
+    {
+      "heard": "gate",
+      "correct": "गेट",
+      "count": 2
+    },
+    {
+      "heard": "color fad",
+      "correct": "कलर फेड",
+      "count": 2
+    },
+    {
+      "heard": "colam farma",
+      "correct": "कॉलम फर्मा",
+      "count": 2
+    },
+    {
+      "heard": "aengal val",
+      "correct": "एंगल वाल्व",
+      "count": 2
+    },
+    {
+      "heard": "pufl panal",
+      "correct": "PUF पैनल",
+      "count": 2
+    },
+    {
+      "heard": "जलगम पिन",
+      "correct": "जल निगम पाइप लाइन",
+      "count": 2
+    },
+    {
+      "heard": "शॉपर वाइजर",
+      "correct": "सुपरवाइजर",
+      "count": 2
+    },
+    {
+      "heard": "कांट्रेक्टर",
+      "correct": "ठेकेदार",
+      "count": 2
+    },
+    {
+      "heard": "आखरी",
+      "correct": "आख़िरी",
+      "count": 2
+    },
+    {
+      "heard": "मा",
+      "correct": "माँ",
+      "count": 2
+    },
+    {
+      "heard": "तुझको यहां",
+      "correct": "तुझे यहाँ",
+      "count": 2
+    },
+    {
+      "heard": "निकाल लेंगे",
+      "correct": "निकालने देंगे",
+      "count": 2
+    },
+    {
+      "heard": "compksn test",
+      "correct": "कम्पैक्शन टेस्ट",
+      "count": 2
+    },
+    {
+      "heard": "lab",
+      "correct": "लैब",
+      "count": 2
+    },
+    {
+      "heard": "kambal",
+      "correct": "कम्बल",
+      "count": 2
+    },
+    {
+      "heard": "complesan cerfit",
+      "correct": "कम्प्लीशन सर्टिफिकेट",
+      "count": 2
+    },
+    {
+      "heard": "krb iston",
+      "correct": "कर्ब स्टोन",
+      "count": 2
+    },
+    {
+      "heard": "gam boot",
+      "correct": "गम बूट",
+      "count": 2
+    },
+    {
+      "heard": "krane lgegi",
+      "correct": "क्रेन लगेगी",
+      "count": 2
+    },
+    {
+      "heard": "katig filng",
+      "correct": "कटिंग फिलिंग",
+      "count": 2
+    },
+    {
+      "heard": "kabel tre",
+      "correct": "केबल ट्रे",
+      "count": 2
+    },
+    {
+      "heard": "epoksi karni",
+      "correct": "इपॉक्सी करनी",
+      "count": 2
+    },
+    {
+      "heard": "ऐसी",
+      "correct": "ऐसा",
+      "count": 2
+    },
+    {
+      "heard": "सी विजनेस",
+      "correct": "सा बिजनेस",
+      "count": 2
+    },
+    {
+      "heard": "वापस मिलते हैं",
+      "correct": "कर देता है",
+      "count": 2
+    },
+    {
+      "heard": "r mc aayi",
+      "correct": "RMC आई",
+      "count": 2
+    },
+    {
+      "heard": "jcb bhada",
+      "correct": "JCB भाड़ा",
+      "count": 2
+    },
+    {
+      "heard": "dpc dalna",
+      "correct": "DPC डालना",
+      "count": 2
+    },
+    {
+      "heard": "sariya",
+      "correct": "सरिया",
+      "count": 2
+    },
+    {
+      "heard": "crack seal",
+      "correct": "क्रैक सील",
+      "count": 2
+    },
+    {
+      "heard": "expanan joint",
+      "correct": "एक्सपेंशन जॉइंट",
+      "count": 2
+    },
+    {
+      "heard": "kalai karni",
+      "correct": "कलई करनी",
+      "count": 2
+    },
+    {
+      "heard": "khurra bnao",
+      "correct": "खुर्रा बनाओ",
+      "count": 2
+    },
+    {
+      "heard": "oil dalo",
+      "correct": "ऑइल डालो",
+      "count": 2
+    },
+    {
+      "heard": "लाउट कि",
+      "correct": "लाइन",
+      "count": 2
+    },
+    {
+      "heard": "टिकेट",
+      "correct": "टिकट",
+      "count": 2
+    },
+    {
+      "heard": "आप अपने",
+      "correct": "आपने",
+      "count": 2
+    },
+    {
+      "heard": "kavar bhlok",
+      "correct": "कवर ब्लॉक",
+      "count": 2
+    },
+    {
+      "heard": "dg set",
+      "correct": "DG सेट",
+      "count": 2
+    },
+    {
+      "heard": "गैस किट",
+      "correct": "गास्केट",
+      "count": 2
+    },
+    {
+      "heard": "करी",
+      "correct": "कर ही",
+      "count": 2
+    },
+    {
+      "heard": "जाएगा रदी",
+      "correct": "जाइए रेडी",
+      "count": 2
+    },
+    {
+      "heard": "c pvc ppe",
+      "correct": "CPVC पाइप",
+      "count": 2
+    },
+    {
+      "heard": "meter",
+      "correct": "मीटर",
+      "count": 2
+    },
+    {
+      "heard": "जाएगा",
+      "correct": "जाएगी",
+      "count": 2
+    },
+    {
+      "heard": "का",
+      "correct": "की",
+      "count": 2
+    },
+    {
+      "heard": "m sand uje",
+      "correct": "M सैंड यूज़",
+      "count": 2
+    },
+    {
+      "heard": "pvc ka paip",
+      "correct": "PVC का पाइप",
+      "count": 2
+    },
+    {
+      "heard": "अपने",
+      "correct": "हमारे",
+      "count": 2
+    },
+    {
+      "heard": "वह करव ठेकेजारी करव पेंदली",
+      "correct": "ठेकदारी करवाना",
+      "count": 2
+    },
+    {
+      "heard": "मामों",
+      "correct": "मामा",
+      "count": 2
+    },
+    {
+      "heard": "डिवेलपर्स",
+      "correct": "डेवलपर्स",
+      "count": 2
+    },
+    {
+      "heard": "मैं बापा",
+      "correct": "अपने पापा",
+      "count": 2
+    },
+    {
+      "heard": "पाइपर",
+      "correct": "पाइप",
+      "count": 2
+    },
+    {
+      "heard": "डिस्टिल्टिंग",
+      "correct": "डीसिल्टिंग",
+      "count": 2
+    },
+    {
+      "heard": "बीवियां दिए हुजूर",
+      "correct": "बाइंडिंग वायर हुज़ूर",
+      "count": 2
+    },
+    {
+      "heard": "चाते",
+      "correct": "चाहते",
+      "count": 2
+    },
+    {
+      "heard": "जिन्दगी बार",
+      "correct": "ज़िंदगी भर",
+      "count": 2
+    },
+    {
+      "heard": "दोस्ट बन के",
+      "correct": "दोस्त बनकर",
+      "count": 2
+    },
+    {
+      "heard": "हफ़ते पिच्चर जरूर",
+      "correct": "हफ़्ते पिक्चर ज़रूर",
+      "count": 2
+    },
+    {
+      "heard": "टाकी",
+      "correct": "टॉकी",
+      "count": 2
+    },
+    {
+      "heard": "मजाक",
+      "correct": "मज़ाक",
+      "count": 2
+    },
+    {
+      "heard": "रखे हैं",
+      "correct": "रखा है",
+      "count": 2
+    },
+    {
+      "heard": "जलगम पाइन",
+      "correct": "जल निगम पाइप",
+      "count": 2
+    },
+    {
+      "heard": "तो",
+      "correct": "क्या",
+      "count": 2
+    },
+    {
+      "heard": "देवे बी एसनेल",
+      "correct": "BSNL",
+      "count": 2
+    },
+    {
+      "heard": "दे करे",
+      "correct": "दिया करें",
+      "count": 2
+    },
+    {
+      "heard": "भाबी उठाएंगे",
+      "correct": "भाभी उठाएँगी",
+      "count": 2
+    },
+    {
+      "heard": "आपकी",
+      "correct": "आपके",
+      "count": 2
+    },
+    {
+      "heard": "दिखाते",
+      "correct": "दिखते",
+      "count": 2
+    },
+    {
+      "heard": "फारन",
+      "correct": "फॉरेन",
+      "count": 2
+    },
+    {
+      "heard": "अपने से इंवेस्ट",
+      "correct": "इन्वेस्ट",
+      "count": 2
+    },
+    {
+      "heard": "गंट",
+      "correct": "घंटे",
+      "count": 2
+    },
+    {
+      "heard": "जिन्दी की बहर",
+      "correct": "ज़िंदगी भर",
+      "count": 2
+    },
+    {
+      "heard": "खतम",
+      "correct": "खत्म",
+      "count": 2
+    },
+    {
+      "heard": "निप्टा नहीं",
+      "correct": "निपटा देनी",
+      "count": 2
+    },
+    {
+      "heard": "कासम जी",
+      "correct": "कसम से",
+      "count": 2
+    },
+    {
+      "heard": "नौकरियां",
+      "correct": "नौकरियाँ",
+      "count": 2
+    },
+    {
+      "heard": "ढूण पाएंगे",
+      "correct": "ढूँढ पाएँगे",
+      "count": 2
+    },
+    {
+      "heard": "टॉकिज",
+      "correct": "टॉकीज़",
+      "count": 2
+    },
+    {
+      "heard": "दिखाओ",
+      "correct": "दिखाऊँ",
+      "count": 2
+    },
+    {
+      "heard": "वाज़ी",
+      "correct": "वाली",
+      "count": 2
+    },
+    {
+      "heard": "करोड़ पति",
+      "correct": "करोड़पति",
+      "count": 2
+    },
+    {
+      "heard": "सरकेबल",
+      "correct": "सर्कल पर",
+      "count": 2
+    },
+    {
+      "heard": "जाने",
+      "correct": "जाना",
+      "count": 2
+    },
+    {
+      "heard": "सुभा सुभा जागूं तुझ में",
+      "correct": "सुबह सुबह जागूँ तुझमें",
+      "count": 2
+    },
+    {
+      "heard": "तुमने",
+      "correct": "तुम",
+      "count": 2
+    },
+    {
+      "heard": "सब की",
+      "correct": "सबकी",
+      "count": 2
+    },
+    {
+      "heard": "कलेक्टेट",
+      "correct": "कलेक्टरेट",
+      "count": 2
+    },
+    {
+      "heard": "किलर्ग",
+      "correct": "क्लर्क",
+      "count": 2
+    },
+    {
+      "heard": "दिमंजला",
+      "correct": "है दुमंज़िला",
+      "count": 2
+    },
+    {
+      "heard": "इंकम",
+      "correct": "इनकम",
+      "count": 2
+    },
+    {
+      "heard": "बाते चटपट",
+      "correct": "बातें चटपटी",
+      "count": 2
+    },
+    {
+      "heard": "आखे",
+      "correct": "आँखें",
+      "count": 2
+    },
+    {
+      "heard": "तरा",
+      "correct": "तरह",
+      "count": 2
+    },
+    {
+      "heard": "यू हो",
+      "correct": "यूँ ही",
+      "count": 2
+    },
+    {
+      "heard": "हमारा",
+      "correct": "हमारे",
+      "count": 2
+    },
+    {
+      "heard": "रुपए गवा दिया",
+      "correct": "रुपये गँवा दिए",
+      "count": 2
+    },
+    {
+      "heard": "आर्थि",
+      "correct": "आर्थी",
+      "count": 2
+    },
+    {
+      "heard": "भटकूं",
+      "correct": "भटकूँ",
+      "count": 2
+    },
+    {
+      "heard": "आपकी है",
+      "correct": "आपके हैं",
+      "count": 2
+    },
+    {
+      "heard": "छुड़ा के",
+      "correct": "छुड़ाकर",
+      "count": 2
+    },
+    {
+      "heard": "अगली मेंने",
+      "correct": "अगले महीने",
+      "count": 2
+    },
+    {
+      "heard": "ले गया",
+      "correct": "लग गई",
+      "count": 2
+    },
+    {
+      "heard": "चीटफ़ंड",
+      "correct": "चिटफंड",
+      "count": 2
+    },
+    {
+      "heard": "आये",
+      "correct": "आएँ",
+      "count": 2
+    },
+    {
+      "heard": "दजी",
+      "correct": "सजाई",
+      "count": 2
+    },
+    {
+      "heard": "बढ़ाई",
+      "correct": "पढ़ाई",
+      "count": 2
+    },
+    {
+      "heard": "बेस्ट तोड़ी",
+      "correct": "बस थोड़ी",
+      "count": 2
+    },
+    {
+      "heard": "मंगला",
+      "correct": "बंगला",
+      "count": 2
+    },
+    {
+      "heard": "रहा है",
+      "correct": "रहे हैं",
+      "count": 2
+    },
+    {
+      "heard": "घूस",
+      "correct": "गुज़",
+      "count": 2
+    },
+    {
+      "heard": "मुझे में तु",
+      "correct": "मुझमें तू",
+      "count": 2
+    },
+    {
+      "heard": "लिविंग सर्विकिट",
+      "correct": "लीविंग सर्टिफिकेट",
+      "count": 2
+    },
+    {
+      "heard": "मिला",
+      "correct": "मिले",
+      "count": 2
+    },
+    {
+      "heard": "जाओंगा",
+      "correct": "जाऊँगा",
+      "count": 2
+    },
+    {
+      "heard": "गूस",
+      "correct": "घूस",
+      "count": 2
+    },
+    {
+      "heard": "इरजाम",
+      "correct": "इल्ज़ाम",
+      "count": 2
+    },
+    {
+      "heard": "गवर्बमेंट",
+      "correct": "गवर्नमेंट",
+      "count": 2
+    },
+    {
+      "heard": "एकसाइस",
+      "correct": "एक्साइज",
+      "count": 2
+    },
+    {
+      "heard": "रहू",
+      "correct": "रहूँ",
+      "count": 2
+    },
+    {
+      "heard": "बनू",
+      "correct": "बनूँ",
+      "count": 2
+    },
+    {
+      "heard": "पहुंच",
+      "correct": "पहुँच",
+      "count": 2
+    },
+    {
+      "heard": "यूनिवरिसिटी",
+      "correct": "यूनिवर्सिटी",
+      "count": 2
+    },
+    {
+      "heard": "टालेंट",
+      "correct": "टैलेंट",
+      "count": 2
+    },
+    {
+      "heard": "अल्टिमेट",
+      "correct": "अल्टीमेट",
+      "count": 2
+    },
+    {
+      "heard": "पाएंगे",
+      "correct": "पाएँगे",
+      "count": 2
+    },
+    {
+      "heard": "गुजारूँ",
+      "correct": "गुज़ारूँ",
+      "count": 2
+    },
+    {
+      "heard": "है पतंगे",
+      "correct": "हैं पतंगें",
+      "count": 2
+    },
+    {
+      "heard": "result",
+      "correct": "रिज़ल्ट",
+      "count": 2
+    },
+    {
+      "heard": "खाब",
+      "correct": "ख़्वाब",
+      "count": 2
+    },
+    {
+      "heard": "जहर",
+      "correct": "ज़हर",
+      "count": 2
+    },
+    {
+      "heard": "नाक",
+      "correct": "नहाने",
+      "count": 2
+    },
+    {
+      "heard": "नाश्टा",
+      "correct": "नाश्ता",
+      "count": 2
+    },
+    {
+      "heard": "भाग ये",
+      "correct": "भागी",
+      "count": 2
+    },
+    {
+      "heard": "पी सी एस",
+      "correct": "पीसीएस",
+      "count": 2
+    },
+    {
+      "heard": "रुपे",
+      "correct": "रुपये",
+      "count": 2
+    },
+    {
+      "heard": "कार्य हलकट है",
+      "correct": "साला ड्राइवर",
+      "count": 2
+    },
+    {
+      "heard": "मेरे को",
+      "correct": "मुझे",
+      "count": 2
+    },
+    {
+      "heard": "पे छोड़के गए",
+      "correct": "पर छोड़कर गई",
+      "count": 2
+    },
+    {
+      "heard": "रफू चक्कर",
+      "correct": "रफूचक्कर",
+      "count": 2
+    },
+    {
+      "heard": "वोचमेन का नोकरी",
+      "correct": "वॉचमैन की नौकरी",
+      "count": 2
+    },
+    {
+      "heard": "जिंदगी",
+      "correct": "ज़िंदगी",
+      "count": 2
+    },
+    {
+      "heard": "आएंगे",
+      "correct": "आएँगे",
+      "count": 2
+    },
+    {
+      "heard": "आँखे",
+      "correct": "यहाँ",
+      "count": 2
+    },
+    {
+      "heard": "पहन कर",
+      "correct": "पहनकर",
+      "count": 2
+    },
+    {
+      "heard": "लगेगी",
+      "correct": "लगेंगी",
+      "count": 2
+    },
+    {
+      "heard": "सेक्स",
+      "correct": "प्यार",
+      "count": 2
+    },
+    {
+      "heard": "इलजाम",
+      "correct": "इलज़ाम",
+      "count": 2
+    },
+    {
+      "heard": "मत्ते मर देगे",
+      "correct": "माथे पर मार देंगे",
+      "count": 2
+    },
+    {
+      "heard": "टागीस",
+      "correct": "टॉकीज़",
+      "count": 2
+    },
+    {
+      "heard": "छांद",
+      "correct": "चाँद",
+      "count": 2
+    },
+    {
+      "heard": "तुझों",
+      "correct": "तुझमें",
+      "count": 2
+    },
+    {
+      "heard": "फास्टिंग में",
+      "correct": "प्लास्टरिंग",
+      "count": 2
+    },
+    {
+      "heard": "रेस्ट अप का",
+      "correct": "टेस्ट बढ़ा",
+      "count": 2
+    },
+    {
+      "heard": "चक्खा",
+      "correct": "चखा",
+      "count": 2
+    },
+    {
+      "heard": "टिकेट निकाल",
+      "correct": "टिकट निकाली",
+      "count": 2
+    },
+    {
+      "heard": "बाबुराव बाबुराव गणपतर वापते",
+      "correct": "बाबूराव गणपतराव आप्टे",
+      "count": 2
+    },
+    {
+      "heard": "पेस्टरी बिसकुट",
+      "correct": "पेस्ट्री बिस्कुट",
+      "count": 2
+    },
+    {
+      "heard": "लगे",
+      "correct": "रखे",
+      "count": 2
+    },
+    {
+      "heard": "जी आनुराधा",
+      "correct": "ये अनुराधा",
+      "count": 2
+    },
+    {
+      "heard": "लेंगे",
+      "correct": "जाएंगे",
+      "count": 2
+    },
+    {
+      "heard": "पत्वार",
+      "correct": "प्रभावित",
+      "count": 2
+    },
+    {
+      "heard": "उपर",
+      "correct": "ऊपर",
+      "count": 2
+    },
+    {
+      "heard": "bucket",
+      "correct": "बकेट",
+      "count": 2
+    },
+    {
+      "heard": "आफिस",
+      "correct": "ऑफिस",
+      "count": 2
+    },
+    {
+      "heard": "मिना",
+      "correct": "में",
+      "count": 2
+    },
+    {
+      "heard": "छीचा लेडर",
+      "correct": "छीछालेदर",
+      "count": 2
+    },
+    {
+      "heard": "पाइप लाइन",
+      "correct": "पाइपलाइन",
+      "count": 2
+    },
+    {
+      "heard": "मेहमान रही हैं",
+      "correct": "मैडम आई थीं",
+      "count": 2
+    },
+    {
+      "heard": "कंटक्टर",
+      "correct": "कॉन्ट्रैक्टर",
+      "count": 2
+    },
+    {
+      "heard": "वर्क",
+      "correct": "काम",
+      "count": 2
+    },
+    {
+      "heard": "तयार",
+      "correct": "तैयार",
+      "count": 2
+    },
+    {
+      "heard": "तु सुभास आये",
+      "correct": "तू सुबह सा आए",
+      "count": 2
+    },
+    {
+      "heard": "लाइची",
+      "correct": "इलायची",
+      "count": 2
+    },
+    {
+      "heard": "डब्बल",
+      "correct": "डबल",
+      "count": 2
+    },
+    {
+      "heard": "ओफिस किधर रह",
+      "correct": "ऑफिस कहाँ है",
+      "count": 2
+    },
+    {
+      "heard": "बेहतरी ना",
+      "correct": "बढ़िया है",
+      "count": 2
+    },
+    {
+      "heard": "हमारे",
+      "correct": "हम पहले",
+      "count": 2
+    },
+    {
+      "heard": "अलगरेडी",
+      "correct": "अलग ही",
+      "count": 2
+    },
+    {
+      "heard": "आसमां सुतारों",
+      "correct": "आसमान सितारों",
+      "count": 2
+    },
+    {
+      "heard": "बिस जगडे",
+      "correct": "इस झगड़े",
+      "count": 2
+    },
+    {
+      "heard": "बीच",
+      "correct": "बीत",
+      "count": 2
+    },
+    {
+      "heard": "officer",
+      "correct": "ऑफिसर",
+      "count": 2
+    },
+    {
+      "heard": "राइट",
+      "correct": "राफ्ट",
+      "count": 2
+    },
+    {
+      "heard": "बैसे देके",
+      "correct": "पैसे देकर",
+      "count": 2
+    },
+    {
+      "heard": "PCS",
+      "correct": "पीसीएस",
+      "count": 2
+    },
+    {
+      "heard": "एकजाम",
+      "correct": "एग्जाम",
+      "count": 2
+    },
+    {
+      "heard": "उनके इजद करें",
+      "correct": "उनकी इज़्ज़त करे",
+      "count": 2
+    },
+    {
+      "heard": "कहां कहां",
+      "correct": "कहाँ कहाँ",
+      "count": 2
+    },
+    {
+      "heard": "थोड़ा अच्छे",
+      "correct": "थोड़ी अच्छी",
+      "count": 2
+    },
+    {
+      "heard": "मिश्राबाद से डाल",
+      "correct": "मिश्रा बात कर",
+      "count": 2
+    },
+    {
+      "heard": "इतना",
+      "correct": "इतने",
+      "count": 2
+    },
+    {
+      "heard": "बुल",
+      "correct": "बुलावा",
+      "count": 2
+    },
+    {
+      "heard": "दूद पीके",
+      "correct": "दूध पीकर",
+      "count": 2
+    },
+    {
+      "heard": "जाएगे",
+      "correct": "जाएँगे",
+      "count": 2
+    },
+    {
+      "heard": "Rising main",
+      "correct": "राइजिंग मेन",
+      "count": 2
+    },
+    {
+      "heard": "school",
+      "correct": "इशू",
+      "count": 2
+    },
+    {
+      "heard": "कहां",
+      "correct": "कहाँ",
+      "count": 2
+    },
+    {
+      "heard": "माई",
+      "correct": "मेरे",
+      "count": 2
+    },
+    {
+      "heard": "बच्पन",
+      "correct": "बचपन",
+      "count": 2
+    },
+    {
+      "heard": "पिच्चर",
+      "correct": "पिक्चर",
+      "count": 2
+    },
+    {
+      "heard": "शौग",
+      "correct": "शौक",
+      "count": 2
+    },
+    {
+      "heard": "पीएचई",
+      "correct": "PHE",
+      "count": 2
+    },
+    {
+      "heard": "लीजे",
+      "correct": "लीजिए",
+      "count": 2
+    },
+    {
+      "heard": "ब्रेक",
+      "correct": "ब्रिक",
+      "count": 2
+    },
+    {
+      "heard": "जो भी आए",
+      "correct": "लेआउट",
+      "count": 2
+    },
+    {
+      "heard": "रही थी",
+      "correct": "रहा था",
+      "count": 2
+    },
+    {
+      "heard": "printer",
+      "correct": "पेंटर",
+      "count": 2
+    },
+    {
+      "heard": "व्हाटसएप",
+      "correct": "व्हाट्सऐप",
+      "count": 2
+    },
+    {
+      "heard": "ऊंचा अपन",
+      "correct": "वहां अपना",
+      "count": 2
+    },
+    {
+      "heard": "form",
+      "correct": "इन्फॉर्म",
+      "count": 2
+    },
+    {
+      "heard": "पंचाहित",
+      "correct": "परेशान",
+      "count": 2
+    },
+    {
+      "heard": "किलों",
+      "correct": "किलो",
+      "count": 2
+    },
+    {
+      "heard": "लगटी",
+      "correct": "लकड़ी",
+      "count": 2
+    },
+    {
+      "heard": "जितोही",
+      "correct": "टोटी",
+      "count": 2
+    },
+    {
+      "heard": "दीजे",
+      "correct": "दीजिए",
+      "count": 2
+    },
+    {
+      "heard": "चलाएगी",
+      "correct": "चालू किये",
+      "count": 2
+    },
+    {
+      "heard": "party",
+      "correct": "प्रोजेक्ट",
+      "count": 2
+    },
+    {
+      "heard": "पदायिला",
+      "correct": "पीएचई",
+      "count": 2
+    },
+    {
+      "heard": "school में",
+      "correct": "इशू",
+      "count": 2
+    },
+    {
+      "heard": "outer",
+      "correct": "आउटर",
+      "count": 2
+    },
+    {
+      "heard": "जीजा",
+      "correct": "जी",
+      "count": 2
+    },
+    {
+      "heard": "साइड",
+      "correct": "साइट पर",
+      "count": 2
+    },
+    {
+      "heard": "रस्तंकर",
+      "correct": "रामशंकर",
+      "count": 2
+    },
+    {
+      "heard": "कबू",
+      "correct": "का वो",
+      "count": 2
+    },
+    {
+      "heard": "सपनावान",
+      "correct": "सपनावा",
+      "count": 2
+    },
+    {
+      "heard": "कांजस",
+      "correct": "कॉम्प्लेक्स",
+      "count": 2
+    },
+    {
+      "heard": "सूफियां",
+      "correct": "प्रोजेक्ट",
+      "count": 2
+    },
+    {
+      "heard": "जिरू",
+      "correct": "जीरो",
+      "count": 2
+    },
+    {
+      "heard": "पांचवीं",
+      "correct": "पाइपलाइन",
+      "count": 2
+    },
+    {
+      "heard": "लगा कभी",
+      "correct": "लगाकर बताता हूँ",
+      "count": 2
+    },
+    {
+      "heard": "दलदल",
+      "correct": "नल जल",
+      "count": 2
+    },
+    {
+      "heard": "पर यादव",
+      "correct": "परियोजना",
+      "count": 2
+    },
+    {
+      "heard": "teacher",
+      "correct": "ठेकेदार",
+      "count": 2
+    },
+    {
+      "heard": "लेंग",
+      "correct": "लेइंग",
+      "count": 2
+    },
+    {
+      "heard": "भूजूर",
+      "correct": "हुज़ूर",
+      "count": 2
+    },
+    {
+      "heard": "policy",
+      "correct": "पॉलिसी",
+      "count": 2
+    },
+    {
+      "heard": "अजीब",
+      "correct": "राजीव",
+      "count": 2
+    },
+    {
+      "heard": "डबूल",
+      "correct": "डबल",
+      "count": 2
+    },
+    {
+      "heard": "ज्वाद",
+      "correct": "जॉइनिंग",
+      "count": 2
+    },
+    {
+      "heard": "रोजनी",
+      "correct": "रोशनी",
+      "count": 2
+    },
+    {
+      "heard": "c lft",
+      "correct": "शिफ्ट",
+      "count": 2
+    },
+    {
+      "heard": "pipe",
+      "correct": "Pipe",
+      "count": 2
+    }
+  ]
+}

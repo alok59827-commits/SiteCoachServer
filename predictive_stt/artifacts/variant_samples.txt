@@ -1,0 +1,195 @@
+
+━━━ शटरिंग ━━━
+  [GT  ] स्टटरिंग                       score=1.00  ×139
+  [GT  ] Shuttering                     score=0.68  ×2
+  [GT  ] Stuttering                     score=0.68  ×2
+  [GT  ] shuttering                     score=0.68  ×2
+  [SYN ] शटरिग                          score=0.94
+  [SYN ] स्टटरिग                        score=0.39
+  [SYN ] शर्टरिंग                       score=0.33
+  [SYN ] शर्टरिग                        score=0.31
+
+━━━ पेमेंट ━━━
+  [GT  ] पे मिंट                        score=1.00  ×52
+  [GT  ] पी मिंट                        score=1.00  ×45
+  [GT  ] Pay mint                       score=0.68  ×2
+  [GT  ] Pea mint                       score=0.68  ×2
+  [GT  ] सीमेंट                         score=0.68  ×2
+  [SYN ] पामेंट                         score=0.66
+  [SYN ] पेमिंट                         score=0.55
+  [SYN ] पामिंट                         score=0.36
+
+━━━ ट्रांसफार्मर ━━━
+  [GT  ] डांस फार्मर                    score=1.00  ×122
+  [SYN ] ट्रांसफारूर                    score=1.00
+  [SYN ] ट्रांसiर्मर                    score=1.00
+  [SYN ] ट्रांसiरूर                     score=1.00
+  [SYN ] डांसफार्मर                     score=1.00
+  [SYN ] डांसफारूर                      score=1.00
+  [SYN ] डांसiर्मर                      score=1.00
+  [SYN ] ट्रांशफार्मर                   score=0.60
+
+━━━ पीएचई ━━━
+  [GT  ] पीच ही                         score=1.00  ×98
+  [GT  ] पी ए च                         score=1.00  ×78
+  [GT  ] पदायिला                        score=0.72  ×3
+  [GT  ] PHE                            score=0.68  ×2
+  [GT  ] PA ch                          score=0.68  ×2
+  [GT  ] PH he                          score=0.68  ×2
+  [GT  ] Peach he                       score=0.68  ×2
+  [SYN ] एएचई                           score=0.70
+
+━━━ सरिया ━━━
+  [GT  ] शरीर                           score=1.00  ×425
+  [GT  ] sariya                         score=0.76  ×4
+  [GT  ] में शरीर                       score=0.68  ×2
+  [SYN ] सरीया                          score=0.96
+  [SYN ] सरिर                           score=0.90
+  [SYN ] सरीर                           score=0.86
+  [SYN ] शरिया                          score=0.60
+  [SYN ] शरीया                          score=0.58
+
+━━━ केवी ━━━
+  [GT  ] कीवी                           score=1.00  ×177
+  [SYN ] चवी                            score=0.20
+  [SYN ] कवी                            score=0.17
+
+━━━ कम्पेक्शन ━━━
+  [GT  ] कम एक्शन                       score=1.00  ×145
+  [SYN ] कमक्शन                         score=1.00
+  [SYN ] ॉम्पेक्शन                      score=0.20
+  [SYN ] ॉमक्शन                         score=0.20
+  [SYN ] केम्पेक्शन                     score=0.15
+  [SYN ] केमक्शन                        score=0.15
+  [SYN ] कम्पेक्शi                      score=0.13
+  [SYN ] कमक्शi                         score=0.13
+
+━━━ जेसीबी ━━━
+  [GT  ] जूसी                           score=1.00  ×55
+  [GT  ] जे एस बी                       score=1.00  ×54
+  [GT  ] जय सी बी                       score=1.00  ×29
+  [GT  ] जे सी बी                       score=1.00  ×21
+  [GT  ] Jesse B                        score=0.68  ×2
+  [GT  ] Juicy                          score=0.68  ×2
+  [GT  ] JCP                            score=0.68  ×2
+  [GT  ] Jay CB                         score=0.68  ×2
+
+━━━ सबमर्सिबल ━━━
+  [GT  ] समरसेब                         score=1.00  ×100
+  [GT  ] समर्सबल                        score=1.00  ×76
+  [SYN ] शबमर्सिबल                      score=0.60
+  [SYN ] सबमरबल                         score=0.56
+  [SYN ] सबमर्सबल                       score=0.41
+  [SYN ] सबमर्सिब्जील                   score=0.34
+  [SYN ] सब्जीमर्सिबल                   score=0.34
+  [SYN ] शबमरबल                         score=0.33
+
+━━━ कंक्रीट ━━━
+  [GT  ] कॉन क्रिएट                     score=1.00  ×75
+  [GT  ] कॉंग क्रिएट                    score=1.00  ×67
+  [GT  ] Concrete                       score=0.68  ×2
+  [GT  ] Kong create                    score=0.68  ×2
+  [GT  ] Con create                     score=0.68  ×2
+  [SYN ] कक्रीट                         score=0.68
+  [SYN ] कंॉट                           score=0.53
+  [SYN ] कंॉंट                          score=0.47
+
+━━━ एमबी ━━━
+  [GT  ] एम बी                          score=1.00  ×90
+  [SYN ] एमभी                           score=0.39
+  [SYN ] एढबी                           score=0.31
+  [SYN ] एमैंबी                         score=0.28
+  [SYN ] एमब्बा                         score=0.27
+  [SYN ] इमबी                           score=0.19
+  [SYN ] एरबी                           score=0.14
+  [SYN ] एढभी                           score=0.12
+
+━━━ ठेकेदार ━━━
+  [GT  ] टीचर                           score=1.00  ×62
+  [GT  ] टेक अ दर                       score=1.00  ×49
+  [GT  ] teacher                        score=0.76  ×4
+  [GT  ] कांट्रेक्टर                    score=0.76  ×4
+  [GT  ] thekadr                        score=0.68  ×2
+  [GT  ] Thekedar                       score=0.68  ×2
+  [GT  ] Tekdar                         score=0.68  ×2
+  [GT  ] Take a dar                     score=0.68  ×2
+
+━━━ बैचिंग ━━━
+  [GT  ] मैचिंग                         score=1.00  ×84
+  [SYN ] बैशग                           score=0.60
+  [SYN ] बैनग                           score=0.40
+  [SYN ] ब्लाचिंग                       score=0.37
+  [SYN ] गैचिंग                         score=0.31
+  [SYN ] बैचिंक                         score=0.27
+  [SYN ] ब्लाशग                         score=0.22
+  [SYN ] मैशग                           score=0.19
+
+━━━ अलाइनमेंट ━━━
+  [GT  ] ऑनलाइन मेंट                    score=1.00  ×89
+  [GT  ] alignment                      score=0.68  ×2
+  [GT  ] एलाइनमेंट                      score=0.68  ×2
+  [SYN ] अलाइनमिंट                      score=0.55
+  [SYN ] अलाइनमेंर्ट                    score=0.33
+  [SYN ] आलाइनमेंट                      score=0.32
+  [SYN ] ऑलाइनमेंट                      score=0.29
+  [SYN ] अलाइनमंट                       score=0.29
+
+━━━ रोलर ━━━
+  [GT  ] रूलर                           score=1.00  ×141
+  [GT  ] roller                         score=0.68  ×2
+  [SYN ] रोल़                           score=0.22
+  [SYN ] रूल़                           score=0.20
+  [SYN ] रोलोर                          score=0.19
+  [SYN ] रूलोर                          score=0.18
+  [SYN ] रोल्लर                         score=0.18
+  [SYN ] रूल्लर                         score=0.16
+
+━━━ वाइब्रेटर ━━━
+  [GT  ] वाई ब्रेटर                     score=1.00  ×77
+  [GT  ] baibrater                      score=0.68  ×2
+  [GT  ] Vibrator                       score=0.68  ×2
+  [GT  ] Why brater                     score=0.68  ×2
+  [SYN ] वाइबेटर                        score=1.00
+  [SYN ] वाइब्रेर्टर                    score=0.33
+  [SYN ] वाइबेर्टर                      score=0.33
+  [SYN ] वाइब्रेट़                      score=0.22
+
+━━━ टाइल्स ━━━
+  [GT  ] टायर्स                         score=1.00  ×121
+  [SYN ] टाइर्स                         score=1.00
+  [SYN ] पाइल्स                         score=0.94
+  [SYN ] पाइर्स                         score=0.94
+  [SYN ] टाईल्स                         score=0.20
+  [SYN ] टाईर्स                         score=0.20
+  [SYN ] पाईल्स                         score=0.18
+  [SYN ] टापाल्स                        score=0.11
+
+━━━ गर्डर ━━━
+  [GT  ] गड़बड़                         score=1.00  ×193
+  [SYN ] गडर                            score=0.98
+  [SYN ] कर्डर                          score=0.27
+  [SYN ] कडर                            score=0.26
+  [SYN ] गर्ड़                          score=0.22
+  [SYN ] गड़                            score=0.22
+  [SYN ] एर्डर                          score=0.18
+  [SYN ] एडर                            score=0.18
+
+━━━ अजगरहा ━━━
+  [GT  ] जगह रहा छब्बीस                 score=1.00  ×91
+  [GT  ] अजगरह                          score=0.68  ×2
+  [GT  ] आज का रहा छब्बीस               score=0.68  ×2
+  [SYN ] आजगरहा                         score=0.32
+  [SYN ] ऑजगरहा                         score=0.29
+  [SYN ] अजकरहा                         score=0.27
+  [SYN ] अजूगरहा                        score=0.23
+  [SYN ] अदिगरहा                        score=0.23
+
+━━━ पाइप लाइन ━━━
+  [GT  ] पिन                            score=1.00  ×113
+  [GT  ] pin                            score=0.68  ×2
+  [GT  ] Piper line                     score=0.68  ×2
+  [GT  ] Pine line                      score=0.68  ×2
+  [GT  ] Papa line                      score=0.68  ×2
+  [GT  ] pipe line                      score=0.68  ×2
+  [SYN ] पिइप लाइन                      score=0.71
+  [SYN ] पाइपो लाइन                     score=0.24
